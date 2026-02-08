@@ -133,9 +133,10 @@ def main():
         for en, zh in zip(batch, res):
             if zh.strip():
                 cache[en] = format_hanzi_pinyin(zh)
-        if i % (BATCH_SIZE * 10) == 0:
-            save_cache(cache)
-            print(f'Progress: {i}/{len(uniq)}')
+
+        # checkpoint every batch so interrupted runs can resume safely
+        save_cache(cache)
+        print(f'Progress: {min(i + BATCH_SIZE, len(uniq))}/{len(uniq)}')
 
     save_cache(cache)
 

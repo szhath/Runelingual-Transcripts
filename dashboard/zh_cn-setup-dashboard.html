@@ -1,0 +1,78 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>RuneLingual zh_cn Setup Dashboard</title>
+  <style>
+    body{font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:#0f1115;color:#e9edf1;margin:0}
+    .wrap{max-width:980px;margin:0 auto;padding:20px}
+    h1{margin:0 0 8px}.sub{color:#9fb0c3}
+    .card{background:#171b22;border:1px solid #2a3340;border-radius:12px;padding:14px;margin:12px 0}
+    code,pre{background:#0c0f14;color:#d6e2f1;border:1px solid #2a3340;border-radius:8px;padding:2px 6px}
+    pre{padding:10px;overflow:auto}
+    .ok{color:#6dd58c}.warn{color:#ffd166}
+    ul{margin:8px 0 0 18px}
+  </style>
+</head>
+<body>
+<div class="wrap">
+  <h1>zh_cn (Mandarin + Pinyin) Dashboard</h1>
+  <div class="sub">Goal: no in-game lag by prebuilding translation assets (no runtime web translation).</div>
+
+  <div class="card">
+    <h3>No-lag architecture</h3>
+    <ul>
+      <li class="ok">Use prebuilt <b>TSV + hash</b> files in <code>public/zh_cn</code>.</li>
+      <li class="ok">Optional prebuilt <b>char_zh_cn.zip</b> for character-image rendering.</li>
+      <li class="warn">Do <b>not</b> translate live while playing.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Current status</h3>
+    <ul>
+      <li class="ok">zh_cn updater support added</li>
+      <li class="ok">draft/zh_cn scaffold generated (.xlsx + .xliff)</li>
+      <li class="ok">draft + public TSV package generated</li>
+      <li class="ok">public/zh_cn hashList generated</li>
+      <li class="ok">zh_cn font staged: <code>updater/fonts/zh_cn/Hiragino Sans GB.ttc</code></li>
+      <li class="warn">Full Hanzi+Pinyin translation pass still needs to complete</li>
+      <li class="warn">char_zh_cn.zip still needs generation after translation pass</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h3>Next steps (copy/paste)</h3>
+    <pre>cd ~/.openclaw/workspace/Runelingual-Transcripts/updater
+
+# 1) Run/Resume Hanzi+Pinyin translation in chunks (safe to rerun)
+PYTHONUNBUFFERED=1 ZH_MAX_NEW=3000 ZH_BATCH_SIZE=25 ZH_SLEEP_SEC=0.15 python3 translate_zh_cn_pinyin.py
+
+# 2) Generate TSV files for zh_cn
+printf '7\nx\n' | python3 generate_tsv.py
+
+# 3) Build char list from translated data
+python3 build_char_list_zh_cn.py
+
+# 4) Generate char_zh_cn.zip (interactive)
+python3 update_char_images.py
+# choose zh_cn language index, then Hiragino Sans GB font index
+
+# 5) Copy to public and refresh hashes
+rsync -av --exclude '*.xlsx' ../draft/zh_cn/ ../public/zh_cn/
+python3 update_hash.py</pre>
+  </div>
+
+  <div class="card">
+    <h3>Where files are</h3>
+    <ul>
+      <li><code>draft/zh_cn/</code> = working assets</li>
+      <li><code>public/zh_cn/</code> = deploy-ready local package</li>
+      <li><code>updater/translate_zh_cn_pinyin.py</code> = Hanzi + Pinyin formatter</li>
+      <li><code>updater/zh_cn_workflow.md</code> = concise runbook</li>
+    </ul>
+  </div>
+</div>
+</body>
+</html>
