@@ -1,0 +1,2 @@
+# Placeholder mapping for zh_cn
+# Populate when/if using character-image input mapping in plugin.
