@@ -1,0 +1,6 @@
+#FileLock
+#Mon Feb 09 20:32:00 CST 2026
+server=192.168.4.31\:57443
+hostName=192.168.4.31
+method=file
+id=19c4564344764aff19205f241ab79d6544f23b6f0a1

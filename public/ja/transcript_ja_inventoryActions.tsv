@@ -1,541 +1,516 @@
 english	translation	category	sub_category	source
-Destroy	破壊	inventoryActions	item	Dwarf remains
-Drop	を落とす	inventoryActions	item	Cannonball
-Read	読む	inventoryActions	item	Nulodion's notes
-Set-up	設置	inventoryActions	item	Cannon base
-Blow	吹く	inventoryActions	item	Magic whistle
-Ring	鳴らす	inventoryActions	item	Grail bell
-Blow-on	吹く	inventoryActions	item	Magic gold feather
-Extinguish	消火	inventoryActions	item	Lit black candle
-Wield	装備	inventoryActions	item	Excalibur
-Wear	着る	inventoryActions	item	Khazard helmet
-Empty	を空にする	inventoryActions	item	Guam potion (unf)
-Drink	飲む	inventoryActions	item	Strength potion(4)
-Clean	綺麗にする	inventoryActions	item	Grimy guam leaf
-Eat	食べる	inventoryActions	item	Jangerberries
-Equip	装備	inventoryActions	item	Cattleprod
-Plant	植える	inventoryActions	item	Mithril seeds
-Open	開く	inventoryActions	item	Casket
-Throw	投げる	inventoryActions	item	Bird feed
-Bury	埋める	inventoryActions	item	Bones
-Inspect	調べる	inventoryActions	item	Ghost's skull
-Bail-with	で排水	inventoryActions	item	Bailing bucket
-Activate	発動	inventoryActions	item	Locating crystal
-Search	探す	inventoryActions	item	Panning tray
-Polish	磨く	inventoryActions	item	Buttons
-Look-at	見る	inventoryActions	item	Level 1 certificate
-Complete	達成	inventoryActions	item	Radimus notes
-Swing	振り渡る	inventoryActions	item	Bullroarer
-Look	見る	inventoryActions	item	Sketch
-Enchant-Vials	試薬瓶に魔法を付与	inventoryActions	item	Binding book
-Investigate	調査する	inventoryActions	item	Dark dagger
-Cast Spell	魔法をかける	inventoryActions	item	Holy force
-Hold	掴む	inventoryActions	item	Gnomeball
-Dig	掘る	inventoryActions	item	Spade
-Blackout	ブラックアウト	inventoryActions	item	Disk of returning
-Check	確認	inventoryActions	item	Iban's staff
-Locate	方向確認	inventoryActions	item	Air talisman
-Rub-together	こすり合う	inventoryActions	item	Dry sticks
-Study	調べる	inventoryActions	item	Map part
-Rub	こする	inventoryActions	item	Amulet of glory
-Empty Bowl	ボールを空にする	inventoryActions	item	Burnt stew
-Mix-cocktail	カクテルを混ぜる	inventoryActions	item	Cocktail shaker
-Remove-legs	足を取る	inventoryActions	item	Swamp toad
-Prepare	準備	inventoryActions	item	Half baked bowl
-Empty Tray	トレーを空にする	inventoryActions	item	Burnt crunchies
-Empty Tin	缶	inventoryActions	item	Burnt batta
-Empty Dish	皿をキレイにする	inventoryActions	item	Burnt pie
-Guzzle	がつがつ食べる	inventoryActions	item	Rock cake
-Play-with	で遊ぶ	inventoryActions	item	Brown toy horsey
-Break	壊す	inventoryActions	item	Ring of recoil
-Toggle-respawn	リスポーン切り替え	inventoryActions	item	Ring of life
-Features	機能	inventoryActions	item	Ring of wealth
-Look through	越しに見る	inventoryActions	item	Sextant
-Check steps	のステップを確認	inventoryActions	item	Clue scroll (easy)
-Release All	を全て開放	inventoryActions	item	Bloated toad
-Release	開放	inventoryActions	item	Bloated toad
-Check kills	キル数確認	inventoryActions	item	Ogre bow
-Fill	満たす	inventoryActions	item	Druid pouch
-Cast Bloom	咲く魔法	inventoryActions	item	Silver sickle (b)
-Cast	投げる	inventoryActions	item	Druidic spell
-Debug	デバッグ	inventoryActions	item	Boss helper tool
-Play	プレイ	inventoryActions	item	Lyre
-Interact	やり取りをする	inventoryActions	item	Pet rock
-Shake	揺らす	inventoryActions	item	Vase
-Remove-lid	フタを取る	inventoryActions	item	Sealed vase
-Preach	説教	inventoryActions	item	Holy book
-View	見る	inventoryActions	item	Spare controls
-Listen	聴く	inventoryActions	item	Monkey dentures
-Poke	突く	inventoryActions	item	Monkey
-Heal	回復	inventoryActions	item	Bandages
-Loop	ループ	inventoryActions	item	Yo-yo
-Walk	ウォーク	inventoryActions	item	Yo-yo
-Crazy	クレイジー	inventoryActions	item	Yo-yo
-Ride	乗る	inventoryActions	item	Sled
-Partner	ペア	inventoryActions	item	Enchanted gem
-Log	ログ	inventoryActions	item	Enchanted gem
-Repair	修復	inventoryActions	item	Model ship
-Follow	追う	inventoryActions	item	Treasure map
-Count	数える	inventoryActions	item	Petition form
-Check-keys	カギを確認	inventoryActions	item	Steel key ring
-Dance	踊る	inventoryActions	item	Rubber chicken
-Assemble	組み立てる	inventoryActions	item	Base schematics
-Spin	回す	inventoryActions	item	Spinning plate
-Remove-one	から一つ取る	inventoryActions	item	Apples(2)
-Build	組み立てる	inventoryActions	item	Rogue kit
-Use	使う	inventoryActions	item	Null
-Slice	スライス	inventoryActions	item	Rotten potato
-Peel	むく	inventoryActions	item	Rotten potato
-Mash	を潰す	inventoryActions	item	Rotten potato
-Lletya	レティア	inventoryActions	item	Teleport crystal (4)
-Prifddinas	プリフディナス	inventoryActions	item	Teleport crystal (4)
-Toggle	切り替える	inventoryActions	item	Teleport crystal (4)
-Uncharge	チャージ解除	inventoryActions	item	Broodoo shield (10)
-Scan	スキャン	inventoryActions	item	Commorb
-Contact	で連絡	inventoryActions	item	Commorb
-Playback	で再生	inventoryActions	item	Commorb
-Talk-At	に話しかける	inventoryActions	item	Fishbowl
-Play-With	で遊ぶ	inventoryActions	item	Fishbowl
-Feed	エサを与える	inventoryActions	item	Fishbowl
-Untangle	ほどく	inventoryActions	item	Fishbowl and net
-Check-charge	チャージ確認	inventoryActions	item	Camulet
-Display	示す	inventoryActions	item	Zombie head
-Question	質問する	inventoryActions	item	Zombie head
-Chant	唱える	inventoryActions	item	Demonic sigil
-Feel	を手で感じる	inventoryActions	item	Enchanted key
-Remove-rat	ネズミを取る	inventoryActions	item	Rat pole
-Jump	ジャンプ	inventoryActions	item	Blue marionette
-Bow	お辞儀する	inventoryActions	item	Blue marionette
-Talk-to	話しかける	inventoryActions	item	Progress hat
-Return	戻る	inventoryActions	item	Prison key
-Smell	の匂いをかぐ	inventoryActions	item	Spicy stew
-Release-all	を全て開放	inventoryActions	item	Balloon toad
-Wind	巻く	inventoryActions	item	Toy soldier
-Separate	を別ける	inventoryActions	item	Kbd heads
-Unstuff	の中身を取る	inventoryActions	item	Stuffed crawling hand
-Varrock	ヴァロック	inventoryActions	item	Varrock teleport
-Grand Exchange	グランド・エクスチェンジ	inventoryActions	item	Varrock teleport
-Camelot	カメロット	inventoryActions	item	Camelot teleport
-Seers' Village	シアーズ村	inventoryActions	item	Camelot teleport
-Watchtower	監視塔	inventoryActions	item	Watchtower teleport
-Yanille	ヤニル	inventoryActions	item	Watchtower teleport
-Inside	中	inventoryActions	item	Teleport to house
-Outside	外	inventoryActions	item	Teleport to house
-Group	グループ	inventoryActions	item	Teleport to house
-Info	情報	inventoryActions	item	Enchant sapphire or opal
-Dust-hands	粉を手に付ける	inventoryActions	item	Ground ashes
-Talk-To	話しかける	inventoryActions	item	Monkey
-Invoke	を発動	inventoryActions	item	Skull sceptre
-Divine	の残量確認	inventoryActions	item	Skull sceptre
-Convert	変換	inventoryActions	item	Pharaoh's sceptre
-Launch	放つ	inventoryActions	item	Grand seed pod
-Squash	潰す	inventoryActions	item	Grand seed pod
-Pour	注ぐ	inventoryActions	item	Mixed blizzard
-Add-ingreds	に材料を追加	inventoryActions	item	Mixed saturday
-Unpack	取り出す	inventoryActions	item	Proselyte harness m
-Shape-Earth	土の形	inventoryActions	item	Page 1
-Shape-Air	大気の形	inventoryActions	item	Page 1
-Shape-Fire	火の形	inventoryActions	item	Page 2
-Shape-Water	水の形	inventoryActions	item	Page 2
-Shape-Mind	心の形	inventoryActions	item	Page 3
-Teleport	ワープ	inventoryActions	item	Strength cape
-Toggle Effect	の効果を切り替える	inventoryActions	item	Defence cape
-Toggle Respawn	リスポーン地点を切り替える	inventoryActions	item	Defence cape
-Commune	交信する	inventoryActions	item	Ranging cape
-Spellbook	魔導書を変更	inventoryActions	item	Magic cape
-Stamina Boost	スタミナをブースト	inventoryActions	item	Agility cape
-Tele to POH	家にワープ	inventoryActions	item	Construct. cape
-Fishing Guild	釣りギルド	inventoryActions	item	Fishing cape
-Otto's Grotto	オットーの洞穴	inventoryActions	item	Fishing cape
-Trim	縁取る	inventoryActions	item	Quest point cape
-Load	装填	inventoryActions	item	White destabiliser
-Split	別ける	inventoryActions	item	Cap and goggles
-Lay	備える	inventoryActions	item	Bird snare
-Check totals	合計値を確認	inventoryActions	item	Butterfly net
-Bank	銀行	inventoryActions	item	Imp-in-a-box(2)
-Translate	翻訳	inventoryActions	item	Research notes
-Write-Role	役割を書く	inventoryActions	item	Scroll
-Clear	キレイにする	inventoryActions	item	Scroll
-Tell-red	赤と言う	inventoryActions	item	Attacker horn
-Tell-green	緑と言う	inventoryActions	item	Attacker horn
-Tell-blue	青と言う	inventoryActions	item	Attacker horn
-Medic	衛生兵	inventoryActions	item	Attacker horn
-Look-in	中を見る	inventoryActions	item	Collection bag
-Tell-tofu	豆腐と言う	inventoryActions	item	Healer horn
-Tell-crackers	クラッカーと言う	inventoryActions	item	Healer horn
-Tell-worms	虫と言う	inventoryActions	item	Healer horn
-Tell-meat	肉と言う	inventoryActions	item	Defender horn
-Tell-controlled	バランスと言う	inventoryActions	item	Collector horn
-Tell-accurate	正確と言う	inventoryActions	item	Collector horn
-Tell-aggressive	強引と言う	inventoryActions	item	Collector horn
-Tell-defensive	守勢と言う	inventoryActions	item	Collector horn
-Check tax	税金を確認	inventoryActions	item	Empty tax bag
-Check taxes	税金を確認	inventoryActions	item	Bulging taxbag
-Pray-over	に祈る	inventoryActions	item	Blessed lamp
-Recite-prayer	祈りを唱える	inventoryActions	item	Prayer book
-Operate	操作	inventoryActions	item	Beacon ring
-Gem Mine	宝石採掘所	inventoryActions	item	Karamja gloves 3
-Loot	アイテムを回収	inventoryActions	item	Baby impling jar
-Impling-jar	子悪魔の瓶	inventoryActions	item	Jar generator
-Butterfly-jar	チョウの瓶	inventoryActions	item	Jar generator
-Toggle-view	見た目の切り替え	inventoryActions	item	Impling scroll
-Copy to log	ログに映す	inventoryActions	item	Ancient page
-Discard	破棄	inventoryActions	item	Anti-dragon shield (nz)
-Take-one	１つとる	inventoryActions	item	Herb box
-Bank-all	全て銀行へ	inventoryActions	item	Herb box
-Refund	返金	inventoryActions	item	Scroll of redirection
-Revert	戻す	inventoryActions	item	Rimmington teleport
-Dismantle	除去する	inventoryActions	item	Armadyl godsword
-Disassemble	を分解	inventoryActions	item	Slayer helmet
-Deposit	預ける	inventoryActions	item	Looting bag
-Settings	設定	inventoryActions	item	Looting bag
-Spawn Item	蘇生アイテム	inventoryActions	item	Holiday tool
-Dissolve	溶かす	inventoryActions	item	Abyssal tentacle
-Check completion	完成度を確認	inventoryActions	item	Challenge scroll (elite)
-Check rank	ランクを確認	inventoryActions	item	Druidic wreath
-Configure	設定	inventoryActions	item	Annakarl teleport
-Extract	抽出	inventoryActions	item	Nest box (empty)
-Unload	取り出す	inventoryActions	item	Toxic blowpipe
-Untrim	縁を取る	inventoryActions	item	Quest point cape (t)
-Duradel	ヅラデル	inventoryActions	item	Karamja gloves 4
-Ecto Teleport	でエクトーヘワープ	inventoryActions	item	Morytania legs 1
-Burgh Teleport	でバーグにワープ	inventoryActions	item	Morytania legs 3
-Activity	活動	inventoryActions	item	Bonecrusher
-Recharge-prayer	祈力を回復	inventoryActions	item	Falador shield 1
-Monastery Teleport	で修道院にワープ	inventoryActions	item	Ardougne cloak 1
-Farm Teleport	で農場にワープ	inventoryActions	item	Ardougne cloak 2
-Energy	エネルギー	inventoryActions	item	Explorer's ring 1
-Alchemy	錬金術	inventoryActions	item	Explorer's ring 1
-Functions	機能	inventoryActions	item	Explorer's ring 2
-Nardah	ナーダ	inventoryActions	item	Desert amulet 4
-Kalphite cave	カルファイトの洞窟	inventoryActions	item	Desert amulet 4
-Emote	エモート	inventoryActions	item	Diango's claws
-Redeem	引き換える	inventoryActions	item	Old school bond
-Restore	回復	inventoryActions	item	Tanzanite helm (uncharged)
-Scramble	スクランブル	inventoryActions	item	Rotten egg
-Poach	ポーチ	inventoryActions	item	Rotten egg
-Fry	揚げる	inventoryActions	item	Rotten egg
-Pickle	漬物	inventoryActions	item	Rotten egg
-Consume	消費	inventoryActions	item	Saradomin's light
-Teleports	ワープ	inventoryActions	item	Max cape
-Metamorphosis	変身	inventoryActions	item	Beaver
-Chew	かむ	inventoryActions	item	Rotten onion
-Take-grubs	食べ物を取る	inventoryActions	item	Bucket of sandworms
-Pack	詰める	inventoryActions	item	Shayzien supply crate
-Check charges	チャージ確認	inventoryActions	item	Chronicle
-Transform	変身	inventoryActions	item	Monkey
-Lap-count	周回数	inventoryActions	item	Monkey
-Combine	組み合わせる	inventoryActions	item	Torn clue scroll (part 1)
-Recoil settings	反射の設定	inventoryActions	item	Ring of suffering (r)
-Pages	ページ	inventoryActions	item	Tome of fire
-Invigorate	活性化	inventoryActions	item	Imbued heart
-Look at	見る	inventoryActions	item	Snow globe
-Snow	雪	inventoryActions	item	Snow globe
-Options	設定	inventoryActions	item	Amulet of chemistry
-Change-style	見た目を変更	inventoryActions	item	Rainbow scarf
-Chill	チル	inventoryActions	item	Hand fan
-Remove default	即値を除く	inventoryActions	item	Master scroll book
-Throw-water	水を投げる	inventoryActions	item	Heat-proof vessel
-Throw-water direction	水を投げる方向	inventoryActions	item	Heat-proof vessel
-Check-level	レベルを確認	inventoryActions	item	Heat-proof vessel
-Roll	転がす	inventoryActions	item	Hoop snake
-Channel	転換	inventoryActions	item	Merfolk trident
-Puff	空気を抜く	inventoryActions	item	Pufferfish
-Take fish	魚を取る	inventoryActions	item	Bowl of fish
-Reminisce	思い出にふける	inventoryActions	item	Kharedst's memoirs
-Toggle-absorption	吸収の切り替え	inventoryActions	item	Bracelet of ethereum
-Elite	超級	inventoryActions	item	Useful rock
-Master	達人	inventoryActions	item	Useful rock
-Assessment	アセスメント	inventoryActions	item	Useful rock
-Control	操作	inventoryActions	item	Rotten cabbage
-Spectate	観戦	inventoryActions	item	Rotten cabbage
-Charge	チャージする	inventoryActions	item	Sanguinesti staff
-Scry	透視	inventoryActions	item	Oculus orb
-Bloom	咲かせる	inventoryActions	item	Ivandis flail
-Ver Sinhaza	ベー・シンハザ	inventoryActions	item	Drakan's medallion
-Darkmeyer	ダークメヤー	inventoryActions	item	Drakan's medallion
-Slepe	スレペ	inventoryActions	item	Drakan's medallion
-Tele	ワープ	inventoryActions	item	Rotten carrot
-Kill Bot	ボット抹殺	inventoryActions	item	Rotten carrot
-Kill Area	範囲抹殺	inventoryActions	item	Rotten carrot
-Change	変更	inventoryActions	item	Sinhaza shroud tier 1
-Auto-afk	自動AFK	inventoryActions	item	Escape crystal
-Open-all	全て開く	inventoryActions	item	Coin pouch
-Swap	入れ替える	inventoryActions	item	Thammaron's sceptre (u)
-Close	閉じる	inventoryActions	item	Looting bag
-Weiss	ウェイス	inventoryActions	item	Icy basalt
-Troll Stronghold	トロール要塞	inventoryActions	item	Stony basalt
-Fletch	加工	inventoryActions	item	Celastrus bark
-Kourend Woodland	クーレンド林地	inventoryActions	item	Rada's blessing 1
-Mount Karuulm	カルールム山	inventoryActions	item	Rada's blessing 3
-Check/Uncharge	確認・チャージ解除	inventoryActions	item	Bonecrusher necklace
-Take	取る	inventoryActions	item	Seed pack
-Take-all	全て取る	inventoryActions	item	Seed pack
-Fill/Check	満たす・確認	inventoryActions	item	Bottomless compost bucket
-Easter dance	イースター・ダンス	inventoryActions	item	Giant easter egg
-Cut-open	切り開く	inventoryActions	item	Giant egg sac(full)
-Check-eggs	卵を確認	inventoryActions	item	Giant egg sac(full)
-Remove-eggs	卵を取る	inventoryActions	item	Giant egg sac
-Scrutinise	よく調べる	inventoryActions	item	Guthixian icon
-Chase	追いかける	inventoryActions	item	Cat ears
-Last-destination	前の目的地へ	inventoryActions	item	Fairy mushroom
-Teleport-back	ワープで戻る	inventoryActions	item	Crystal of memories
-Check-memories	記憶を確認	inventoryActions	item	Crystal of memories
-Withdraw	引き出す	inventoryActions	item	Extradimensional bag
-Settings/Destroy	設定・破壊	inventoryActions	item	Extradimensional bag
-League Setup	リーグのセットアップ	inventoryActions	item	League tomato
-League 2 Debug	リーグ２デバッグ	inventoryActions	item	League tomato
-League 3 Debug	リーグ３デバッグ	inventoryActions	item	League tomato
-Toggle-colour	色の切り替え	inventoryActions	item	Soul cape
-Scatter	散らす	inventoryActions	item	Fiendish ashes
-Trollheim	トロールハイム	inventoryActions	item	Ghommal's hilt 1
-Mor Ul Rek	モー・ウル・レク	inventoryActions	item	Ghommal's hilt 4
-Unattune	不調和	inventoryActions	item	Sigil of resilience
-Attune	調和	inventoryActions	item	Sigil of resilience
-Make scary noise	怖い音をたてる	inventoryActions	item	Jered's empty wine bottle
-Reverse	を逆にする	inventoryActions	item	Ugly halloween jumper (orange)
-Wake-ghost	霊を呼び覚ます	inventoryActions	item	Haunted wine bottle
-Read-tag	タグを読む	inventoryActions	item	Secret santa present (red)
-Change-colour	色を変える	inventoryActions	item	Secret santa present (red)
-Dismantle kit	キットを外す	inventoryActions	item	Abyssal whip (or)
-Change Spellbook	魔導書を変える	inventoryActions	item	Arcane grimoire
-Previous Spellbook	前の魔導書	inventoryActions	item	Arcane grimoire
-Check Previous	以前のを確認	inventoryActions	item	Arcane grimoire
-Unimbue	魔法解除	inventoryActions	item	Wristbands of the arena (i)
-Last Destination	で前の目的地へ	inventoryActions	item	Ring of the elements
-Last-Teleport	以前のワープ	inventoryActions	item	Pharaoh's sceptre
-Attach	繋げる	inventoryActions	item	Cursed phalanx
-Place	置く	inventoryActions	item	Mirror
-Withdraw 1	１個引き出す	inventoryActions	item	Supplies
-Withdraw All	全て引き出す	inventoryActions	item	Supplies
-Resupply	再供給	inventoryActions	item	Supplies
-Apply	適用	inventoryActions	item	Silk dressing (2)
-Crack	ひび	inventoryActions	item	Blessed crystal scarab (2)
-Crush	潰す	inventoryActions	item	Smelling salts (2)
-Take-from	取る	inventoryActions	item	Infinite money bag
-Help	手伝う	inventoryActions	item	Fresh start helper
-Sniff	においを嗅ぐ	inventoryActions	item	Smelly sock
-Destinations	目的地	inventoryActions	item	Ghommal's avernic defender 5
-Craft	作る	inventoryActions	item	Secateurs blade
-History	歴史	inventoryActions	item	Mulch
-Recall	呼び戻す	inventoryActions	item	Blackstone fragment
-Squeeze	力を入れる	inventoryActions	item	Detonator
-Set-off	爆破	inventoryActions	item	Stink bomb
-Fairy-ring	妖精の輪	inventoryActions	item	Trinket of fairies
-Spirit-tree	精霊樹	inventoryActions	item	Trinket of fairies
-Summon	召喚	inventoryActions	item	Trinket of undead
-Nexus	ネクサス	inventoryActions	item	Globetrotter pendant
-Jewellery	宝飾品	inventoryActions	item	Globetrotter pendant
-Note-Quantity	指定数を紙化	inventoryActions	item	Banker's note
-Un-note-Quantity	指定数を実体化	inventoryActions	item	Banker's note
-Dismiss	解任する	inventoryActions	item	Guardian horn
-Toggle-modes	モード切り替え	inventoryActions	item	Guardian horn
-Change-outfit	衣装を変更	inventoryActions	item	Guardian horn
-Change Prayerbook	祈りの書を変更	inventoryActions	item	Ruinous powers
-Toggle-activity	発動を切り替える	inventoryActions	item	Echo boots
-Signal	合図	inventoryActions	item	Basic quetzal whistle
-Rumour	ルーマー	inventoryActions	item	Basic quetzal whistle
-Break-down	取り崩す	inventoryActions	item	Blessed bone statuette
-Examine	調べる	inventoryActions	item	
-Slayer Master	討伐の達人	inventoryActions	item	Karamja gloves 4
-Swap	入れ替える	inventoryActions	item	Bruma torch
-Remove	取り外す	inventoryActions	item	
-Add	加える	inventoryActions	item	
-Add-5	５コ加える	inventoryActions	item	
-Add-10	10コ加える	inventoryActions	item	
-Add-All	全て加える	inventoryActions	item	
-Add-X	Xコ加える	inventoryActions	item	
-Examine	調べる	inventoryActions	item	
-Remove	取り外す	inventoryActions	item	
-Add	加える	inventoryActions	item	
-Add-5	５コ加える	inventoryActions	item	
-Add-10	10コ加える	inventoryActions	item	
-Add-All	全て加える	inventoryActions	item	
-Add-X	Xコ加える	inventoryActions	item	
-Edgeville	エッジビル	inventoryActions	item	Amulet of glory(1)
-Karamja	カラムジャ	inventoryActions	item	Amulet of glory(1)
-Draynor Village	ドレイナー村	inventoryActions	item	Amulet of glory(1)
-Al Kharid	アル・カリッド	inventoryActions	item	Amulet of glory(1)
-Tan Leather	皮を革に	inventoryActions	item	Leather
-Recharge Dragonstone	竜石チャージ	inventoryActions	item	Dead orb
-Emir's Arena	エミアのアリーナ	inventoryActions	item	Ring of dueling(8)
-Castle Wars	キャッスル・ウォーズ	inventoryActions	item	Ring of dueling(8)
-Ferox Enclave	フェロックス・オンクレーブ	inventoryActions	item	Ring of dueling(8)
-Fortis Colosseum	フォーティス闘技場	inventoryActions	item	Ring of dueling(8)
-Bloom	咲かせる	inventoryActions	item	Silver sickle (b)
-Rellekka	レレカ	inventoryActions	item	Enchanted lyre(1)
-Waterbirth Island	ウォーターバース島	inventoryActions	item	Enchanted lyre(1)
-Neitiznot	ネイチズノット	inventoryActions	item	Enchanted lyre(1)
-Jatiszo	ジャティスゾ	inventoryActions	item	Enchanted lyre(1)
-Burthorpe	バーソープ	inventoryActions	item	Games necklace(8)
-Barbarian Outpost	蛮族の前哨基地	inventoryActions	item	Games necklace(8)
-Corporeal Beast	コーポリアル・ビースト	inventoryActions	item	Games necklace(8)
-Tears of Guthix	ガシックスの涙	inventoryActions	item	Games necklace(8)
-Wintertodt Camp	ウィンタートッド・キャンプ	inventoryActions	item	Games necklace(8)
-Surrender	降伏	inventoryActions	item	Hooded cloak
-Fling	投げる	inventoryActions	item	Easter basket
-Teleport	ワープ	inventoryActions	item	Camulet
-Geomancy	ジェオマンシー	inventoryActions	item	Watering can
-Boost	ブースト	inventoryActions	item	Attack cape
-Warriors' Guild	戦士ギルド	inventoryActions	item	Strength cape
-Check Totals	合計値を確認	inventoryActions	item	Butterfly net
-Prance	跳ねる	inventoryActions	item	Reindeer hat
-Farming Guild	農業ギルド	inventoryActions	item	Skills necklace(4)
-Mining Guild	採掘ギルド	inventoryActions	item	Skills necklace(4)
-Crafting Guild	工作ギルド	inventoryActions	item	Skills necklace(4)
-Cooking Guild	料理ギルド	inventoryActions	item	Skills necklace(4)
-Woodcutting Guild	木こりギルド	inventoryActions	item	Skills necklace(4)
-Champions' Guild	チャンピオン・ギルド	inventoryActions	item	Combat bracelet(4)
-Monastery	修道院	inventoryActions	item	Combat bracelet(4)
-Ranging Guild	遠射ギルド	inventoryActions	item	Combat bracelet(4)
-Fossil Island	化石島	inventoryActions	item	Digsite pendant (1)
-Lithkren Dungeon	リスクレン・ダンジョン	inventoryActions	item	Digsite pendant (1)
-Digsite	発掘現場	inventoryActions	item	Digsite pendant (1)
-Master	達人	inventoryActions	item	Slayer ring (8)
-Miscellania	ミセラニア	inventoryActions	item	Ring of wealth (5)
-Falador	ファラドー	inventoryActions	item	Ring of wealth (5)
-Dondakan	ドンダカン	inventoryActions	item	Ring of wealth (5)
-Boss Log	ボスログ	inventoryActions	item	Ring of wealth (5)
-Coin Collection	コイン回収	inventoryActions	item	Ring of wealth (5)
-Tip	傾ける	inventoryActions	item	Fedora
-Basic Reanimation	基本蘇生術	inventoryActions	item	Easter
-Check Rank	ランクを確認	inventoryActions	item	Druidic wreath
-Ectofuntus Pit	エクトファンタスのピット	inventoryActions	item	Morytania legs 1
-Burgh de Rott	バーグ・ドゥ・ロット	inventoryActions	item	Morytania legs 3
-Recharge Prayer	祈力を回復	inventoryActions	item	Falador shield 1
-Kandarin Monastery	カンダリン修道院	inventoryActions	item	Ardougne cloak 1
-Ardougne Farm	アルドイン農場	inventoryActions	item	Ardougne cloak 2
-Fishing Teleports	釣り場ワープ地点	inventoryActions	item	Max cape
-POH Portals	家ポータル	inventoryActions	item	Max cape
-Other Teleports	その他のワープ	inventoryActions	item	Max cape
-Xeric's Lookout	ゼリックの見張り	inventoryActions	item	Xeric's talisman
-Xeric's Glade	ゼリックの空地	inventoryActions	item	Xeric's talisman
-Xeric's Inferno	ゼリックの猛火	inventoryActions	item	Xeric's talisman
-Xeric's Heart	ゼリックの中心	inventoryActions	item	Xeric's talisman
-Xeric's Honour	ゼリックの名誉	inventoryActions	item	Xeric's talisman
-Check Charges	チャージ確認	inventoryActions	item	Chronicle
-Teleport to Target	標的にワープ	inventoryActions	item	Dead orb
-Recoil Settings	反射の設定	inventoryActions	item	Ring of suffering (r)
-The Outpost	前哨基地	inventoryActions	item	Necklace of passage(5)
-Eagles' Eyrie	ワシの巣	inventoryActions	item	Necklace of passage(5)
-Wizards' Tower	魔法使いの塔	inventoryActions	item	Necklace of passage(5)
-Bandit Camp	盗賊のキャンプ地	inventoryActions	item	Burning amulet(5)
-Lava Maze	溶岩迷路	inventoryActions	item	Burning amulet(5)
-Chaos Temple	混沌の寺院	inventoryActions	item	Burning amulet(5)
-Throw-water north	北に水を投げる	inventoryActions	item	Heat-proof vessel
-Throw-water east	東に水を投げる	inventoryActions	item	Heat-proof vessel
-Throw-water south	南に水を投げる	inventoryActions	item	Heat-proof vessel
-Throw-water west	西に水を投げる	inventoryActions	item	Heat-proof vessel
-Recharge	チャージ	inventoryActions	item	Ancient wyvern shield
-Lunch by the Lancalliums	ランカリウムの隣で昼食	inventoryActions	item	Kharedst's memoirs
-The Fisher's Flute	釣り人のフルート	inventoryActions	item	Kharedst's memoirs
-History and Hearsay	歴史と伝聞	inventoryActions	item	Kharedst's memoirs
-Jewellery of Jubilation	歓喜の宝飾品	inventoryActions	item	Kharedst's memoirs
-A Dark Disposition	暗黒の気質	inventoryActions	item	Kharedst's memoirs
-Toggle absorption	吸収の切り替え	inventoryActions	item	Bracelet of ethereum
-Slash	切り裂く	inventoryActions	item	Prop sword
-Trophy Emote	トロフィーのエモート	inventoryActions	item	Twisted dragon trophy
-Twisted Relic Emote	ツイステッド・リーグのエモート	inventoryActions	item	Twisted cane
-Use	使う	inventoryActions	item	Plank sack
-Open-All	全て開く	inventoryActions	item	Supply crate
-Trailblazer Relic Emote	トレールブレイザー・リーグのエモート	inventoryActions	item	Trailblazer cane
-Trailblazer Area Emote	トレールブレイザー区域のエモート	inventoryActions	item	Trailblazer cane
-Fairy-Ring	妖精の輪	inventoryActions	item	Fairy mushroom
-Spirit-tree	精霊樹	inventoryActions	item	Fairy mushroom
-Tool-leprechauns	農具のレプラコーン	inventoryActions	item	Fairy mushroom
-Skill Emote	スキルのエモート	inventoryActions	item	Shattered cane
-Boss Emote	ボスのエモート	inventoryActions	item	Shattered cane
-Quest Emote	クエストのエモート	inventoryActions	item	Shattered cane
-Fragment Emote	破片のエモート	inventoryActions	item	Shattered cane
-Air Altar	大気の祭壇	inventoryActions	item	Ring of the elements
-Water Altar	水の祭壇	inventoryActions	item	Ring of the elements
-Earth Altar	土の祭壇	inventoryActions	item	Ring of the elements
-Fire Altar	火の祭壇	inventoryActions	item	Ring of the elements
-Jalsavrah	ジャルサヴラ	inventoryActions	item	Pharaoh's sceptre
-Jaleustrophos	ジャルストロフォス	inventoryActions	item	Pharaoh's sceptre
-Jaldraocht	ジャルドラオッチ	inventoryActions	item	Pharaoh's sceptre
-Jaltevas	ジャルテヴァス	inventoryActions	item	Pharaoh's sceptre
-Accept trick-or-treat	トリック・オア・トリートを受け取る	inventoryActions	item	Treat cauldron
-Ancient Vault	古代の金庫	inventoryActions	item	Ring of shadows
-Ghorrock Dungeon	ゴロック・ダンジョン	inventoryActions	item	Ring of shadows
-The Scar	ザ・スカー	inventoryActions	item	Ring of shadows
-Lassar Undercity	ラサーの地下都市	inventoryActions	item	Ring of shadows
-The Stranglewood	ストラングルウッド	inventoryActions	item	Ring of shadows
-The Darkfrost	ダークフロスト	inventoryActions	item	Pendant of ates
-Twilight Temple	黄昏の寺院	inventoryActions	item	Pendant of ates
-Ralos' Rise	ラロスの高まり	inventoryActions	item	Pendant of ates
-North Aldarin	アルダリン北部	inventoryActions	item	Pendant of ates
-Colour	色	inventoryActions	item	Beige pumpkin (disgusted)
-Carve	彫刻	inventoryActions	item	Beige pumpkin (disgusted)
-Change-Style	見た目を変更	inventoryActions	item	Infernal harpoon (or)
-Teleport-back	ワープで戻る	inventoryActions	item	Crystal of echoes
-Check-memories	記憶を確認	inventoryActions	item	Crystal of echoes
-Save-memory	記憶を保存	inventoryActions	item	Crystal of echoes
-League Debug	リーグのデバッグ	inventoryActions	item	League tomato
-Setups	設定	inventoryActions	item	League tomato
-Withdraw-all	全て引き出す	inventoryActions	item	Forager's pouch
-Withdraw-last	前回同様に引き出す	inventoryActions	item	Forager's pouch
-Current-step	現在のステップ	inventoryActions	item	Clue compass
-Collect	アイテムを回収	inventoryActions	item	Pocket kingdom
-Manage-kingdom	王国を管理	inventoryActions	item	Pocket kingdom
-Relic Emote	遺物エモート	inventoryActions	item	Raging echoes cane
-Detatch	取り外す	inventoryActions	item	Echo venator bow
-Detach	取り外す	inventoryActions	item	Echo venator bow (uncharged)
-Read-address	アドレスを読む	inventoryActions	item	Invitations
-Surrender	降伏	inventoryActions	item	Saradomin cloak
-Lunar	ルーナ	inventoryActions	item	Magic cape
-Arceuus	アルセウス	inventoryActions	item	Magic cape
-Standard	一般	inventoryActions	item	Magic cape
-Ancient	古代	inventoryActions	item	Magic cape
-Brimhaven	ブリムヘブン	inventoryActions	item	Construct. cape
-Home	家へ	inventoryActions	item	Construct. cape
-Rimmington	リミングトン	inventoryActions	item	Construct. cape
-Taverley	タベリー	inventoryActions	item	Construct. cape
-Pollnivneach	ポルニヴネッチ	inventoryActions	item	Construct. cape
-Hosidius	ホシディアス	inventoryActions	item	Construct. cape
-Aldarin	アルダリン	inventoryActions	item	Construct. cape
-Hunter Guild	狩人ギルド	inventoryActions	item	Hunter cape
-Carnivorous Chinchompas	肉食チンチョンパ	inventoryActions	item	Hunter cape
-Black Chinchompas	黒チンチョンパ	inventoryActions	item	Hunter cape
-Fremennik Dungeon	フレメニック・ダンジョン	inventoryActions	item	Slayer ring (8)
-Dark Beasts	暗黒獣	inventoryActions	item	Slayer ring (8)
-Stronghold	要塞	inventoryActions	item	Slayer ring (8)
-Slayer Tower	討伐の塔	inventoryActions	item	Slayer ring (8)
-Tarn's Lair	ターンの巣窟	inventoryActions	item	Slayer ring (8)
-Karamja (Shilo)	カラムジャ（シャイロ）	inventoryActions	item	Achievement diary cape (t)
-Western Provinces	西部地方	inventoryActions	item	Achievement diary cape (t)
-Karamja (Jungle)	カラムジャ（ジャングル）	inventoryActions	item	Achievement diary cape (t)
-Twiggy O'Korn	ツイギー・オコーン	inventoryActions	item	Achievement diary cape (t)
-Karamja (Mor Ul Rek)	カラムジャ（モー・ウル・レク）	inventoryActions	item	Achievement diary cape (t)
-Ardougne	アルドイン	inventoryActions	item	Achievement diary cape (t)
-Desert	砂漠	inventoryActions	item	Achievement diary cape (t)
-Kourend & Kebos	クーレンドとケボス	inventoryActions	item	Achievement diary cape (t)
-Lumbridge & Draynor	ランブ…ドレイナー	inventoryActions	item	Achievement diary cape (t)
-Fremennik	フレメニック	inventoryActions	item	Achievement diary cape (t)
-Morytania	モリタニア	inventoryActions	item	Achievement diary cape (t)
-Kandarin	カンダリン	inventoryActions	item	Achievement diary cape (t)
-Wilderness	ウィルダネス	inventoryActions	item	Achievement diary cape (t)
-Carnivorous chinchompas	肉食チンチョンパ	inventoryActions	item	Max cape
-Ring of Life	命の指輪	inventoryActions	item	Max cape
-Black chinchompas	黒チンチョンパ	inventoryActions	item	Max cape
-Warrior's Guild	戦士ギルド	inventoryActions	item	Max cape
-Guild Teleports	ギルドワープ	inventoryActions	item	Max cape
-Skilling Areas	レベル上げ・エリア	inventoryActions	item	Max cape
-Collections overview	取得アイテム概要	inventoryActions	item	Collection log
-Collections Overview	取得アイテム概要	inventoryActions	item	Collection log
-Collection Log	取得アイテム一覧	inventoryActions	item	Collection log
-Area Emote	エリア・エモート	inventoryActions	item	Raging echoes cane
-Detach	取り外す	inventoryActions	item	Echo venator bow
-Detatch	取り外す	inventoryActions	item	Echo ahrim's robeskirt 75
-Create-book	本を作る	inventoryActions	item	Bronze staff of collection
-Bryophyta	ブリオフィタ	inventoryActions	item	Giantsoul amulet
-Obor	オーボー	inventoryActions	item	Giantsoul amulet
-Branda and Eldric	ブランダとエルドリック	inventoryActions	item	Giantsoul amulet
-Radius	ラジウス	inventoryActions	item	Soulflame horn
-Max Players	マックスのプレイヤー	inventoryActions	item	Soulflame horn
-Wipe	ワイプ	inventoryActions	item	Jim's wet cloth
-Gl. Attenuation	減衰するグリフ	inventoryActions	item	Contract of glyphic attenuation
-Se. Clouding	混濁する感覚	inventoryActions	item	Contract of sensory clouding
-Bl. Blows	血みどろの打撃	inventoryActions	item	Contract of bloodied blows
-Di. Severance	神聖な断絶	inventoryActions	item	Contract of divine severance
-Fo. Breath	絶える息	inventoryActions	item	Contract of forfeit breath
+Destroy	破坏 [po huai]	inventoryActions	item	Dwarf remains
+Drop	降低 [jiang di]	inventoryActions	item	Cannonball
+Read	读 [du]	inventoryActions	item	Nulodion's notes
+Set-up	设置 [she zhi]	inventoryActions	item	Cannon base
+Blow	吹 [chui]	inventoryActions	item	Magic whistle
+Ring	戒指 [jie zhi]	inventoryActions	item	Grail bell
+Blow-on	吹气式 [chui qi shi]	inventoryActions	item	Magic gold feather
+Extinguish	熄灭 [xi mie]	inventoryActions	item	Lit black candle
+Wield	挥 [hui]	inventoryActions	item	Excalibur
+Wear	穿 [chuan]	inventoryActions	item	Khazard helmet
+Empty	空的 [kong de]	inventoryActions	item	Guam potion (unf)
+Drink	喝 [he]	inventoryActions	item	Strength potion(4)
+Clean	干净的 [gan jing de]	inventoryActions	item	Grimy guam leaf
+Eat	吃 [chi]	inventoryActions	item	Jangerberries
+Equip	装备 [zhuang bei]	inventoryActions	item	Cattleprod
+Plant	植物 [zhi wu]	inventoryActions	item	Mithril seeds
+Open	打开 [da kai]	inventoryActions	item	Casket
+Throw	扔 [reng]	inventoryActions	item	Bird feed
+Bury	埋葬 [mai zang]	inventoryActions	item	Bones
+Inspect	检查 [jian cha]	inventoryActions	item	Ghost's skull
+Bail-with	保释 [bao shi]	inventoryActions	item	Bailing bucket
+Activate	激活 [ji huo]	inventoryActions	item	Locating crystal
+Search	搜索 [sou suo]	inventoryActions	item	Panning tray
+Polish	抛光 [pao guang]	inventoryActions	item	Buttons
+Look-at	看看 [kan kan]	inventoryActions	item	Level 1 certificate
+Complete	完全的 [wan quan de]	inventoryActions	item	Radimus notes
+Swing	摇摆 [yao bai]	inventoryActions	item	Bullroarer
+Look	看 [kan]	inventoryActions	item	Sketch
+Enchant-Vials	附魔瓶 [fu mo ping]	inventoryActions	item	Binding book
+Investigate	调查 [diao cha]	inventoryActions	item	Dark dagger
+Cast Spell	施展法术 [shi zhan fa shu]	inventoryActions	item	Holy force
+Hold	抓住 [zhua zhu]	inventoryActions	item	Gnomeball
+Dig	挖 [wa]	inventoryActions	item	Spade
+Blackout	停电 [ting dian]	inventoryActions	item	Disk of returning
+Check	查看 [cha kan]	inventoryActions	item	Iban's staff
+Locate	定位 [ding wei]	inventoryActions	item	Air talisman
+Rub-together	擦在一起 [ca zai yi qi]	inventoryActions	item	Dry sticks
+Study	学习 [xue xi]	inventoryActions	item	Map part
+Rub	擦 [ca]	inventoryActions	item	Amulet of glory
+Edgeville	埃奇维尔 [ai qi wei er]	inventoryActions	item	Amulet of glory(1)
+Karamja	卡拉姆贾 [ka la mu jia]	inventoryActions	item	Amulet of glory(1)
+Draynor Village	德拉诺村 [de la nuo cun]	inventoryActions	item	Amulet of glory(1)
+Al Kharid	阿尔卡里德 [a er ka li de]	inventoryActions	item	Amulet of glory(1)
+Tan Leather	棕褐色皮革 [zong he se pi ge]	inventoryActions	item	Leather
+Empty Bowl	空碗 [kong wan]	inventoryActions	item	Burnt stew
+Mix-cocktail	混合鸡尾酒 [hun he ji wei jiu]	inventoryActions	item	Cocktail shaker
+Remove-legs	移除腿 [yi chu tui]	inventoryActions	item	Swamp toad
+Prepare	准备 [zhun bei]	inventoryActions	item	Half baked bowl
+Empty Tray	空托盘 [kong tuo pan]	inventoryActions	item	Burnt crunchies
+Empty Tin	空罐 [kong guan]	inventoryActions	item	Burnt batta
+Empty Dish	空盘 [kong pan]	inventoryActions	item	Burnt pie
+Guzzle	狂饮 [kuang yin]	inventoryActions	item	Rock cake
+Play-with	一起玩 [yi qi wan]	inventoryActions	item	Brown toy horsey
+Recharge Dragonstone	为龙石岛充值 [wei long shi dao chong zhi]	inventoryActions	item	Dead orb
+Break	休息 [xiu xi]	inventoryActions	item	Ring of recoil
+Emir's Arena	埃米尔竞技场 [ai mi er jing ji chang]	inventoryActions	item	Ring of dueling(8)
+Castle Wars	城堡战争 [cheng bao zhan zheng]	inventoryActions	item	Ring of dueling(8)
+Ferox Enclave	费罗克斯飞地 [fei luo ke si fei di]	inventoryActions	item	Ring of dueling(8)
+Fortis Colosseum	富蒂斯斗兽场 [fu di si dou shou chang]	inventoryActions	item	Ring of dueling(8)
+Toggle-respawn	切换重生 [qie huan chong sheng]	inventoryActions	item	Ring of life
+Features	特征 [te zheng]	inventoryActions	item	Ring of wealth
+Look through	浏览 [liu lan]	inventoryActions	item	Sextant
+Check steps	检查步骤 [jian cha bu zhou]	inventoryActions	item	Clue scroll (easy)
+Release All	全部释放 [quan bu shi fang]	inventoryActions	item	Bloated toad
+Release	发布 [fa bu]	inventoryActions	item	Bloated toad
+Check kills	检查击杀数 [jian cha ji sha shu]	inventoryActions	item	Ogre bow
+Fill	充满 [chong man]	inventoryActions	item	Druid pouch
+Cast Bloom	演员 布鲁姆 [yan yuan   bu lu mu]	inventoryActions	item	Silver sickle (b)
+Bloom	盛开 [sheng kai]	inventoryActions	item	Silver sickle (b)
+Cast	投掷 [tou zhi]	inventoryActions	item	Druidic spell
+Debug	调试 [tiao shi]	inventoryActions	item	Boss helper tool
+Play	玩 [wan]	inventoryActions	item	Lyre
+Rellekka	雷莱卡 [lei lai ka]	inventoryActions	item	Enchanted lyre(1)
+Waterbirth Island	水中分娩岛 [shui zhong fen mian dao]	inventoryActions	item	Enchanted lyre(1)
+Neitiznot	内蒂兹诺特 [nei di zi nuo te]	inventoryActions	item	Enchanted lyre(1)
+Jatiszo	贾蒂索 [jia di suo]	inventoryActions	item	Enchanted lyre(1)
+Interact	相互影响 [xiang hu ying xiang]	inventoryActions	item	Pet rock
+Shake	摇 [yao]	inventoryActions	item	Vase
+Remove-lid	取下盖子 [qu xia gai zi]	inventoryActions	item	Sealed vase
+Preach	传道 [chuan dao]	inventoryActions	item	Holy book
+Burthorpe	伯索普 [bo suo pu]	inventoryActions	item	Games necklace(8)
+Barbarian Outpost	野蛮人前哨站 [ye man ren qian shao zhan]	inventoryActions	item	Games necklace(8)
+Corporeal Beast	实体野兽 [shi ti ye shou]	inventoryActions	item	Games necklace(8)
+Tears of Guthix	古斯克斯之泪 [gu si ke si zhi lei]	inventoryActions	item	Games necklace(8)
+Wintertodt Camp	温特托特营地 [wen te tuo te ying di]	inventoryActions	item	Games necklace(8)
+View	看法 [kan fa]	inventoryActions	item	Spare controls
+Listen	听 [ting]	inventoryActions	item	Monkey dentures
+Poke	戳 [chuo]	inventoryActions	item	Monkey
+Surrender	投降 [tou xiang]	inventoryActions	item	Saradomin cloak
+Heal	愈合 [yu he]	inventoryActions	item	Bandages
+Loop	环形 [huan xing]	inventoryActions	item	Yo-yo
+Walk	走 [zou]	inventoryActions	item	Yo-yo
+Crazy	疯狂的 [feng kuang de]	inventoryActions	item	Yo-yo
+Ride	骑 [qi]	inventoryActions	item	Sled
+Partner	伙伴 [huo ban]	inventoryActions	item	Enchanted gem
+Log	日志 [ri zhi]	inventoryActions	item	Enchanted gem
+Repair	维修 [wei xiu]	inventoryActions	item	Model ship
+Follow	跟随 [gen sui]	inventoryActions	item	Treasure map
+Count	数数 [shu shu]	inventoryActions	item	Petition form
+Check-keys	检查键 [jian cha jian]	inventoryActions	item	Steel key ring
+Fling	一扔 [yi reng]	inventoryActions	item	Easter basket
+Dance	舞蹈 [wu dao]	inventoryActions	item	Rubber chicken
+Assemble	集合 [ji he]	inventoryActions	item	Base schematics
+Spin	旋转 [xuan zhuan]	inventoryActions	item	Spinning plate
+Remove-one	删除一 [shan chu yi]	inventoryActions	item	Apples(2)
+Build	建造 [jian zao]	inventoryActions	item	Rogue kit
+Slice	片 [pian]	inventoryActions	item	Rotten potato
+Peel	果皮 [guo pi]	inventoryActions	item	Rotten potato
+Mash	捣碎 [dao sui]	inventoryActions	item	Rotten potato
+Lletya	莱蒂亚 [lai di ya]	inventoryActions	item	Teleport crystal (4)
+Prifddinas	普里夫迪纳斯 [pu li fu di na si]	inventoryActions	item	Teleport crystal (4)
+Toggle	切换 [qie huan]	inventoryActions	item	Teleport crystal (4)
+Uncharge	取消充电 [qu xiao chong dian]	inventoryActions	item	Broodoo shield (10)
+Scan	扫描 [sao miao]	inventoryActions	item	Commorb
+Contact	接触 [jie chu]	inventoryActions	item	Commorb
+Playback	回放 [hui fang]	inventoryActions	item	Commorb
+Talk-At	谈话 [tan hua]	inventoryActions	item	Fishbowl
+Play-With	一起玩 [yi qi wan]	inventoryActions	item	Fishbowl
+Feed	喂养 [wei yang]	inventoryActions	item	Fishbowl
+Untangle	解开缠结 [jie kai chan jie]	inventoryActions	item	Fishbowl and net
+Check-charge	支票收费 [zhi piao shou fei]	inventoryActions	item	Camulet
+Teleport	传送 [chuan song]	inventoryActions	item	Camulet
+Display	展示 [zhan shi]	inventoryActions	item	Zombie head
+Question	问题 [wen ti]	inventoryActions	item	Zombie head
+Chant	呗 [bei]	inventoryActions	item	Demonic sigil
+Feel	感觉 [gan jue]	inventoryActions	item	Enchanted key
+Remove-rat	移除老鼠 [yi chu lao shu]	inventoryActions	item	Rat pole
+Geomancy	堪舆学 [kan yu xue]	inventoryActions	item	Watering can
+Jump	跳 [tiao]	inventoryActions	item	Blue marionette
+Bow	弓 [gong]	inventoryActions	item	Blue marionette
+Talk-to	谈话 [tan hua]	inventoryActions	item	Progress hat
+Return	返回 [fan hui]	inventoryActions	item	Prison key
+Smell	闻 [wen]	inventoryActions	item	Spicy stew
+Release-all	全部发布 [quan bu fa bu]	inventoryActions	item	Balloon toad
+Wind	风 [feng]	inventoryActions	item	Toy soldier
+Separate	分离 [fen li]	inventoryActions	item	Kbd heads
+Unstuff	取消填充 [qu xiao tian chong]	inventoryActions	item	Stuffed crawling hand
+Varrock	瓦罗克 [wa luo ke]	inventoryActions	item	Varrock teleport
+Grand Exchange	盛大交换 [sheng da jiao huan]	inventoryActions	item	Varrock teleport
+Camelot	卡米洛特 [ka mi luo te]	inventoryActions	item	Camelot teleport
+Seers' Village	先知村 [xian zhi cun]	inventoryActions	item	Camelot teleport
+Watchtower	岗楼 [gang lou]	inventoryActions	item	Watchtower teleport
+Yanille	亚尼尔 [ya ni er]	inventoryActions	item	Watchtower teleport
+Inside	里面 [li mian]	inventoryActions	item	Teleport to house
+Outside	外部 [wai bu]	inventoryActions	item	Teleport to house
+Group	团体 [tuan ti]	inventoryActions	item	Teleport to house
+Info	信息 [xin xi]	inventoryActions	item	Enchant sapphire or opal
+Dust-hands	尘手 [chen shou]	inventoryActions	item	Ground ashes
+Talk-To	谈话 [tan hua]	inventoryActions	item	Monkey
+Invoke	调用 [diao yong]	inventoryActions	item	Skull sceptre
+Divine	神圣的 [shen sheng de]	inventoryActions	item	Skull sceptre
+Convert	转变 [zhuan bian]	inventoryActions	item	Pharaoh's sceptre
+Launch	发射 [fa she]	inventoryActions	item	Grand seed pod
+Squash	壁球 [bi qiu]	inventoryActions	item	Grand seed pod
+Pour	倒 [dao]	inventoryActions	item	Mixed blizzard
+Add-ingreds	添加成分 [tian jia cheng fen]	inventoryActions	item	Mixed saturday
+Unpack	打开包装 [da kai bao zhuang]	inventoryActions	item	Proselyte harness m
+Shape-Earth	形状-地球 [xing zhuang - di qiu]	inventoryActions	item	Page 1
+Shape-Air	形状-空气 [xing zhuang - kong qi]	inventoryActions	item	Page 1
+Shape-Fire	形火 [xing huo]	inventoryActions	item	Page 2
+Shape-Water	形水 [xing shui]	inventoryActions	item	Page 2
+Shape-Mind	形心 [xing xin]	inventoryActions	item	Page 3
+Boost	促进 [cu jin]	inventoryActions	item	Attack cape
+Warriors' Guild	勇士公会 [yong shi gong hui]	inventoryActions	item	Strength cape
+Toggle Effect	切换效果 [qie huan xiao guo]	inventoryActions	item	Defence cape
+Toggle Respawn	切换重生 [qie huan chong sheng]	inventoryActions	item	Defence cape
+Commune	公社 [gong she]	inventoryActions	item	Ranging cape
+Spellbook	法术书 [fa shu shu]	inventoryActions	item	Magic cape
+Lunar	农历 [nong li]	inventoryActions	item	Magic cape
+Arceuus	阿尔克乌斯 [a er ke wu si]	inventoryActions	item	Magic cape
+Standard	标准 [biao zhun]	inventoryActions	item	Magic cape
+Ancient	古老的 [gu lao de]	inventoryActions	item	Magic cape
+Stamina Boost	耐力提升 [nai li ti sheng]	inventoryActions	item	Agility cape
+Tele to POH	电话至 POH [dian hua zhi  POH]	inventoryActions	item	Construct. cape
+Brimhaven	布里姆港 [bu li mu gang]	inventoryActions	item	Construct. cape
+Home	家 [jia]	inventoryActions	item	Construct. cape
+Rimmington	里明顿 [li ming dun]	inventoryActions	item	Construct. cape
+Taverley	塔弗利 [ta fu li]	inventoryActions	item	Construct. cape
+Pollnivneach	波尼夫内奇 [bo ni fu nei qi]	inventoryActions	item	Construct. cape
+Hosidius	霍西迪乌斯 [huo xi di wu si]	inventoryActions	item	Construct. cape
+Aldarin	阿尔达林 [a er da lin]	inventoryActions	item	Construct. cape
+Fishing Guild	钓鱼公会 [diao yu gong hui]	inventoryActions	item	Fishing cape
+Otto's Grotto	奥托的石窟 [ao tuo de shi ku]	inventoryActions	item	Fishing cape
+Trim	修剪 [xiu jian]	inventoryActions	item	Quest point cape
+Load	加载 [jia zai]	inventoryActions	item	White destabiliser
+Split	分裂 [fen lie]	inventoryActions	item	Cap and goggles
+Hunter Guild	猎人公会 [lie ren gong hui]	inventoryActions	item	Hunter cape
+Carnivorous Chinchompas	肉食性金鸡鼠 [rou shi xing jin ji shu]	inventoryActions	item	Hunter cape
+Black Chinchompas	黑金鸡巴 [hei jin ji ba]	inventoryActions	item	Hunter cape
+Lay	莱 [lai]	inventoryActions	item	Bird snare
+Check totals	检查总计 [jian cha zong ji]	inventoryActions	item	Butterfly net
+Check Totals	检查总计 [jian cha zong ji]	inventoryActions	item	Butterfly net
+Bank	银行 [yin hang]	inventoryActions	item	Imp-in-a-box(2)
+Translate	翻译 [fan yi]	inventoryActions	item	Research notes
+Prance	腾跃 [teng yue]	inventoryActions	item	Reindeer hat
+Write-Role	写角色 [xie jue se]	inventoryActions	item	Scroll
+Clear	清除 [qing chu]	inventoryActions	item	Scroll
+Tell-red	告诉红 [gao su hong]	inventoryActions	item	Attacker horn
+Tell-green	泰尔格林 [tai er ge lin]	inventoryActions	item	Attacker horn
+Tell-blue	特尔蓝 [te er lan]	inventoryActions	item	Attacker horn
+Medic	军医 [jun yi]	inventoryActions	item	Attacker horn
+Look-in	在看 [zai kan]	inventoryActions	item	Collection bag
+Tell-tofu	泰尔豆腐 [tai er dou fu]	inventoryActions	item	Healer horn
+Tell-crackers	窃听者 [qie ting zhe]	inventoryActions	item	Healer horn
+Tell-worms	告诉蠕虫 [gao su ru chong]	inventoryActions	item	Healer horn
+Tell-meat	告诉肉 [gao su rou]	inventoryActions	item	Defender horn
+Tell-controlled	台控 [tai kong]	inventoryActions	item	Collector horn
+Tell-accurate	准确地说 [zhun que di shuo]	inventoryActions	item	Collector horn
+Tell-aggressive	攻击性的 [gong ji xing de]	inventoryActions	item	Collector horn
+Tell-defensive	告诉防御 [gao su fang yu]	inventoryActions	item	Collector horn
+Check tax	检查税 [jian cha shui]	inventoryActions	item	Empty tax bag
+Check taxes	检查税费 [jian cha shui fei]	inventoryActions	item	Bulging taxbag
+Pray-over	祈祷 [qi dao]	inventoryActions	item	Blessed lamp
+Recite-prayer	背诵祈祷文 [bei song qi dao wen]	inventoryActions	item	Prayer book
+Operate	操作 [cao zuo]	inventoryActions	item	Beacon ring
+Farming Guild	农业公会 [nong ye gong hui]	inventoryActions	item	Skills necklace(4)
+Mining Guild	矿业公会 [kuang ye gong hui]	inventoryActions	item	Skills necklace(4)
+Crafting Guild	手工艺公会 [shou gong yi gong hui]	inventoryActions	item	Skills necklace(4)
+Cooking Guild	烹饪公会 [peng ren gong hui]	inventoryActions	item	Skills necklace(4)
+Woodcutting Guild	伐木行会 [fa mu hang hui]	inventoryActions	item	Skills necklace(4)
+Champions' Guild	冠军公会 [guan jun gong hui]	inventoryActions	item	Combat bracelet(4)
+Monastery	修道院 [xiu dao yuan]	inventoryActions	item	Combat bracelet(4)
+Ranging Guild	测距公会 [ce ju gong hui]	inventoryActions	item	Combat bracelet(4)
+Gem Mine	宝石矿 [bao shi kuang]	inventoryActions	item	Karamja gloves 3
+Fossil Island	化石岛 [hua shi dao]	inventoryActions	item	Digsite pendant (1)
+Lithkren Dungeon	利斯克伦地牢 [li si ke lun di lao]	inventoryActions	item	Digsite pendant (1)
+Digsite	挖掘场 [wa jue chang]	inventoryActions	item	Digsite pendant (1)
+Loot	抢劫 [qiang jie]	inventoryActions	item	Baby impling jar
+Impling-jar	隐式罐子 [yin shi guan zi]	inventoryActions	item	Jar generator
+Butterfly-jar	蝴蝶罐 [hu die guan]	inventoryActions	item	Jar generator
+Toggle-view	切换视图 [qie huan shi tu]	inventoryActions	item	Impling scroll
+Copy to log	复制到日志 [fu zhi dao ri zhi]	inventoryActions	item	Ancient page
+Discard	丢弃 [diu qi]	inventoryActions	item	Anti-dragon shield (nz)
+Take-one	拿一 [na yi]	inventoryActions	item	Herb box
+Bank-all	银行全 [yin hang quan]	inventoryActions	item	Herb box
+Refund	退款 [tui kuan]	inventoryActions	item	Scroll of redirection
+Revert	恢复 [hui fu]	inventoryActions	item	Rimmington teleport
+Dismantle	拆除 [chai chu]	inventoryActions	item	Armadyl godsword
+Disassemble	拆卸 [chai xie]	inventoryActions	item	Slayer helmet
+Fremennik Dungeon	弗雷曼尼克地牢 [fu lei man ni ke di lao]	inventoryActions	item	Slayer ring (8)
+Dark Beasts	黑暗野兽 [hei an ye shou]	inventoryActions	item	Slayer ring (8)
+Master	掌握 [zhang wo]	inventoryActions	item	Slayer ring (8)
+Stronghold	据点 [ju dian]	inventoryActions	item	Slayer ring (8)
+Slayer Tower	杀手塔 [sha shou ta]	inventoryActions	item	Slayer ring (8)
+Tarn's Lair	塔恩的巢穴 [ta en de chao xue]	inventoryActions	item	Slayer ring (8)
+Deposit	订金 [ding jin]	inventoryActions	item	Looting bag
+Settings	设置 [she zhi]	inventoryActions	item	Looting bag
+Miscellania	杂记 [za ji]	inventoryActions	item	Ring of wealth (5)
+Falador	法拉多 [fa la duo]	inventoryActions	item	Ring of wealth (5)
+Dondakan	东达坎 [dong da kan]	inventoryActions	item	Ring of wealth (5)
+Boss Log	老板日志 [lao ban ri zhi]	inventoryActions	item	Ring of wealth (5)
+Coin Collection	钱币收藏 [qian bi shou cang]	inventoryActions	item	Ring of wealth (5)
+Tip	提示 [ti shi]	inventoryActions	item	Fedora
+Spawn Item	生成物品 [sheng cheng wu pin]	inventoryActions	item	Holiday tool
+Basic Reanimation	基本复活 [ji ben fu huo]	inventoryActions	item	Easter
+Dissolve	溶解 [rong jie]	inventoryActions	item	Abyssal tentacle
+Check completion	检查完成情况 [jian cha wan cheng qing kuang]	inventoryActions	item	Challenge scroll (elite)
+Check rank	检查排名 [jian cha pai ming]	inventoryActions	item	Druidic wreath
+Check Rank	检查排名 [jian cha pai ming]	inventoryActions	item	Druidic wreath
+Configure	配置 [pei zhi]	inventoryActions	item	Annakarl teleport
+Extract	提炼 [ti lian]	inventoryActions	item	Nest box (empty)
+Unload	卸下 [xie xia]	inventoryActions	item	Toxic blowpipe
+Untrim	取消修剪 [qu xiao xiu jian]	inventoryActions	item	Quest point cape (t)
+Karamja (Shilo)	卡拉姆贾（希洛） [ka la mu jia （ xi luo ）]	inventoryActions	item	Achievement diary cape (t)
+Western Provinces	西部省份 [xi bu sheng fen]	inventoryActions	item	Achievement diary cape (t)
+Karamja (Jungle)	卡拉姆贾（丛林） [ka la mu jia （ cong lin ）]	inventoryActions	item	Achievement diary cape (t)
+Twiggy O'Korn	特威吉·奥科恩 [te wei ji · ao ke en]	inventoryActions	item	Achievement diary cape (t)
+Karamja (Mor Ul Rek)	卡拉姆贾 (Mor Ul Rek) [ka la mu jia  (Mor Ul Rek)]	inventoryActions	item	Achievement diary cape (t)
+Ardougne	阿尔杜涅 [a er du nie]	inventoryActions	item	Achievement diary cape (t)
+Desert	沙漠 [sha mo]	inventoryActions	item	Achievement diary cape (t)
+Kourend & Kebos	库伦德和科博斯 [ku lun de he ke bo si]	inventoryActions	item	Achievement diary cape (t)
+Lumbridge & Draynor	朗布里奇和德雷诺 [lang bu li qi he de lei nuo]	inventoryActions	item	Achievement diary cape (t)
+Fremennik	弗雷门尼克 [fu lei men ni ke]	inventoryActions	item	Achievement diary cape (t)
+Morytania	莫里塔尼亚 [mo li ta ni ya]	inventoryActions	item	Achievement diary cape (t)
+Kandarin	坎达林 [kan da lin]	inventoryActions	item	Achievement diary cape (t)
+Wilderness	荒野 [huang ye]	inventoryActions	item	Achievement diary cape (t)
+Slayer Master	杀手大师 [sha shou da shi]	inventoryActions	item	Karamja gloves 4
+Ecto Teleport	埃克托传送 [ai ke tuo chuan song]	inventoryActions	item	Morytania legs 1
+Ectofuntus Pit	外圆坑 [wai yuan keng]	inventoryActions	item	Morytania legs 1
+Burgh Teleport	伯格传送 [bo ge chuan song]	inventoryActions	item	Morytania legs 3
+Burgh de Rott	德罗特堡 [de luo te bao]	inventoryActions	item	Morytania legs 3
+Activity	活动 [huo dong]	inventoryActions	item	Bonecrusher
+Recharge-prayer	充电祈祷 [chong dian qi dao]	inventoryActions	item	Falador shield 1
+Recharge Prayer	充电祈祷 [chong dian qi dao]	inventoryActions	item	Falador shield 1
+Monastery Teleport	修道院传送 [xiu dao yuan chuan song]	inventoryActions	item	Ardougne cloak 1
+Kandarin Monastery	干达林寺 [gan da lin si]	inventoryActions	item	Ardougne cloak 1
+Farm Teleport	农场传送 [nong chang chuan song]	inventoryActions	item	Ardougne cloak 2
+Ardougne Farm	阿杜涅农场 [a du nie nong chang]	inventoryActions	item	Ardougne cloak 2
+Energy	活力 [huo li]	inventoryActions	item	Explorer's ring 1
+Alchemy	炼金术 [lian jin shu]	inventoryActions	item	Explorer's ring 1
+Functions	功能 [gong neng]	inventoryActions	item	Explorer's ring 2
+Nardah	纳尔达 [na er da]	inventoryActions	item	Desert amulet 4
+Kalphite cave	卡尔菲特洞穴 [ka er fei te dong xue]	inventoryActions	item	Desert amulet 4
+Emote	表情 [biao qing]	inventoryActions	item	Diango's claws
+Redeem	赎回 [shu hui]	inventoryActions	item	Old school bond
+Restore	恢复 [hui fu]	inventoryActions	item	Tanzanite helm (uncharged)
+Scramble	争夺 [zheng duo]	inventoryActions	item	Rotten egg
+Poach	偷猎 [tou lie]	inventoryActions	item	Rotten egg
+Fry	炒 [chao]	inventoryActions	item	Rotten egg
+Pickle	泡菜 [pao cai]	inventoryActions	item	Rotten egg
+Consume	消耗 [xiao hao]	inventoryActions	item	Saradomin's light
+Teleports	传送 [chuan song]	inventoryActions	item	Max cape
+Metamorphosis	变态 [bian tai]	inventoryActions	item	Beaver
+Chew	嚼 [jue]	inventoryActions	item	Rotten onion
+POH Portals	POH 门户网站 [POH  men hu wang zhan]	inventoryActions	item	Max cape
+Carnivorous chinchompas	肉食性龙猫 [rou shi xing long mao]	inventoryActions	item	Max cape
+Ring of Life	生命之环 [sheng ming zhi huan]	inventoryActions	item	Max cape
+Black chinchompas	黑金鼠 [hei jin shu]	inventoryActions	item	Max cape
+Warrior's Guild	战士公会 [zhan shi gong hui]	inventoryActions	item	Max cape
+Guild Teleports	公会传送 [gong hui chuan song]	inventoryActions	item	Max cape
+Skilling Areas	技能领域 [ji neng ling yu]	inventoryActions	item	Max cape
+Xeric's Lookout	埃里克观景台 [ai li ke guan jing tai]	inventoryActions	item	Xeric's talisman
+Xeric's Glade	埃里克的林地 [ai li ke de lin di]	inventoryActions	item	Xeric's talisman
+Xeric's Inferno	埃里克的地狱 [ai li ke de di yu]	inventoryActions	item	Xeric's talisman
+Xeric's Heart	埃里克之心 [ai li ke zhi xin]	inventoryActions	item	Xeric's talisman
+Xeric's Honour	埃里克的荣誉 [ai li ke de rong yu]	inventoryActions	item	Xeric's talisman
+Take-grubs	幼虫 [you chong]	inventoryActions	item	Bucket of sandworms
+Pack	盒 [he]	inventoryActions	item	Shayzien supply crate
+Check charges	检查费用 [jian cha fei yong]	inventoryActions	item	Chronicle
+Check Charges	支票费用 [zhi piao fei yong]	inventoryActions	item	Chronicle
+Teleport to Target	传送到目标 [chuan song dao mu biao]	inventoryActions	item	Dead orb
+Transform	转换 [zhuan huan]	inventoryActions	item	Monkey
+Lap-count	圈数 [quan shu]	inventoryActions	item	Monkey
+Combine	结合 [jie he]	inventoryActions	item	Torn clue scroll (part 1)
+Recoil settings	后坐力设置 [hou zuo li she zhi]	inventoryActions	item	Ring of suffering (r)
+Recoil Settings	后坐力设置 [hou zuo li she zhi]	inventoryActions	item	Ring of suffering (r)
+Pages	页数 [ye shu]	inventoryActions	item	Tome of fire
+Swap	交换 [jiao huan]	inventoryActions	item	Bruma torch
+Invigorate	振奋精神 [zhen fen jing shen]	inventoryActions	item	Imbued heart
+Look at	看看 [kan kan]	inventoryActions	item	Snow globe
+Snow	雪 [xue]	inventoryActions	item	Snow globe
+The Outpost	前哨站 [qian shao zhan]	inventoryActions	item	Necklace of passage(5)
+Eagles' Eyrie	老鹰之巢 [lao ying zhi chao]	inventoryActions	item	Necklace of passage(5)
+Wizards' Tower	巫师塔 [wu shi ta]	inventoryActions	item	Necklace of passage(5)
+Options	选项 [xuan xiang]	inventoryActions	item	Amulet of chemistry
+Bandit Camp	强盗营地 [qiang dao ying di]	inventoryActions	item	Burning amulet(5)
+Lava Maze	熔岩迷宫 [rong yan mi gong]	inventoryActions	item	Burning amulet(5)
+Chaos Temple	混沌神殿 [hun dun shen dian]	inventoryActions	item	Burning amulet(5)
+Change-style	改变风格 [gai bian feng ge]	inventoryActions	item	Rainbow scarf
+Chill	寒意 [han yi]	inventoryActions	item	Hand fan
+Remove default	删除默认值 [shan chu mo ren zhi]	inventoryActions	item	Master scroll book
+Throw-water	泼水 [po shui]	inventoryActions	item	Heat-proof vessel
+Throw-water direction	泼水方向 [po shui fang xiang]	inventoryActions	item	Heat-proof vessel
+Check-level	检查级别 [jian cha ji bie]	inventoryActions	item	Heat-proof vessel
+Throw-water north	向北泼水 [xiang bei po shui]	inventoryActions	item	Heat-proof vessel
+Throw-water east	向东泼水 [xiang dong po shui]	inventoryActions	item	Heat-proof vessel
+Throw-water south	向南泼水 [xiang nan po shui]	inventoryActions	item	Heat-proof vessel
+Throw-water west	向西泼水 [xiang xi po shui]	inventoryActions	item	Heat-proof vessel
+Roll	卷 [juan]	inventoryActions	item	Hoop snake
+Recharge	充值 [chong zhi]	inventoryActions	item	Ancient wyvern shield
+Channel	渠道 [qu dao]	inventoryActions	item	Merfolk trident
+Puff	噗 [pu]	inventoryActions	item	Pufferfish
+Take fish	拿鱼 [na yu]	inventoryActions	item	Bowl of fish
+Reminisce	回忆 [hui yi]	inventoryActions	item	Kharedst's memoirs
+Lunch by the Lancalliums	兰卡利姆一家的午餐 [lan ka li mu yi jia de wu can]	inventoryActions	item	Kharedst's memoirs
+The Fisher's Flute	渔夫的笛子 [yu fu de di zi]	inventoryActions	item	Kharedst's memoirs
+History and Hearsay	历史与传闻 [li shi yu chuan wen]	inventoryActions	item	Kharedst's memoirs
+Jewellery of Jubilation	喜庆珠宝 [xi qing zhu bao]	inventoryActions	item	Kharedst's memoirs
+A Dark Disposition	性格阴暗 [xing ge yin an]	inventoryActions	item	Kharedst's memoirs
+Toggle-absorption	切换吸收 [qie huan xi shou]	inventoryActions	item	Bracelet of ethereum
+Toggle absorption	切换吸收 [qie huan xi shou]	inventoryActions	item	Bracelet of ethereum
+Elite	精英 [jing ying]	inventoryActions	item	Useful rock
+Assessment	评估 [ping gu]	inventoryActions	item	Useful rock
+Slash	削减 [xue jian]	inventoryActions	item	Prop sword
+Control	控制 [kong zhi]	inventoryActions	item	Rotten cabbage
+Spectate	观看 [guan kan]	inventoryActions	item	Rotten cabbage
+Charge	收费 [shou fei]	inventoryActions	item	Sanguinesti staff
+Scry	占卜 [zhan bu]	inventoryActions	item	Oculus orb
+Ver Sinhaza	维尔·辛哈扎 [wei er · xin ha zha]	inventoryActions	item	Drakan's medallion
+Darkmeyer	达克梅尔 [da ke mei er]	inventoryActions	item	Drakan's medallion
+Slepe	斯莱佩 [si lai pei]	inventoryActions	item	Drakan's medallion
+Tele	电话 [dian hua]	inventoryActions	item	Rotten carrot
+Kill Bot	杀死机器人 [sha si ji qi ren]	inventoryActions	item	Rotten carrot
+Kill Area	杀戮区域 [sha lu qu yu]	inventoryActions	item	Rotten carrot
+Change	改变 [gai bian]	inventoryActions	item	Sinhaza shroud tier 1
+Auto-afk	自动AFK [zi dong AFK]	inventoryActions	item	Escape crystal
+Open-all	全部开放 [quan bu kai fang]	inventoryActions	item	Coin pouch
+Close	关闭 [guan bi]	inventoryActions	item	Looting bag
+Weiss	韦斯 [wei si]	inventoryActions	item	Icy basalt
+Troll Stronghold	巨魔要塞 [ju mo yao sai]	inventoryActions	item	Stony basalt
+Collections overview	馆藏概览 [guan cang gai lan]	inventoryActions	item	Collection log
+Collections Overview	馆藏概览 [guan cang gai lan]	inventoryActions	item	Collection log
+Collection Log	采集日志 [cai ji ri zhi]	inventoryActions	item	Collection log
+Fletch	弗莱奇 [fu lai qi]	inventoryActions	item	Celastrus bark
+Kourend Woodland	库伦德林地 [ku lun de lin di]	inventoryActions	item	Rada's blessing 1
+Mount Karuulm	卡鲁尔姆山 [ka lu er mu shan]	inventoryActions	item	Rada's blessing 3
+Check/Uncharge	检查/取消充电 [jian cha / qu xiao chong dian]	inventoryActions	item	Bonecrusher necklace
+Take	拿 [na]	inventoryActions	item	Seed pack
+Take-all	通吃 [tong chi]	inventoryActions	item	Seed pack
+Fill/Check	填写/检查 [tian xie / jian cha]	inventoryActions	item	Bottomless compost bucket
+Easter dance	复活节舞会 [fu huo jie wu hui]	inventoryActions	item	Giant easter egg
+Cut-open	切开式 [qie kai shi]	inventoryActions	item	Giant egg sac(full)
+Check-eggs	检查蛋 [jian cha dan]	inventoryActions	item	Giant egg sac(full)
+Remove-eggs	去除鸡蛋 [qu chu ji dan]	inventoryActions	item	Giant egg sac
+Scrutinise	仔细检查 [zi xi jian cha]	inventoryActions	item	Guthixian icon
+Trophy Emote	奖杯表情 [jiang bei biao qing]	inventoryActions	item	Twisted dragon trophy
+Twisted Relic Emote	扭曲的遗物表情 [niu qu de yi wu biao qing]	inventoryActions	item	Twisted cane
+Chase	追赶 [zhui gan]	inventoryActions	item	Cat ears
+Use	使用 [shi yong]	inventoryActions	item	Plank sack
+Open-All	全部开放 [quan bu kai fang]	inventoryActions	item	Supply crate
+Trailblazer Relic Emote	开拓者遗物表情 [kai tuo zhe yi wu biao qing]	inventoryActions	item	Trailblazer cane
+Trailblazer Area Emote	开拓者区域表情 [kai tuo zhe qu yu biao qing]	inventoryActions	item	Trailblazer cane
+Change-Style	改变风格 [gai bian feng ge]	inventoryActions	item	Infernal harpoon (or)
+Last-destination	最后目的地 [zui hou mu di di]	inventoryActions	item	Fairy mushroom
+Fairy-Ring	仙女戒指 [xian nv jie zhi]	inventoryActions	item	Fairy mushroom
+Spirit-tree	灵树 [ling shu]	inventoryActions	item	Fairy mushroom
+Tool-leprechauns	工具妖精 [gong ju yao jing]	inventoryActions	item	Fairy mushroom
+Teleport-back	传送回来 [chuan song hui lai]	inventoryActions	item	Crystal of echoes
+Check-memories	检查记忆 [jian cha ji yi]	inventoryActions	item	Crystal of echoes
+Save-memory	保存内存 [bao cun nei cun]	inventoryActions	item	Crystal of echoes
+Withdraw	提取 [ti qu]	inventoryActions	item	Extradimensional bag
+Settings/Destroy	设置/销毁 [she zhi / xiao hui]	inventoryActions	item	Extradimensional bag
+League Debug	联赛调试 [lian sai tiao shi]	inventoryActions	item	League tomato
+Setups	设置 [she zhi]	inventoryActions	item	League tomato
+Toggle-colour	切换颜色 [qie huan yan se]	inventoryActions	item	Soul cape
+Scatter	分散 [fen san]	inventoryActions	item	Fiendish ashes
+Trollheim	特罗尔海姆 [te luo er hai mu]	inventoryActions	item	Ghommal's hilt 1
+Mor Ul Rek	莫尔·雷克 [mo er · lei ke]	inventoryActions	item	Ghommal's hilt 4
+Unattune	不协调 [bu xie tiao]	inventoryActions	item	Sigil of resilience
+Attune	调音 [tiao yin]	inventoryActions	item	Sigil of resilience
+Make scary noise	发出可怕的声音 [fa chu ke pa de sheng yin]	inventoryActions	item	Jered's empty wine bottle
+Reverse	撤销 [che xiao]	inventoryActions	item	Ugly halloween jumper (orange)
+Wake-ghost	唤醒幽灵 [huan xing you ling]	inventoryActions	item	Haunted wine bottle
+Read-tag	读标签 [du biao qian]	inventoryActions	item	Secret santa present (red)
+Change-colour	变色 [bian se]	inventoryActions	item	Secret santa present (red)
+Dismantle kit	拆机套件 [chai ji tao jian]	inventoryActions	item	Abyssal whip (or)
+Skill Emote	技能表情 [ji neng biao qing]	inventoryActions	item	Shattered cane
+Boss Emote	老板表情 [lao ban biao qing]	inventoryActions	item	Shattered cane
+Quest Emote	任务表情 [ren wu biao qing]	inventoryActions	item	Shattered cane
+Fragment Emote	片段表情 [pian duan biao qing]	inventoryActions	item	Shattered cane
+Change Spellbook	更改法术书 [geng gai fa shu shu]	inventoryActions	item	Arcane grimoire
+Previous Spellbook	以前的法术书 [yi qian de fa shu shu]	inventoryActions	item	Arcane grimoire
+Check Previous	检查上一个 [jian cha shang yi ge]	inventoryActions	item	Arcane grimoire
+Unimbue	乌尼姆布 [wu ni mu bu]	inventoryActions	item	Wristbands of the arena (i)
+Last Destination	最后目的地 [zui hou mu di di]	inventoryActions	item	Ring of the elements
+Air Altar	空中祭坛 [kong zhong ji tan]	inventoryActions	item	Ring of the elements
+Water Altar	水坛 [shui tan]	inventoryActions	item	Ring of the elements
+Earth Altar	土坛 [tu tan]	inventoryActions	item	Ring of the elements
+Fire Altar	火祭坛 [huo ji tan]	inventoryActions	item	Ring of the elements
+Last-Teleport	最后传送 [zui hou chuan song]	inventoryActions	item	Pharaoh's sceptre
+Jalsavrah	贾尔萨夫拉 [jia er sa fu la]	inventoryActions	item	Pharaoh's sceptre
+Jaleustrophos	水螅属 [shui xi shu]	inventoryActions	item	Pharaoh's sceptre
+Jaldraocht	雅尔德拉赫特 [ya er de la he te]	inventoryActions	item	Pharaoh's sceptre
+Jaltevas	雅尔特瓦斯 [ya er te wa si]	inventoryActions	item	Pharaoh's sceptre
+Attach	附 [fu]	inventoryActions	item	Cursed phalanx
+Place	地方 [di fang]	inventoryActions	item	Mirror
+Withdraw 1	提款1 [ti kuan 1]	inventoryActions	item	Supplies
+Withdraw All	全部撤回 [quan bu che hui]	inventoryActions	item	Supplies
+Resupply	补给 [bu ji]	inventoryActions	item	Supplies
+Apply	申请 [shen qing]	inventoryActions	item	Silk dressing (2)
+Crack	裂缝 [lie feng]	inventoryActions	item	Blessed crystal scarab (2)
+Crush	压碎 [ya sui]	inventoryActions	item	Smelling salts (2)
+Take-from	取自 [qu zi]	inventoryActions	item	Infinite money bag
+Help	帮助 [bang zhu]	inventoryActions	item	Fresh start helper
+Accept trick-or-treat	接受“不给糖就捣蛋” [jie shou “ bu gei tang jiu dao dan ”]	inventoryActions	item	Treat cauldron
+Sniff	嗅闻 [xiu wen]	inventoryActions	item	Smelly sock
+Destinations	目的地 [mu di di]	inventoryActions	item	Ghommal's avernic defender 5
+Craft	工艺 [gong yi]	inventoryActions	item	Secateurs blade
+History	历史 [li shi]	inventoryActions	item	Mulch
+Ancient Vault	古代金库 [gu dai jin ku]	inventoryActions	item	Ring of shadows
+Ghorrock Dungeon	戈罗克地牢 [ge luo ke di lao]	inventoryActions	item	Ring of shadows
+The Scar	伤疤 [shang ba]	inventoryActions	item	Ring of shadows
+Lassar Undercity	拉萨尔幽暗城 [la sa er you an cheng]	inventoryActions	item	Ring of shadows
+The Stranglewood	荆棘林酒店 [jing ji lin jiu dian]	inventoryActions	item	Ring of shadows
+Recall	记起 [ji qi]	inventoryActions	item	Blackstone fragment
+Squeeze	挤 [ji]	inventoryActions	item	Detonator
+Set-off	出发 [chu fa]	inventoryActions	item	Stink bomb
+Fairy-ring	仙女戒指 [xian nv jie zhi]	inventoryActions	item	Trinket of fairies
+Summon	召唤 [zhao huan]	inventoryActions	item	Trinket of undead
+Nexus	关系 [guan xi]	inventoryActions	item	Globetrotter pendant
+Jewellery	首饰 [shou shi]	inventoryActions	item	Globetrotter pendant
+Note-Quantity	备注数量 [bei zhu shu liang]	inventoryActions	item	Banker's note
+Un-note-Quantity	取消备注数量 [qu xiao bei zhu shu liang]	inventoryActions	item	Banker's note
+Dismiss	解雇 [jie gu]	inventoryActions	item	Guardian horn
+Toggle-modes	切换模式 [qie huan mo shi]	inventoryActions	item	Guardian horn
+Change-outfit	换装 [huan zhuang]	inventoryActions	item	Guardian horn
+Change Prayerbook	改变祈祷书 [gai bian qi dao shu]	inventoryActions	item	Ruinous powers
+Toggle-activity	切换活动 [qie huan huo dong]	inventoryActions	item	Echo boots
+Signal	信号 [xin hao]	inventoryActions	item	Basic quetzal whistle
+Rumour	谣言 [yao yan]	inventoryActions	item	Basic quetzal whistle
+Break-down	分解 [fen jie]	inventoryActions	item	Blessed bone statuette
+The Darkfrost	黑霜 [hei shuang]	inventoryActions	item	Pendant of ates
+Twilight Temple	暮光寺 [mu guang si]	inventoryActions	item	Pendant of ates
+Ralos' Rise	拉洛斯的崛起 [la luo si de jue qi]	inventoryActions	item	Pendant of ates
+North Aldarin	北阿尔达林 [bei a er da lin]	inventoryActions	item	Pendant of ates
+Colour	颜色 [yan se]	inventoryActions	item	Beige pumpkin (disgusted)
+Carve	雕刻 [diao ke]	inventoryActions	item	Beige pumpkin (disgusted)
+Withdraw-all	全部撤回 [quan bu che hui]	inventoryActions	item	Forager's pouch
+Withdraw-last	最后提款 [zui hou ti kuan]	inventoryActions	item	Forager's pouch
+Current-step	当前步 [dang qian bu]	inventoryActions	item	Clue compass
+Collect	收集 [shou ji]	inventoryActions	item	Pocket kingdom
+Manage-kingdom	管理王国 [guan li wang guo]	inventoryActions	item	Pocket kingdom
+Relic Emote	遗物表情 [yi wu biao qing]	inventoryActions	item	Raging echoes cane
+Area Emote	区域表情 [qu yu biao qing]	inventoryActions	item	Raging echoes cane
+Detach	分离 [fen li]	inventoryActions	item	Echo venator bow
+Detatch	分离 [fen li]	inventoryActions	item	Echo ahrim's robeskirt 75
+Create-book	创建书籍 [chuang jian shu ji]	inventoryActions	item	Bronze staff of collection
+Bryophyta	苔藓植物门 [tai xian zhi wu men]	inventoryActions	item	Giantsoul amulet
+Obor	一带一路 [yi dai yi lu]	inventoryActions	item	Giantsoul amulet
+Branda and Eldric	布兰达和埃尔德里克 [bu lan da he ai er de li ke]	inventoryActions	item	Giantsoul amulet
+Radius	半径 [ban jing]	inventoryActions	item	Soulflame horn
+Max Players	最大玩家数 [zui da wan jia shu]	inventoryActions	item	Soulflame horn
+Wipe	擦拭 [ca shi]	inventoryActions	item	Jim's wet cloth
+Gl. Attenuation	GL。衰减 [GL。 shuai jian]	inventoryActions	item	Contract of glyphic attenuation
+Se. Clouding	硒。浑浊 [xi 。 hun zhuo]	inventoryActions	item	Contract of sensory clouding
+Bl. Blows	BL。打击 [BL。 da ji]	inventoryActions	item	Contract of bloodied blows
+Di. Severance	迪。遣散费 [di 。 qian san fei]	inventoryActions	item	Contract of divine severance
+Fo. Breath	佛。气息 [fu 。 qi xi]	inventoryActions	item	Contract of forfeit breath
+Examine	检查 [jian cha]	inventoryActions	item	
+Remove	消除 [xiao chu]	inventoryActions	item	
+Add	添加 [tian jia]	inventoryActions	item	
+Add-5	添加5 [tian jia 5]	inventoryActions	item	
+Add-10	添加10 [tian jia 10]	inventoryActions	item	
+Add-All	全部添加 [quan bu tian jia]	inventoryActions	item	
+Add-X	添加-X [tian jia -X]	inventoryActions	item	
