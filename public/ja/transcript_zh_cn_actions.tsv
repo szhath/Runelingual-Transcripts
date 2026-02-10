@@ -1,0 +1,1570 @@
+english	translation	category	sub_category	source
+Study	学习 [xue xi]	actions	item	Fire
+Remove	消除 [xiao chu]	actions	item	Oak lectern
+Lay	莱 [lai]	actions	item	Bird snare
+Activate	激活 [ji huo]	actions	item	Magic box
+Crush	压碎 [ya sui]	actions	item	Smouldering heart
+Eat-from	吃自 [chi zi]	actions	item	Smouldering pile of flesh
+Examine	检查 [jian cha]	actions	item	
+Take	拿 [na]	actions	item	
+Light	光 [guang]	actions	item	
+(Members)	（会员） [（ hui yuan ）]	actions	item	
+Walk here	步行到这里 [bu xing dao zhe li]	actions	manual	
+Cancel	取消 [qu xiao]	actions	manual	
+Accurate	准确的 [zhun que de]	actions	menu	combatOptionsTab
+Aggressive	挑衅的 [tiao xin de]	actions	menu	combatOptionsTab
+Defensive	防守型 [fang shou xing]	actions	menu	combatOptionsTab
+Controlled	受控 [shou kong]	actions	menu	combatOptionsTab
+Chop	劈 [pi]	actions	menu	combatOptionsTab
+Slash	削减 [xue jian]	actions	menu	combatOptionsTab
+Stab	刺 [ci]	actions	menu	combatOptionsTab
+Block	堵塞 [du se]	actions	menu	combatOptionsTab
+Pound	磅 [bang]	actions	menu	combatOptionsTab
+Pummel	揍 [zou]	actions	menu	combatOptionsTab
+Spike	长钉 [zhang ding]	actions	menu	combatOptionsTab
+Impale	刺穿 [ci chuan]	actions	menu	combatOptionsTab
+Smash	粉碎 [fen sui]	actions	menu	combatOptionsTab
+Lunge	弓步 [gong bu]	actions	menu	combatOptionsTab
+Swipe	滑动 [hua dong]	actions	menu	combatOptionsTab
+Hack	黑客 [hei ke]	actions	menu	combatOptionsTab
+Reap	收割 [shou ge]	actions	menu	combatOptionsTab
+Rapid	迅速的 [xun su de]	actions	menu	combatOptionsTab
+Longrange	远程 [yuan cheng]	actions	menu	combatOptionsTab
+Flick	弗利克 [fu li ke]	actions	menu	combatOptionsTab
+Lash	睫毛 [jie mao]	actions	menu	combatOptionsTab
+Deflect	偏转 [pian zhuan]	actions	menu	combatOptionsTab
+Fend	芬德 [fen de]	actions	menu	combatOptionsTab
+Bash	重击 [zhong ji]	actions	menu	combatOptionsTab
+Blaze	火焰 [huo yan]	actions	menu	combatOptionsTab
+Scorch	烧焦 [shao jiao]	actions	menu	combatOptionsTab
+Flare	耀斑 [yao ban]	actions	menu	combatOptionsTab
+Punch	冲床 [chong chuang]	actions	menu	combatOptionsTab
+Kick	踢 [ti]	actions	menu	combatOptionsTab
+Hide	隐藏 [yin cang]	actions	menu	prayerTab
+Activate	激活 [ji huo]	actions	menu	prayerTab
+Unhide	取消隐藏 [qu xiao yin cang]	actions	menu	prayerTab
+Deactivate	停用 [ting yong]	actions	menu	prayerTab
+Animation	动画片 [dong hua pian]	actions	menu	spellBookTab
+Hide	隐藏 [yin cang]	actions	menu	spellBookTab
+Cast	投掷 [tou zhi]	actions	menu	spellBookTab
+Unhide	取消隐藏 [qu xiao yin cang]	actions	menu	spellBookTab
+View	看法 [kan fa]	actions	menu	spellBookTab
+Warnings	警告 [jing gao]	actions	menu	spellBookTab
+Configure	配置 [pei zhi]	actions	menu	spellBookTab
+Grand Exchange	盛大交换 [sheng da jiao huan]	actions	menu	spellBookTab
+Seers'	先知的 [xian zhi de]	actions	menu	spellBookTab
+Group: Previous	组：上一页 [zu ： shang yi ye]	actions	menu	spellBookTab
+Group: Choose	组别：选择 [zu bie ： xuan ze]	actions	menu	spellBookTab
+Outside	外部 [wai bu]	actions	menu	spellBookTab
+Yanille	亚尼尔 [ya ni er]	actions	menu	spellBookTab
+Enable warning	启用警告 [qi yong jing gao]	actions	menu	spellBookTab
+Disable warning	禁用警告 [jin yong jing gao]	actions	menu	spellBookTab
+Turael	图拉尔 [tu la er]	actions	menu	spellBookTab
+Target	目标 [mu biao]	actions	menu	spellBookTab
+Setup	设置 [she zhi]	actions	menu	spellBookTab
+Arceuus	阿尔克乌斯 [a er ke wu si]	actions	menu	spellBookTab
+Ancient	古老的 [gu lao de]	actions	menu	spellBookTab
+Standard	标准 [biao zhun]	actions	menu	spellBookTab
+Reanimate	复活 [fu huo]	actions	menu	spellBookTab
+Resurrect	复活 [fu huo]	actions	menu	spellBookTab
+Adjust Music Volume	调节音乐音量 [tiao jie yin yue yin liang]	actions	menu	settingsTab
+Adjust Area Sound Volume	调整区域音量 [tiao zheng qu yu yin liang]	actions	menu	settingsTab
+Adjust Sound Effect Volume	调节音效音量 [tiao jie yin xiao yin liang]	actions	menu	settingsTab
+Toggle unlock message	切换解锁消息 [qie huan jie suo xiao xi]	actions	menu	settingsTab
+Play	玩 [wan]	actions	menu	
+Open Activity Adviser	开放活动顾问 [kai fang huo dong gu wen]	actions	menu	
+<colNum0>Set chat mode:</col> Group (/@g)		actions	menu	
+<colNum0>Set chat mode:</col> Guest Clan (/@gc)		actions	menu	
+<colNum0>Set chat mode:</col> Clan (/@c)		actions	menu	
+<colNum0>Set chat mode:</col> Channel (/@f)		actions	menu	
+<colNum0>Set chat mode:</col> Public (/@p)		actions	menu	
+Clear history	清除历史记录 [qing chu li shi ji lu]	actions	menu	
+Switch tab	切换选项卡 [qie huan xuan xiang ka]	actions	menu	
+Configure filter	配置过滤器 [pei zhi guo lv qi]	actions	menu	
+<colNum0>Game:</col> Clear history		actions	menu	
+<colNum0>Game:</col> Filter		actions	menu	
+Setup your autochat	设置您的自动聊天 [she zhi nin de zi dong liao tian]	actions	menu	
+Filter public chat	过滤公共聊天 [guo lv gong gong liao tian]	actions	menu	
+<colNum0>Public:</col> Clear history		actions	menu	
+<colNum0>Public:</col> Hide		actions	menu	
+<colNum0>Public:</col> Show none		actions	menu	
+<colNum0>Public:</col> Show friends		actions	menu	
+<colNum0>Public:</col> Show standard		actions	menu	
+<colNum0>Public:</col> Show autochat		actions	menu	
+<colNum0>Private:</col> Clear history		actions	menu	
+<colNum0>Private:</col> Show none		actions	menu	
+<colNum0>Private:</col> Show friends		actions	menu	
+<colNum0>Private:</col> Show all		actions	menu	
+<colNum0>Channel:</col> Clear history		actions	menu	
+<colNum0>Channel:</col> Show none		actions	menu	
+<colNum0>Channel:</col> Show friends		actions	menu	
+<colNum0>Channel:</col> Show all		actions	menu	
+<colNum0>Clan:</col> Clear history		actions	menu	
+<colNum0>Clan:</col> Show none		actions	menu	
+<colNum0>Clan:</col> Show friends		actions	menu	
+<colNum0>Clan:</col> Show all		actions	menu	
+<colNum0>Group:</col> Clear history		actions	menu	
+<colNum0>Group:</col> Show none		actions	menu	
+<colNum0>Group:</col> Show friends		actions	menu	
+<colNum0>Group:</col> Show all		actions	menu	
+<colNum0>Trade:</col> Clear history		actions	menu	
+<colNum0>Trade:</col> Show none		actions	menu	
+<colNum0>Trade:</col> Show friends		actions	menu	
+<colNum0>Trade:</col> Show all		actions	menu	
+Report game bug	报告游戏错误 [bao gao you xi cuo wu]	actions	menu	
+Report abuse	举报滥用行为 [ju bao lan yong xing wei]	actions	menu	
+Combat Options	战斗选项 [zhan dou xuan xiang]	actions	menu	
+Skills	技能 [ji neng]	actions	menu	
+Achievement Diaries	成就日记 [cheng jiu ri ji]	actions	menu	
+Inventory	存货 [cun huo]	actions	menu	
+Worn Equipment	磨损的设备 [mo sun de she bei]	actions	menu	
+Enable prayer reordering	启用祈祷重新排序 [qi yong qi dao chong xin pai xu]	actions	menu	
+Disable prayer filtering	禁用祈祷过滤 [jin yong qi dao guo lv]	actions	menu	
+Prayer	祷告 [dao gao]	actions	menu	
+Enable spell reordering	启用拼写重新排序 [qi yong pin xie chong xin pai xu]	actions	menu	
+Disable spell filtering	禁用拼写过滤 [jin yong pin xie guo lv]	actions	menu	
+Magic	魔法 [mo fa]	actions	menu	
+Friends List	好友列表 [hao you lie biao]	actions	menu	
+Account Management	账户管理 [zhang hu guan li]	actions	menu	
+Ironman Group	铁人集团 [tie ren ji tuan]	actions	menu	
+Settings	设置 [she zhi]	actions	menu	
+Emotes	表情 [biao qing]	actions	menu	
+Music Player	音乐播放器 [yin yue bo fang qi]	actions	menu	
+Logout	退出 [tui chu]	actions	menu	
+Look West	向西看 [xiang xi kan]	actions	menu	
+Look South	向南看 [xiang nan kan]	actions	menu	
+Look East	向东看 [xiang dong kan]	actions	menu	
+Look North	向北看 [xiang bei kan]	actions	menu	
+Setup	设置 [she zhi]	actions	menu	
+Hide	隐藏 [yin cang]	actions	menu	
+Show	展示 [zhan shi]	actions	menu	
+Activate	激活 [ji huo]	actions	menu	
+Toggle Run	切换运行 [qie huan yun xing]	actions	menu	
+Use	使用 [shi yong]	actions	menu	
+Bond Pouch	邦德袋 [bang de dai]	actions	menu	
+Open Store	开店 [kai dian]	actions	menu	
+Clear	清除 [qing chu]	actions	menu	
+Import	进口 [jin kou]	actions	menu	
+Export	出口 [chu kou]	actions	menu	
+Fullscreen <colNum0>World Map</col>		actions	menu	
+Floating <colNum0>World Map</col>		actions	menu	
+DPS	输出功率 [shu chu gong lv]	actions	menu	
+Search	搜索 [sou suo]	actions	menu	
+Lookup	抬头 [tai tou]	actions	menu	
+Auto retaliate	自动报复 [zi dong bao fu]	actions	menu	combatOptionsTab
+Use <colNum0>Special Attack</col>		actions	menu	combatOptionsTab
+Choose spell	选择法术 [xuan ze fa shu]	actions	menu	combatOptionsTab
+Focus	重点 [zhong dian]	actions	menu	combatOptionsTab
+Wiki	维基百科 [wei ji bai ke]	actions	menu	
+Add to canvas	添加到画布 [tian jia dao hua bu]	actions	menu	
+View <colNum0>Attack</col> guide		actions	menu	skillsTab
+View <colNum0>Hitpoints</col> guide		actions	menu	skillsTab
+View <colNum0>Mining</col> guide		actions	menu	skillsTab
+View <colNum0>Strength</col> guide		actions	menu	skillsTab
+View <colNum0>Agility</col> guide		actions	menu	skillsTab
+View <colNum0>Smithing</col> guide		actions	menu	skillsTab
+View <colNum0>Defence</col> guide		actions	menu	skillsTab
+View <colNum0>Herblore</col> guide		actions	menu	skillsTab
+View <colNum0>Fishing</col> guide		actions	menu	skillsTab
+View <colNum0>Ranged</col> guide		actions	menu	skillsTab
+View <colNum0>Thieving</col> guide		actions	menu	skillsTab
+View <colNum0>Cooking</col> guide		actions	menu	skillsTab
+View <colNum0>Prayer</col> guide		actions	menu	skillsTab
+View <colNum0>Crafting</col> guide		actions	menu	skillsTab
+View <colNum0>Firemaking</col> guide		actions	menu	skillsTab
+View <colNum0>Magic</col> guide		actions	menu	skillsTab
+View <colNum0>Fletching</col> guide		actions	menu	skillsTab
+View <colNum0>Woodcutting</col> guide		actions	menu	skillsTab
+View <colNum0>Runecraft</col> guide		actions	menu	skillsTab
+View <colNum0>Slayer</col> guide		actions	menu	skillsTab
+View <colNum0>Farming</col> guide		actions	menu	skillsTab
+View <colNum0>Construction</col> guide		actions	menu	skillsTab
+View <colNum0>Hunter</col> guide		actions	menu	skillsTab
+Character Summary	人物总结 [ren wu zong jie]	actions	menu	characterSummaryTab
+Achievement Diaries	成就日记 [cheng jiu ri ji]	actions	menu	characterSummaryTab
+Quest List	任务列表 [ren wu lie biao]	actions	menu	characterSummaryTab
+Character Summary	人物总结 [ren wu zong jie]	actions	menu	achievementDiaryTab
+Achievement Diaries	成就日记 [cheng jiu ri ji]	actions	menu	achievementDiaryTab
+Quest List	任务列表 [ren wu lie biao]	actions	menu	achievementDiaryTab
+Character Summary	人物总结 [ren wu zong jie]	actions	menu	questListTab
+Achievement Diaries	成就日记 [cheng jiu ri ji]	actions	menu	questListTab
+Quest List	任务列表 [ren wu lie biao]	actions	menu	questListTab
+Character Summary	人物总结 [ren wu zong jie]	actions	menu	
+Quest List	任务列表 [ren wu lie biao]	actions	menu	
+Rewards	奖励 [jiang li]	actions	menu	characterSummaryTab
+Tasks	任务 [ren wu]	actions	menu	characterSummaryTab
+Bosses	老板们 [lao ban men]	actions	menu	characterSummaryTab
+Overview	概述 [gai shu]	actions	menu	characterSummaryTab
+Collection Log	采集日志 [cai ji ri zhi]	actions	menu	characterSummaryTab
+Collection Overview	收藏概览 [shou cang gai lan]	actions	menu	characterSummaryTab
+Reveal	揭示 [jie shi]	actions	menu	characterSummaryTab
+Hide	隐藏 [yin cang]	actions	menu	characterSummaryTab
+Open	打开 [da kai]	actions	menu	questListTab
+Close	关闭 [guan bi]	actions	menu	questListTab
+Start Quest Helper	启动任务助手 [qi dong ren wu zhu shou]	actions	menu	questListTab
+Open wiki quick guide:	打开维基快速指南： [da kai wei ji kuai su zhi nan ：]	actions	menu	questListTab
+Open wiki guide:	打开维基指南： [da kai wei ji zhi nan ：]	actions	menu	questListTab
+Show on map:	在地图上显示： [zai di tu shang xian shi ：]	actions	menu	questListTab
+Read journal:	阅读期刊： [yue du qi kan ：]	actions	menu	questListTab
+Start Helper	启动助手 [qi dong zhu shou]	actions	menu	achievementDiaryTab
+Wiki <colNum0>Ardougne Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Ardougne Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Desert Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Desert Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Falador Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Falador Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Fremennik Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Fremennik Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Kandarin Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Kandarin Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Karamja Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Karamja Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Kourend & Kebos Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Kourend & Kebos Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Lumbridge & Draynor Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Morytania Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Morytania Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Varrock Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Varrock Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Western Provinces Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Western Provinces Journal</col>		actions	menu	achievementDiaryTab
+Wiki <colNum0>Wilderness Journal</col>		actions	menu	achievementDiaryTab
+Open <colNum0>Wilderness Journal</col>		actions	menu	achievementDiaryTab
+View equipment stats	查看设备统计数据 [cha kan she bei tong ji shu ju]	actions	menu	wornEquipmentTab
+View guide prices	查看指导价格 [cha kan zhi dao jia ge]	actions	menu	wornEquipmentTab
+View items kept on death	查看死亡时保留的物品 [cha kan si wang shi bao liu de wu pin]	actions	menu	wornEquipmentTab
+Call follower	呼叫关注者 [hu jiao guan zhu zhe]	actions	menu	wornEquipmentTab
+Disable prayer reordering	禁用祈祷重新排序 [jin yong qi dao chong xin pai xu]	actions	menu	
+Enable prayer filtering	启用祈祷过滤 [qi yong qi dao guo lv]	actions	menu	
+Disable spell reordering	禁用拼写重新排序 [jin yong pin xie chong xin pai xu]	actions	menu	
+Enable spell filtering	启用拼写过滤 [qi yong pin xie guo lv]	actions	menu	
+Show notifications	显示通知 [xian shi tong zhi]	actions	menu	
+Add Note	添加注释 [tian jia zhu shi]	actions	menu	
+Hide notifications	隐藏通知 [yin cang tong zhi]	actions	menu	
+Delete	删除 [shan chu]	actions	menu	friendsTab
+Message	信息 [xin xi]	actions	menu	friendsTab
+View Ignore List	查看忽略列表 [cha kan hu lve lie biao]	actions	menu	friendsTab
+Add Friend	添加好友 [tian jia hao you]	actions	menu	friendsTab
+Delete Friend	删除好友 [shan chu hao you]	actions	menu	friendsTab
+Hop-to	跳至 [tiao zhi]	actions	menu	friendsTab
+View Friends List	查看好友列表 [cha kan hao you lie biao]	actions	menu	ignoreTab
+Delete	删除 [shan chu]	actions	menu	ignoreTab
+Add Name	添加姓名 [tian jia xing ming]	actions	menu	ignoreTab
+Delete Name	删除姓名 [shan chu xing ming]	actions	menu	ignoreTab
+Account	帐户 [zhang hu]	actions	menu	accountManagementTab
+Community	社区 [she qu]	actions	menu	accountManagementTab
+Useful Links	有用的链接 [you yong de lian jie]	actions	menu	accountManagementTab
+Open Store	开店 [kai dian]	actions	menu	accountManagementTab
+Bond Pouch	邦德袋 [bang de dai]	actions	menu	accountManagementTab
+View Inbox	查看收件箱 [cha kan shou jian xiang]	actions	menu	accountManagementTab
+Name Changer	更名者 [geng ming zhe]	actions	menu	accountManagementTab
+View History	查看历史记录 [cha kan li shi ji lu]	actions	menu	accountManagementTab
+View Newspost	查看新闻帖子 [cha kan xin wen tie zi]	actions	menu	accountManagementTab
+View Archive	查看档案 [cha kan dang an]	actions	menu	accountManagementTab
+Open	打开 [da kai]	actions	menu	accountManagementTab
+Settings	设置 [she zhi]	actions	menu	groupTab
+Refresh	刷新 [shua xin]	actions	menu	groupTab
+Join	加入 [jia ru]	actions	menu	groupTab
+Setup	设置 [she zhi]	actions	menu	groupTab
+Find	寻找 [xun zhao]	actions	menu	groupTab
+Open	打开 [da kai]	actions	menu	groupTab
+Add friend	添加好友 [tian jia hao you]	actions	menu	groupTab
+Add ignore	添加忽略 [tian jia hu lve]	actions	menu	groupTab
+Teleport	传送 [chuan song]	actions	menu	groupTab
+Select	选择 [xuan ze]	actions	menu	groupTab
+Join <colNum0><!ANY_TRANSLATED0></col> channel		actions	menu	groupTab
+Leave <colNum0><!ANY_TRANSLATED0></col> channel		actions	menu	groupTab
+Teleport to <colNum0><!ANY_TRANSLATED0></col>		actions	menu	groupTab
+Add friend <!PLAYER_NAME0>	添加好友<!PLAYER_NAME0> [tian jia hao you <!PLAYER_NAME0>]	actions	menu	groupTab
+Add ignore <!PLAYER_NAME0>	添加忽略<!PLAYER_NAME0> [tian jia hu lve <!PLAYER_NAME0>]	actions	menu	groupTab
+Remove friend <!PLAYER_NAME0>	删除好友<!PLAYER_NAME0> [shan chu hao you <!PLAYER_NAME0>]	actions	menu	groupTab
+Remove ignore <!PLAYER_NAME0>	删除忽略<!PLAYER_NAME0> [shan chu hu lve <!PLAYER_NAME0>]	actions	menu	groupTab
+View Channel	查看频道 [cha kan pin dao]	actions	menu	groupTab
+Toggle skull prevention	切换颅骨预防 [qie huan lu gu yu fang]	actions	menu	settingsTab
+Toggle Accept Aid	切换接受援助 [qie huan jie shou yuan zhu]	actions	menu	settingsTab
+Toggle Run	切换运行 [qie huan yun xing]	actions	menu	settingsTab
+View House Options	查看房屋选项 [cha kan fang wu xuan xiang]	actions	menu	settingsTab
+Open Bond Pouch	打开债券袋 [da kai zhai quan dai]	actions	menu	settingsTab
+All Settings	所有设置 [suo you she zhi]	actions	menu	settingsTab
+Controls	控制 [kong zhi]	actions	menu	settingsTab
+Display	展示 [zhan shi]	actions	menu	settingsTab
+Audio	声音的 [sheng yin de]	actions	menu	settingsTab
+Unmute	取消静音 [qu xiao jing yin]	actions	menu	settingsTab
+Adjust Brightness	调节亮度 [tiao jie liang du]	actions	menu	settingsTab
+Restore Default Zoom	恢复默认缩放 [hui fu mo ren suo fang]	actions	menu	settingsTab
+Disable	禁用 [jin yong]	actions	menu	settingsTab
+Select	选择 [xuan ze]	actions	menu	settingsTab
+Perform	履行 [lv xing]	actions	menu	emotesTab
+Perform <colNum0>Relic unlock</col>		actions	menu	emotesTab
+Loop	环形 [huan xing]	actions	menu	emotesTab
+Area	区域 [qu yu]	actions	menu	musicTab
+Manual	手动的 [shou dong de]	actions	menu	musicTab
+Random	随机的 [sui ji de]	actions	menu	musicTab
+Unlock hint	解锁提示 [jie suo ti shi]	actions	menu	musicTab
+Play	玩 [wan]	actions	menu	musicTab
+Toggle	切换 [qie huan]	actions	menu	musicTab
+Open	打开 [da kai]	actions	menu	musicTab
+Thumbs Up	竖起大拇指 [shu qi da mu zhi]	actions	menu	logoutTab
+Thumbs Down	拇指朝下 [mu zhi chao xia]	actions	menu	logoutTab
+World Switcher	世界切换器 [shi jie qie huan qi]	actions	menu	logoutTab
+Logout	退出 [tui chu]	actions	menu	logoutTab
+Favourite	最喜欢的 [zui xi huan de]	actions	menu	worldSwitcherTab
+Switch	转变 [zhuan bian]	actions	menu	worldSwitcherTab
+Logout	退出 [tui chu]	actions	menu	worldSwitcherTab
+Clear	清除 [qing chu]	actions	menu	worldSwitcherTab
+Close	关闭 [guan bi]	actions	menu	worldSwitcherTab
+Configure	配置 [pei zhi]	actions	menu	worldSwitcherTab
+Grouping	分组 [fen zu]	actions	menu	groupTab
+Ironman Group	铁人集团 [tie ren ji tuan]	actions	menu	groupTab
+Chat-channel	聊天频道 [liao tian pin dao]	actions	menu	groupTab
+Your Clan	你的氏族 [ni de shi zu]	actions	menu	groupTab
+View another clan	查看另一个部落 [cha kan ling yi ge bu luo]	actions	menu	groupTab
+Message	信息 [xin xi]	actions	menu	groupTab
+Remove friend	删除好友 [shan chu hao you]	actions	menu	groupTab
+Switch world	切换世界 [qie huan shi jie]	actions	menu	groupTab
+View Poll	查看投票 [cha kan tou piao]	actions	menu	accountManagementTab
+Viewer	观众 [guan zhong]	actions	menu	
+On	在 [zai]	actions	menu	
+Off	离开 [li kai]	actions	menu	
+Expel Guests	驱逐客人 [qu zhu ke ren]	actions	menu	
+Call Servant	召唤仆人 [zhao huan pu ren]	actions	menu	
+Leave House	离开家 [li kai jia]	actions	menu	
+Open subsection	打开小节 [da kai xiao jie]	actions	menu	
+Move	移动 [yi dong]	actions	menu	
+Learn More	了解更多 [liao jie geng duo]	actions	menu	
+Talk-to	谈话 [tan hua]	actions	npc	Tool Leprechaun
+Exchange	交换 [jiao huan]	actions	npc	Tool Leprechaun
+Attack	攻击 [gong ji]	actions	npc	Molanisk
+Trade	贸易 [mao yi]	actions	npc	Hudo
+Travel	旅行 [lv xing]	actions	npc	Rug Merchant
+Pet	宠物 [chong wu]	actions	npc	Dog
+Dyes	染料 [ran liao]	actions	npc	Aggie
+Challenge	挑战 [tiao zhan]	actions	npc	Yama
+Guess-letter	猜字 [cai zi]	actions	npc	Hangman game
+Banish	放逐 [fang zhu]	actions	npc	Hangman game
+Reset	重置 [zhong zhi]	actions	npc	Hangman game
+Hit	打 [da]	actions	npc	Combat stone
+Dismiss	解雇 [jie gu]	actions	npc	Dr Jekyll
+Rewards	奖励 [jiang li]	actions	npc	Emblem Trader
+Skull	颅骨 [lu gu]	actions	npc	Emblem Trader
+Pay	支付 [zhi fu]	actions	npc	Ayesha
+Armour	盔甲 [kui jia]	actions	npc	Ironman tutor
+Setup	设置 [she zhi]	actions	npc	Ironman tutor
+Check-pets	检查宠物 [jian cha chong wu]	actions	npc	Leagues Tutor
+Collect-items	收集物品 [shou ji wu pin]	actions	npc	Leagues Tutor
+Claim-trophies	领取奖杯 [ling qu jiang bei]	actions	npc	Leagues Tutor
+Pick-up	捡起 [jian qi]	actions	npc	Dark core
+Metamorphosis	变态 [bian tai]	actions	npc	Dark core
+Pick	挑选 [tiao xuan]	actions	npc	Strange plant
+Grab	抓住 [zhua zhu]	actions	npc	Suspect
+Pop	流行音乐 [liu xing yin yue]	actions	npc	Balloon Animal
+Kill	杀 [sha]	actions	npc	Pheasant
+Disturb	打扰 [da rao]	actions	npc	Phosani's Nightmare
+Gauntlets	护手 [hu shou]	actions	npc	Avan
+Lure	饵 [er]	actions	npc	Rod Fishing spot
+Bait	饵 [er]	actions	npc	Rod Fishing spot
+Pickpocket	扒手 [pa shou]	actions	npc	Guard
+Assignment	任务 [ren wu]	actions	npc	Vannaka
+Search	搜索 [sou suo]	actions	npc	Entomologist
+Confront	面对 [mian dui]	actions	npc	Mi-Gor
+Transport	运输 [yun shu]	actions	npc	Brother Tranquility
+Intimidate	威吓 [wei he]	actions	npc	Zombie swab
+Fish	鱼 [yu]	actions	npc	Fishing spot
+Smash-ice	碎冰 [sui bing]	actions	npc	Ice block
+Shear	剪切 [jian qie]	actions	npc	Sheep
+Knock-Out	昏死 [hun si]	actions	npc	Bandit
+Bank	银行 [yin hang]	actions	npc	Banker
+Collect	收集 [shou ji]	actions	npc	Banker
+Check-Approval	检查-批准 [jian cha - pi zhun]	actions	npc	Arnor
+Tuxedo-time	燕尾服时间 [yan wei fu shi jian]	actions	npc	Larry
+Mines	地雷 [di lei]	actions	npc	Dartog
+Cellar	地窖 [di jiao]	actions	npc	Dartog
+Dream	梦 [meng]	actions	npc	Dominic Onion
+Take-boat	乘船 [cheng chuan]	actions	npc	Monk of Entrana
+Inspect	检查 [jian cha]	actions	npc	Lumbridge Guide
+Trade-General-Store	贸易杂货店 [mao yi za huo dian]	actions	npc	Razmire Keelgan
+Trade-Builders-Store	贸易建设者商店 [mao yi jian she zhe shang dian]	actions	npc	Razmire Keelgan
+Haircut	理发 [li fa]	actions	npc	Hairdresser
+Shave	刮胡子 [gua hu zi]	actions	npc	Hairdresser
+Makeover	改造 [gai zao]	actions	npc	Makeover Mage
+Talk-To	谈话 [tan hua]	actions	npc	Tarquin
+Quick-falcon	快隼 [kuai sun]	actions	npc	Matthias
+Retrieve	取回 [qu hui]	actions	npc	Gyr Falcon
+Give-Sword	赐剑 [ci jian]	actions	npc	Tindel Marchant
+Mine	矿 [kuang]	actions	npc	Elemental rock
+Push	推 [tui]	actions	npc	Trolley
+Pull	拉 [la]	actions	npc	Trolley
+Big-push	大推 [da tui]	actions	npc	Trolley
+Place	地方 [di fang]	actions	npc	Trolley
+Claim-arrows	索赔箭头 [suo pei jian tou]	actions	npc	Rantz
+Inflate	膨胀 [peng zhang]	actions	npc	Swamp toad
+Pluck	采摘 [cai zhai]	actions	npc	Chompy bird
+Shout-to	呼喊 [hu han]	actions	npc	Nickolaus
+Quick-travel	快速出行 [kuai su chu xing]	actions	npc	Desert eagle
+Walk-past	走过去 [zou guo qu]	actions	npc	Eagle
+Threaten	威胁 [wei xie]	actions	npc	Kebbit
+Small Net	小网 [xiao wang]	actions	npc	Fishing spot
+Net	网 [wang]	actions	npc	Fishing spot
+Ammo	弹药 [dan yao]	actions	npc	Leon
+Cage	笼 [long]	actions	npc	Fishing spot
+Harpoon	鱼叉 [yu cha]	actions	npc	Fishing spot
+Big Net	大网 [da wang]	actions	npc	Fishing spot
+Use-rod	使用杆 [shi yong gan]	actions	npc	Fishing spot
+Escort	护送 [hu song]	actions	npc	Smiddi Ryak (hard)
+Supply	供应 [gong ying]	actions	npc	Smiddi Ryak (hard)
+Claim-runes	声称符文 [sheng cheng fu wen]	actions	npc	Lundail
+Chase	追赶 [zhui gan]	actions	npc	Cat
+Interact	相互影响 [xiang hu ying xiang]	actions	npc	Cat
+Catch	抓住 [zhua zhu]	actions	npc	Baby impling
+Get-rewards	获得奖励 [huo de jiang li]	actions	npc	Commander Connad
+Tutorial	教程 [jiao cheng]	actions	npc	Captain Cain
+Start-minigame	开始小游戏 [kai shi xiao you xi]	actions	npc	Guardian mummy
+Teleport	传送 [chuan song]	actions	npc	Apprentice
+Join-Crew	加入船员 [jia ru chuan yuan]	actions	npc	San Fan
+Join-Team	加入团队 [jia ru tuan dui]	actions	npc	Honest Jimmy
+Pick-pocket	扒手 [pa shou]	actions	npc	Fairy Godfather
+Craft-goods	工艺品 [gong yi pin]	actions	npc	Thakkrad Sigmundson
+Rellekka	雷莱卡 [lei lai ka]	actions	npc	Maria Gunnars
+Neitiznot	内蒂兹诺特 [nei di zi nuo te]	actions	npc	Maria Gunnars
+Jatizso	贾蒂索 [jia di suo]	actions	npc	Mord Gunnars
+Watch-shouting	观看喊叫 [guan kan han jiao]	actions	npc	Guard
+Kick	踢 [ti]	actions	npc	Bed
+Claim-Tokens	领取代币 [ling qu dai bi]	actions	npc	Lorelai
+History	历史 [li shi]	actions	npc	Grand Exchange Clerk
+Sets	套 [tao]	actions	npc	Grand Exchange Clerk
+Prices	价格 [jia ge]	actions	npc	Brugsen Bursen
+Exchange fire cape	交换火斗篷 [jiao huan huo dou peng]	actions	npc	TzHaar-Mej-Jal
+Destroy	破坏 [po huai]	actions	npc	Door-support
+Tickets	门票 [men piao]	actions	npc	Cart conductor
+Listen-to	听 [ting]	actions	npc	Red Axe Director
+Claim-Shield	索赔盾 [suo pei dun]	actions	npc	Gamfred
+talk	讲话 [jiang hua]	actions	npc	Gate of War
+Get job (easy)	找工作（简单） [zhao gong zuo （ jian dan ）]	actions	npc	Gianne jnr.
+Get job (hard)	找工作（难） [zhao gong zuo （ nan ）]	actions	npc	Gianne jnr.
+Repairs	维修 [wei xiu]	actions	npc	Dark Mage
+Sober-Up	醒酒 [xing jiu]	actions	npc	Skippy
+Walk here	步行到这里 [bu xing dao zhe li]	actions	npc	Purepker895
+Follow	跟随 [gen sui]	actions	npc	Purepker895
+Pay (north-west)	付费（西北） [fu fei （ xi bei ）]	actions	npc	Elstan
+Pay (south-east)	付费（东南） [fu fei （ dong nan ）]	actions	npc	Elstan
+Pay (north)	付费（北） [fu fei （ bei ）]	actions	npc	Dantaera
+Pay (south)	付费（南） [fu fei （ nan ）]	actions	npc	Dantaera
+Detach	分离 [fen li]	actions	npc	Combat dummy
+Upgrade	升级 [sheng ji]	actions	npc	Combat dummy
+Remove	消除 [xiao chu]	actions	npc	Combat dummy
+Shoo	徐 [xu]	actions	npc	Clockwork cat
+Fur Clothing	皮衣 [pi yi]	actions	npc	Asyff
+Shoo-away	疾走 [ji zou]	actions	npc	Stray dog
+Tease	逗 [dou]	actions	npc	Sabre-toothed kyatt
+Leave	离开 [li kai]	actions	npc	Squire
+Claim-slime	声称粘液 [sheng cheng nian ye]	actions	npc	Robin
+Use	使用 [shi yong]	actions	npc	Portal
+Exit	出口 [chu kou]	actions	npc	Portal
+Relocate	搬迁 [ban qian]	actions	npc	Estate agent
+Redecorate	重新装修 [chong xin zhuang xiu]	actions	npc	Estate agent
+Buy-plank	买板 [mai ban]	actions	npc	Sawmill operator
+Age	年龄 [nian ling]	actions	npc	Hans
+Tackle	处理 [chu li]	actions	npc	Gnome baller
+Pass-to	传递到 [chuan di dao]	actions	npc	Gnome winger
+Claim	宣称 [xuan cheng]	actions	npc	Ranged combat tutor
+Buy	买 [mai]	actions	npc	Fadli
+Heal	愈合 [yu he]	actions	npc	A'abla
+Stroke	中风 [zhong feng]	actions	npc	Gertrude's cat
+Climb-over	爬过去 [pa guo qu]	actions	npc	Pile of bones
+Melt	熔化 [rong hua]	actions	npc	Crust of ice
+Clear	清除 [qing chu]	actions	npc	Furnace grate
+Take	拿 [na]	actions	npc	Iron pickaxe
+Steal-from	偷窃 [tou qie]	actions	npc	Digsite workman
+Pay-fare	付费车费 [fu fei che fei]	actions	npc	Captain Tobias
+Pay-Fare	付费车费 [fu fei che fei]	actions	npc	Customs officer
+Go-inside	进去 [jin qu]	actions	npc	House
+Pirate's Cove	海盗湾 [hai dao wan]	actions	npc	Lokar Searunner
+Deposit-items	存款项目 [cun kuan xiang mu]	actions	npc	Peer the Seer
+Miscellania	杂记 [za ji]	actions	npc	Sailor
+Prod	产品 [chan pin]	actions	npc	Red Sheep
+Return-Home	返回首页 [fan hui shou ye]	actions	npc	Bill Teach
+Devices	设备 [she bei]	actions	npc	Ava
+Chop	劈 [pi]	actions	npc	Undead tree
+Roll	卷 [juan]	actions	npc	Boulder
+Watch	手表 [shou biao]	actions	npc	Mercenary Captain
+Buy-pass	购买通行证 [gou mai tong xing zheng]	actions	npc	Shantay
+Pass	经过 [jing guo]	actions	npc	Shantay Guard
+Fly	飞 [fei]	actions	npc	Auguste
+Decant	醒酒 [xing jiu]	actions	npc	Zahur
+Clean	干净的 [gan jing de]	actions	npc	Zahur
+Make unfinished potion(s)	制作未完成的药水 [zhi zuo wei wan cheng de yao shui]	actions	npc	Zahur
+Shoot	射击 [she ji]	actions	npc	Target
+Shop	店铺 [dian pu]	actions	npc	Ezekial Lovecraft
+Board	木板 [mu ban]	actions	npc	Ogre boat
+Potions	药水 [yao shui]	actions	npc	Apothecary
+Grab-feather	抓羽毛 [zhua yu mao]	actions	npc	Desert Phoenix
+Take-from	取自 [qu zi]	actions	npc	Jig cart
+Coffer	保险箱 [bao xian xiang]	actions	npc	Yohnus
+Attract	吸引 [xi yin]	actions	npc	Light creature
+Call-Over	呼叫 [hu jiao]	actions	npc	Zombie
+Insult	侮辱 [wu ru]	actions	npc	Zombie
+Scare	吓 [xia]	actions	npc	Zombie
+Skin	皮肤 [pi fu]	actions	npc	Swamp snake
+Burn	烧伤 [shao shang]	actions	npc	Barricade
+Extinguish	熄灭 [xi mie]	actions	npc	Barricade
+Quick-withdraw	快速退出 [kuai su tui chu]	actions	npc	Elnock Inquisitor
+Check-gates	检查门 [jian cha men]	actions	npc	Wandering impling
+Sand	沙 [sha]	actions	npc	Bert
+Request-supplies	请求供应 [qing qiu gong ying]	actions	npc	Bork Sigmundson
+Sew	缝 [feng]	actions	npc	Patchy
+Check	查看 [cha kan]	actions	npc	Probita
+View Laps	查看圈数 [cha kan quan shu]	actions	npc	Grace
+Toggle Counter	切换计数器 [qie huan ji shu qi]	actions	npc	Grace
+Tap	轻敲 [qing qiao]	actions	npc	Skullball
+Show-Goal	显示目标 [xian shi mu biao]	actions	npc	Skullball
+Give-Stick	给予棒 [ji yu bang]	actions	npc	Agility Trainer
+Waterbirth Island	水中分娩岛 [shui zhong fen mian dao]	actions	npc	Jarvald
+Take-flyer	传单 [chuan dan]	actions	npc	Ali the Leaflet Dropper
+Trade-with	贸易与 [mao yi yu]	actions	npc	Rewards Guardian
+Trade-Co-op	贸易合作社 [mao yi he zuo she]	actions	npc	Gabooty
+Trade-Drinks	贸易饮料 [mao yi yin liao]	actions	npc	Gabooty
+Send-parcel	寄送包裹 [ji song bao guo]	actions	npc	Rionasta
+Peek	窥视 [kui shi]	actions	npc	Eye
+Deposit-box	保管箱 [bao guan xiang]	actions	npc	Financial Seer
+Move	移动 [yi dong]	actions	npc	Boulder
+Log-storage	日志存储 [ri zhi cun chu]	actions	npc	Friendly Forester
+Claim Sand	索取沙子 [suo qu sha zi]	actions	npc	Drew
+Deposit buckets	存款桶 [cun kuan tong]	actions	npc	Drew
+Toggle warnings	切换警告 [qie huan jing gao]	actions	npc	Doomsayer
+Remove PvP Protection	移除 PvP 保护 [yi chu  PvP  bao hu]	actions	npc	Doomsayer
+Observe	观察 [guan cha]	actions	npc	Maze Guardian
+New-maze	新迷宫 [xin mi gong]	actions	npc	Maze Guardian
+Maxhit Variant	最大变体 [zui da bian ti]	actions	npc	Combat Test
+Kill-count	击杀数 [ji sha shu]	actions	npc	Soldier
+Canyon-count (east)	峡谷计数（东） [xia gu ji shu （ dong ）]	actions	npc	Soldier
+Canyon-count (west)	峡谷计数（西） [xia gu ji shu （ xi ）]	actions	npc	Soldier
+Pay (north-east)	付费（东北） [fu fei （ dong bei ）]	actions	npc	Marisi
+Pay (south-west)	付费（西南） [fu fei （ xi nan ）]	actions	npc	Marisi
+Task	任务 [ren wu]	actions	npc	Captain Khaled
+Help	帮助 [bang zhu]	actions	npc	Villia
+Spellbook	法术书 [fa shu shu]	actions	npc	Tyss
+Climb-on	爬上去 [pa shang qu]	actions	npc	Stunted demonic gorilla
+Glider	滑翔机 [hua xiang ji]	actions	npc	Captain Shoracks
+Watermill	水磨坊 [shui mo fang]	actions	npc	Mistag
+Join	加入 [jia ru]	actions	npc	Lisa
+Locking	锁定 [suo ding]	actions	npc	Rift guardian
+Check Scores	检查分数 [jian cha fen shu]	actions	npc	Captain Kalt
+Contract	合同 [he tong]	actions	npc	Amy
+Last-tier contract	最后一层合同 [zui hou yi ceng he tong]	actions	npc	Amy
+Port Sarim	沙里姆港 [sha li mu gang]	actions	npc	Captain Magoro
+Port Piscarilius	皮斯卡利留斯港 [pi si ka li liu si gang]	actions	npc	Captain Magoro
+Feed	喂养 [wei yang]	actions	npc	Lux grub
+Douse	杜斯 [du si]	actions	npc	Fire
+Cut	切 [qie]	actions	npc	Meat tree
+Smash	粉碎 [fen sui]	actions	npc	Jewelled Crab
+Claim-cape	索赔海角 [suo pei hai jiao]	actions	npc	Captain Rimor
+Set-difficulty	设定难度 [she ding nan du]	actions	npc	Captain Rimor
+Fight	斗争 [dou zheng]	actions	npc	Abigale
+Bars	酒吧 [jiu ba]	actions	npc	Pirate Jackie the Fruit
+Toggle-minerals	切换-矿物质 [qie huan - kuang wu zhi]	actions	npc	Belona
+Kitten	小猫 [xiao mao]	actions	npc	Gertrude
+Toggle-vials	切换瓶 [qie huan ping]	actions	npc	Barbarian guard
+Redeem-code	兑换代码 [dui huan dai ma]	actions	npc	Recruiter
+Purchase Amulet	购买护身符 [gou mai hu shen fu]	actions	npc	Wizard Mizgog
+Staves	法杖 [fa zhang]	actions	npc	Dark Mage
+Deboard	下车 [xia che]	actions	npc	Barge guard
+Toggle Fossils	切换化石 [qie huan hua shi]	actions	npc	Peter
+Poke	戳 [chuo]	actions	npc	Bobbing fossil
+Training	训练 [xun lian]	actions	npc	Mairin
+Harvest	收成 [shou cheng]	actions	npc	Herbiboar
+Stun	击晕 [ji yun]	actions	npc	Hoop Snake
+Murder	谋杀 [mou sha]	actions	npc	Conrad King
+Quick-Travel	快速旅行 [kuai su lv xing]	actions	npc	Barge guard
+Escape	逃脱 [tao tuo]	actions	npc	Brundt the Chieftain
+Scry	占卜 [zhan bu]	actions	npc	Abigaila
+Claim Pet Rock	领取宠物石 [ling qu chong wu shi]	actions	npc	Askeladden
+Standard Variant	标准版本 [biao zhun ban ben]	actions	npc	Combat Test (maxhit)
+Get-log	获取日志 [huo qu ri zhi]	actions	npc	The Collector
+Claim-log-rewards	领取日志奖励 [ling qu ri zhi jiang li]	actions	npc	The Collector
+Get bird	得到鸟 [de dao niao]	actions	npc	Alry the Angler
+Pay (Fruit tree)	付费（果树） [fu fei （ guo shu ）]	actions	npc	Nikkie
+Pay (tree patch)	支付（树补丁） [zhi fu （ shu bu ding ）]	actions	npc	Rosie
+Pay (Redwood tree)	支付（红木树） [zhi fu （ hong mu shu ）]	actions	npc	Alexandra
+Pay (Spirit tree)	支付（灵树） [zhi fu （ ling shu ）]	actions	npc	Latlink Fastbell
+Swap	交换 [jiao huan]	actions	npc	Ornate combat dummy
+Pay (Celastrus tree)	支付（南蛇藤树） [zhi fu （ nan she teng shu ）]	actions	npc	Taylor
+Land's End	陆地的尽头 [lu di de jin tou]	actions	npc	Veos
+Join Castle Wars	加入城堡战争 [jia ru cheng bao zhan zheng]	actions	npc	Saradominist recruiter
+Holiday-items	节日物品 [jie ri wu pin]	actions	npc	Diango
+Tan-hides	棕皮 [zong pi]	actions	npc	Eodan
+Ardougne	阿尔杜涅 [a er du nie]	actions	npc	Captain Barnaby
+Brimhaven	布里姆港 [bu li mu gang]	actions	npc	Captain Barnaby
+Rimmington	里明顿 [li ming dun]	actions	npc	Captain Barnaby
+Enchant	附魔 [fu mo]	actions	npc	Eluned
+Quick-escape	快速逃脱 [kuai su tao tuo]	actions	npc	Elena
+Investigate	调查 [diao cha]	actions	npc	Elderly Elf
+Fix-exoskeleton	固定外骨骼 [gu ding wai gu ge]	actions	npc	Elderly Elf
+Chop down	砍下来 [kan xia lai]	actions	npc	Tree
+Sing	唱歌 [chang ge]	actions	npc	Reese
+Statistics	统计数据 [tong ji shu ju]	actions	npc	Ystwyth
+Repair	维修 [wei xiu]	actions	npc	Aneirin
+Open Adventure Paths	开放冒险之路 [kai fang mao xian zhi lu]	actions	npc	Adventurer Jon
+Island of Stone	石头岛 [shi tou dao]	actions	npc	Haskell
+Charter	宪章 [xian zhang]	actions	npc	Trader Stan
+Charter-to Brimhaven	包车到布里姆港 [bao che dao bu li mu gang]	actions	npc	Trader Stan
+Charter-to Catherby	包机至凯瑟比 [bao ji zhi kai se bi]	actions	npc	Trader Stan
+Charter-to Mos Le'Harmless	包机前往莫斯勒哈姆勒斯 (Mos Le'Harmless) [bao ji qian wang mo si lei ha mu lei si  (Mos Le'Harmless)]	actions	npc	Trader Stan
+Charter-to Musa Point	包车前往穆萨角 [bao che qian wang mu sa jiao]	actions	npc	Trader Stan
+Charter-to Port Khazard	包船至卡扎德港 [bao chuan zhi ka zha de gang]	actions	npc	Trader Stan
+Charter-to Port Phasmatys	租船至 Phasmatys 港 [zu chuan zhi  Phasmatys  gang]	actions	npc	Trader Stan
+Charter-to Port Sarim	包船至沙里姆港 [bao chuan zhi sha li mu gang]	actions	npc	Trader Stan
+Charter-to Shipyard	租船至船厂 [zu chuan zhi chuan chang]	actions	npc	Trader Stan
+Charter-to Corsair Cove	包船前往海盗湾 [bao chuan qian wang hai dao wan]	actions	npc	Trader Stan
+Charter-to Prifddinas	包租到普里夫迪纳斯 [bao zu dao pu li fu di na si]	actions	npc	Trader Stan
+Charter-to Port Tyras	包租到泰拉斯港 [bao zu dao tai la si gang]	actions	npc	Trader Stan
+Charge	收费 [shou fei]	actions	npc	Totem
+Spectate	观看 [guan kan]	actions	npc	The Nightmare
+Convert-shards	转换分片 [zhuan huan fen pian]	actions	npc	Noranna Tytanin
+Loot	抢劫 [qiang jie]	actions	npc	Grave
+Lap-count	圈数 [quan shu]	actions	npc	Bobawu
+Value	价值 [jia zhi]	actions	npc	Skully
+Settings	设置 [she zhi]	actions	npc	Skully
+Ungael	恩盖尔 [en gai er]	actions	npc	Torfinn
+Glider-to Ta Quir Priw	滑翔机至 Ta Quir Priw [hua xiang ji zhi  Ta Quir Priw]	actions	npc	Gnormadium Avlafrim
+Glider-to Gandius	滑翔机至甘迪乌斯 [hua xiang ji zhi gan di wu si]	actions	npc	Gnormadium Avlafrim
+Glider-to Kar-Hewo	滑翔机到卡赫沃 [hua xiang ji dao ka he wo]	actions	npc	Gnormadium Avlafrim
+Glider-to Lemanto Andra	滑翔机至莱曼托安德拉 [hua xiang ji zhi lai man tuo an de la]	actions	npc	Gnormadium Avlafrim
+Glider-to Sindarpos	滑翔机飞往辛达尔波斯 [hua xiang ji fei wang xin da er bo si]	actions	npc	Gnormadium Avlafrim
+Glider-to Ookookolly Undri	滑翔机至 Oookookolly Undri [hua xiang ji zhi  Oookookolly Undri]	actions	npc	Gnormadium Avlafrim
+Glider-to Lemantolly Undri	滑翔机至莱曼托利翁德里 [hua xiang ji zhi lai man tuo li weng de li]	actions	npc	Captain Dalbur
+Other-services	其他服务 [qi ta fu wu]	actions	npc	Thessalia
+Leave-tutorial	休假教程 [xiu jia jiao cheng]	actions	npc	Nomad
+Fill	充满 [chong man]	actions	npc	Ammunition crate
+Check-ammo	检查弹药 [jian cha dan yao]	actions	npc	Ammunition crate
+Forfeit	丧失 [sang shi]	actions	npc	Captain Pudi
+Locks	锁具 [suo ju]	actions	npc	Dampe
+Take-net	取网 [qu wang]	actions	npc	Spirit Angler
+Ferry	渡船 [du chuan]	actions	npc	Ferryman Sathwood
+Awaken	觉醒 [jue xing]	actions	npc	Rubble
+Items	项目 [xiang mu]	actions	npc	Clerk
+Buy-sphere	购买领域 [gou mai ling yu]	actions	npc	Oldak
+Power-up	通电 [tong dian]	actions	npc	The Great Guardian
+Buy-crystals	购买水晶 [gou mai shui jing]	actions	npc	Rick
+Quick-lock	快锁 [kuai suo]	actions	npc	Apprentice Tamara
+Strike	罢工 [ba gong]	actions	npc	Hill Giant
+Hand-in	上交 [shang jiao]	actions	npc	Kovac
+Commission	委员会 [wei yuan hui]	actions	npc	Kovac
+Talk	讲话 [jiang hua]	actions	npc	Hannibal
+Proceed	继续 [ji xu]	actions	npc	Osmumten
+Begin	开始 [kai shi]	actions	npc	Osmumten
+Water	水 [shui]	actions	npc	Palm of Resourcefulness
+Check-costume	格纹服装 [ge wen fu zhuang]	actions	npc	Costumed child
+Trick-or-treat	不给糖就捣蛋 [bu gei tang jiu dao dan]	actions	npc	Generous Treater
+Scare-away	吓走 [xia zou]	actions	npc	Spooky dog
+Tend-to	倾向 [qing xiang]	actions	npc	Flowering bush (Lilac)
+Emote	表情 [biao qing]	actions	npc	Wisp
+Deposit	订金 [ding jin]	actions	npc	Woodcutting Leprechaun
+Cast	投掷 [tou zhi]	actions	npc	Fishing spot
+Reset-room	重置房间 [zhong zhi fang jian]	actions	npc	Cerebral pathfinder
+Take-lure	诱饵 [you er]	actions	npc	Light leech
+Build	建造 [jian zao]	actions	npc	Unfinished Beehive
+Disarm	解除武装 [jie chu wu zhuang]	actions	npc	Fox trap
+Prune	修剪 [xiu jian]	actions	npc	Entling
+Prune-top	修剪顶 [xiu jian ding]	actions	npc	Entling
+Prune-back	修剪回 [xiu jian hui]	actions	npc	Entling
+Prune-sides	西梅边 [xi mei bian]	actions	npc	Entling
+Metamorph	变形 [bian xing]	actions	npc	Bran
+Listen	听 [ting]	actions	npc	Key Master
+Charter-to Port Piscarilius	租船至皮斯卡利留斯港 [zu chuan zhi pi si ka li liu si gang]	actions	npc	Trader Stan
+Charter-to Land's End	包租到陆地尽头 [bao zu dao lu di jin tou]	actions	npc	Trader Stan
+Mark	标记 [biao ji]	actions	npc	Guard
+Unmark	取消标记 [qu xiao biao ji]	actions	npc	Guard
+Charter-to Civitas illa Fortis	租到奇维塔斯伊拉富蒂斯 [zu dao qi wei ta si yi la fu di si]	actions	npc	Trader Stan
+Charter-to Aldarin	包机至阿尔达林 [bao ji zhi a er da lin]	actions	npc	Trader Stan
+Charter-to Sunset Coast	包租到日落海岸 [bao zu dao ri luo hai an]	actions	npc	Trader Stan
+Charter-to Tempestus	租船到暴风雨 [zu chuan dao bao feng yu]	actions	npc	Trader Stan
+Start-wave	启动波 [qi dong bo]	actions	npc	Minimus
+Scoreboard	记分牌 [ji fen pai]	actions	npc	Eyatlalli
+Rumour	谣言 [yao yan]	actions	npc	Huntmaster Gilman (Novice)
+Rumour-settings	谣言设定 [yao yan she ding]	actions	npc	Guild Scribe Verity
+Fur-clothing	毛皮服装 [mao pi fu zhuang]	actions	npc	Pellem
+Recharge-whistle	充电口哨 [chong dian kou shao]	actions	npc	Soar Leader Pitri
+Trade-in	以旧换新 [yi jiu huan xin]	actions	npc	Oriana
+Last-destination	最后目的地 [zui hou mu di di]	actions	npc	Renu
+Plant-orb	植物球 [zhi wu qiu]	actions	npc	Surok Magis
+Choose	选择 [xuan ze]	actions	npc	Tenoch
+Check-on	值机 [zhi ji]	actions	npc	Man
+Stats	统计数据 [tong ji shu ju]	actions	npc	Worm Tongue
+Sacrifice	牺牲 [xi sheng]	actions	npc	Branda the Fire Queen
+Take pages	获取页面 [huo qu ye mian]	actions	npc	Branda the Fire Queen
+Examine	检查 [jian cha]	actions	npc	
+Search	搜索 [sou suo]	actions	object	Crate
+Enter	进入 [jin ru]	actions	object	Cave Entrance
+Open	打开 [da kai]	actions	object	Door
+Inspect	检查 [jian cha]	actions	object	Broken multicannon
+Fire	火 [huo]	actions	object	Dwarf multicannon
+Pick-up	捡起 [jian qi]	actions	object	Dwarf multicannon
+Empty	空的 [kong de]	actions	object	Dwarf multicannon
+Climb-down	爬下 [pa xia]	actions	object	Ladder
+Climb-up	爬升 [pa sheng]	actions	object	Ladder
+Climb-over	爬过去 [pa guo qu]	actions	object	Rock pile
+Prod	产品 [chan pin]	actions	object	Sacks
+Pull	拉 [la]	actions	object	Lever
+Go-through	过关 [guo guan]	actions	object	Gate
+Fish	鱼 [yu]	actions	object	Fishing spot
+Squeeze-through	挤穿 [ji chuan]	actions	object	Loose Railing
+Check	查看 [cha kan]	actions	object	Vine
+Pray-at	祈祷 [qi dao]	actions	object	Chaos altar
+Smash	粉碎 [fen sui]	actions	object	Giant crystal
+Hide-in	隐藏 [yin cang]	actions	object	Crate
+Take-from	取自 [qu zi]	actions	object	Beehive
+Cross	叉 [cha]	actions	object	Gangplank
+Knock-at	敲击 [qiao ji]	actions	object	Large door
+Search for traps	寻找陷阱 [xun zhao xian jing]	actions	object	Lever
+Shut	关闭 [guan bi]	actions	object	Open chest
+Cook	厨师 [chu shi]	actions	object	Cooking range
+Burst	爆裂 [bao lie]	actions	object	Party Balloon
+Jump-up	跳起 [tiao qi]	actions	object	Rocks
+Operate	操作 [cao zuo]	actions	object	Winch
+Pick	挑选 [tiao xuan]	actions	object	Potato
+Close	关闭 [guan bi]	actions	object	Large open cupboard
+Play	玩 [wan]	actions	object	Church organ
+Use	使用 [shi yong]	actions	object	Crevice
+Peek	窥视 [kui shi]	actions	object	Crevice
+Private	私人的 [si ren de]	actions	object	Crevice
+Jump	跳 [tiao]	actions	object	Broken Fence
+Steal-from	偷窃 [tou qie]	actions	object	Tea stall
+Take	拿 [na]	actions	object	Small fishing net
+Exit	出口 [chu kou]	actions	object	Cave exit
+Suck	吸 [xi]	actions	object	Swamp bubbles
+Reset	重置 [zhong zhi]	actions	object	Shaking box
+Slash	削减 [xue jian]	actions	object	Web
+Weave	编织 [bian zhi]	actions	object	Loom
+Attack	攻击 [gong ji]	actions	object	Dummy
+Read	读 [du]	actions	object	Plaque
+Chop down	砍下来 [kan xia lai]	actions	object	Tree
+Push	推 [tui]	actions	object	Wall
+Take-1	采取1 [cai qu 1]	actions	object	Bandage table
+Take-5	采取5 [cai qu 5]	actions	object	Bandage table
+Take-10	采取10 [cai qu 10]	actions	object	Bandage table
+Commune	公社 [gong she]	actions	object	Lever
+Board	木板 [mu ban]	actions	object	Log raft
+Swim to	游至 [you zhi]	actions	object	Rock
+Take treasure	取宝 [qu bao]	actions	object	Chalice
+Climb	爬 [pa]	actions	object	Dead Tree
+Get in	进来 [jin lai]	actions	object	Barrel
+Chop	劈 [pi]	actions	object	Achey Tree
+Drink-from	饮用 [yin yong]	actions	object	Cauldron
+Smelt	冶炼 [ye lian]	actions	object	Furnace
+Smith	史密斯 [shi mi si]	actions	object	Anvil
+Hit	打 [da]	actions	object	Dummy
+Fill	充满 [chong man]	actions	object	Crate
+Look-at	看看 [kan kan]	actions	object	Mound of earth
+Investigate	调查 [diao cha]	actions	object	Strange looking stone
+Craft	工艺 [gong yi]	actions	object	Smashed table
+Disembark	下船 [xia chuan]	actions	object	Crude raft
+Pay-fare	付费车费 [fu fei che fei]	actions	object	Travel cart
+Listen-at	聆听 [ling ting]	actions	object	Grill
+Pan	平底锅 [ping di guo]	actions	object	Panning point
+Shoot	射击 [she ji]	actions	object	Gnome goal
+Deposit	订金 [ding jin]	actions	object	Chest
+Climb-on	爬上去 [pa shang qu]	actions	object	Barrel
+Kick	踢 [ti]	actions	object	Loose panel
+Rotate	旋转 [xuan zhuan]	actions	object	Crane
+Walk-down	步行 [bu xing]	actions	object	Spooky stairs
+Walk-up	步行 [bu xing]	actions	object	Spooky stairs
+Repair	维修 [wei xiu]	actions	object	Hole
+Walk-Down	步行参观 [bu xing can guan]	actions	object	Stairs
+Walk-Up	步行 [bu xing]	actions	object	Stairs
+Mine	矿 [kuang]	actions	object	Rock slide
+Look at	看看 [kan kan]	actions	object	Winch
+Cut	切 [qie]	actions	object	Kharidian cactus (Healthy)
+Watch	手表 [shou biao]	actions	object	Mine door entrance
+Look-in	在看 [zai kan]	actions	object	Barrel
+Look in	在看 [zai kan]	actions	object	Barrel
+Collect	收集 [shou ji]	actions	object	Bank chest
+Climb-to	攀爬至 [pan pa zhi]	actions	object	Rock
+Climb down	爬下来 [pa xia lai]	actions	object	Rock
+Walk through	走过 [zou guo]	actions	object	Mine cave
+Walk-through	演练 [yan lian]	actions	object	Tent door
+Remove	消除 [xiao chu]	actions	object	Hellhound
+Steal-From	偷窃 [tou qie]	actions	object	Counter
+Prospect	前景 [qian jing]	actions	object	Rock of Dalgroth
+Leave	离开 [li kai]	actions	object	Cave exit
+Jump-Over	跳过去 [tiao guo qu]	actions	object	Gap
+Turn	转动 [zhuan dong]	actions	object	Sewer valve
+Look-under	下视 [xia shi]	actions	object	Potted plant
+Step-into	步入 [bu ru]	actions	object	Sparkling pool
+Chop-down	砍伐 [kan fa]	actions	object	Jungle tree
+Touch	触碰 [chu peng]	actions	object	Fire Wall
+search	搜索 [sou suo]	actions	object	Desk
+Smash-to-bits	粉碎成碎片 [fen sui cheng sui pian]	actions	object	Boulder
+Jump-over	跳过去 [tiao guo qu]	actions	object	Jagged wall
+Look	看 [kan]	actions	object	Carved rock
+Lift	举起 [ju qi]	actions	object	Totem pole
+Shake	摇 [yao]	actions	object	Leafy Palm Tree
+Cut down	降低 [jiang di]	actions	object	Arctic pine tree
+Forfeit	丧失 [sang shi]	actions	object	Entrance
+Bank	银行 [yin hang]	actions	object	Open chest
+Buy	买 [mai]	actions	object	Crate
+Pass-through	直通 [zhi tong]	actions	object	Tunnel
+Descend	下降 [xia jiang]	actions	object	Cave
+Ascend	登高 [deng gao]	actions	object	Cave
+Picklock	撬锁 [qiao suo]	actions	object	Gate
+Fire-at	开火 [kai huo]	actions	object	Guide rope
+Unlock	开锁 [kai suo]	actions	object	Locked Ogre chest
+Study	学习 [xue xi]	actions	object	Monument
+Take-cutting	取切 [qu qie]	actions	object	Budding branch
+Walk-on	步行式 [bu xing shi]	actions	object	Balancing rope
+Walk-across	走过去 [zou guo qu]	actions	object	Balancing ledge
+Swing-across	横摆式 [heng bai shi]	actions	object	Monkey bars
+Swing-on	摇摆式 [yao bai shi]	actions	object	Rope swing
+Jump-on	跳上 [tiao shang]	actions	object	Pillar
+Tag	标签 [biao qian]	actions	object	Ticket Dispenser
+Climb-across	爬过去 [pa guo qu]	actions	object	Hand holds
+Toggle-warning	切换警告 [qie huan jing gao]	actions	object	Cave entrance
+Dump	倾倒 [qing dao]	actions	object	Compost Bin
+Step-over	跨步 [kua bu]	actions	object	Tripwire
+Pass	经过 [jing guo]	actions	object	Sticks
+Reinforce	加强 [jia qiang]	actions	object	Temple wall
+Light	光 [guang]	actions	object	Fire altar
+Build	建造 [jian zao]	actions	object	Funeral Pyre
+Summon	召唤 [zhao huan]	actions	object	Strange altar
+Cut-branch	剪枝 [jian zhi]	actions	object	Swaying tree
+Put-inside	放入 [fang ru]	actions	object	Pipe
+Spin	旋转 [xuan zhuan]	actions	object	Spinning wheel
+Capture	捕获 [bu huo]	actions	object	Standard Stand
+Jump-to	跳转至 [tiao zhuan zhi]	actions	object	Stepping stone
+Collapse	坍塌 [tan ta]	actions	object	Cave wall
+Top-Floor	顶楼 [ding lou]	actions	object	Ladder
+Lock	锁 [suo]	actions	object	Door
+View	看法 [kan fa]	actions	object	Scoreboard
+View Stats	查看统计数据 [cha kan tong ji shu ju]	actions	object	Scoreboard
+Remove board advert	去除版块广告 [qu chu ban kuai guang gao]	actions	object	Portal
+Remove-room	移除房间 [yi chu fang jian]	actions	object	Dungeon entrance
+Jump-across	跳跃式 [tiao yue shi]	actions	object	Basalt rock
+Top-floor	顶楼 [ding lou]	actions	object	Staircase
+Bottom-floor	底层 [di ceng]	actions	object	Staircase
+View-game	查看游戏 [cha kan you xi]	actions	object	Table
+Weed	杂草 [za cao]	actions	object	Herbs
+Jump off	跳下 [tiao xia]	actions	object	End of bridge
+Talk-to	谈话 [tan hua]	actions	object	Awowogei
+Pick-lock	撬锁 [qiao suo]	actions	object	Jail Door
+Steal from	偷自 [tou zi]	actions	object	Crafting Stall
+Crawl-down	爬行 [pa xing]	actions	object	Cart tunnel
+Crawl-through	爬行式 [pa xing shi]	actions	object	Cart tunnel
+Go-down	下降 [xia jiang]	actions	object	Lift
+Go-up	上升 [shang sheng]	actions	object	Lift
+Slide	滑动 [hua dong]	actions	object	Slope
+Squeeze-past	挤过去 [ji guo qu]	actions	object	Stalagmite
+Wind	风 [feng]	actions	object	Clock
+Dig	挖 [wa]	actions	object	Grave
+Pick-Lock	撬锁 [qiao suo]	actions	object	Trapdoor
+Take-axe	拿斧头 [na fu tou]	actions	object	Logs
+Ring-bell	响铃 [xiang ling]	actions	object	Antiques Shop Stall
+Listen-to	听 [ting]	actions	object	Shining pool
+Pick-from	挑选 [tiao xuan]	actions	object	Thorny bushes
+Dig-up	挖掘 [wa jue]	actions	object	Mud
+Dig-below	挖掘下面 [wa jue xia mian]	actions	object	Roots
+Jump-through	跳转 [tiao zhuan]	actions	object	Wall of flame
+Take-beer	喝啤酒 [he pi jiu]	actions	object	Table
+Hide-behind	隐藏在后面 [yin cang zai hou mian]	actions	object	Cactus
+Smoke	抽烟 [chou yan]	actions	object	Smokey well
+Look-into	调查 [diao cha]	actions	object	Mystical mirror
+Step-off	下步 [xia bu]	actions	object	Ice ledge
+Climb-through	攀爬通过 [pan pa tong guo]	actions	object	Hole
+Collect-from	取货自 [qu huo zi]	actions	object	Weeping wall
+Sit-on	坐式 [zuo shi]	actions	object	Chair
+Upgrade	升级 [sheng ji]	actions	object	Tools
+Work-at	工作地点 [gong zuo di dian]	actions	object	Workbench
+Make-helmet	制作头盔 [zhi zuo tou kui]	actions	object	Helmet pluming stand
+Ring	戒指 [jie zhi]	actions	object	Bell
+Quick-board	快板 [kuai ban]	actions	object	Swamp Boaty
+Ride	骑 [qi]	actions	object	Train cart
+Observe	观察 [guan cha]	actions	object	Telescope
+Leave-area	离开区 [li kai qu]	actions	object	Ladder
+Crack	裂缝 [lie feng]	actions	object	Wall safe
+Pull-spade	拉铲 [la chan]	actions	object	Stone Door
+Guide	指导 [zhi dao]	actions	object	Belladonna patch
+Rake	耙 [ba]	actions	object	Belladonna patch
+Cure	治愈 [zhi yu]	actions	object	Diseased Belladonna
+Clear	清除 [qing chu]	actions	object	Dead Belladonna
+Check-health	检查健康状况 [jian cha jian kang zhuang kuang]	actions	object	Cadavaberry bush
+Prune	修剪 [xiu jian]	actions	object	Diseased cadavaberry bush
+Pick-spine	镐脊 [gao ji]	actions	object	Cactus
+Pick-fruit	采摘水果 [cai zhai shui guo]	actions	object	Calquat tree
+Gear	齿轮 [chi lun]	actions	object	Supplies
+Stats	统计数据 [tong ji shu ju]	actions	object	Supplies
+Standard spellbook	标准法术书 [biao zhun fa shu shu]	actions	object	Altar
+Ancient spellbook	古代法术书 [gu dai fa shu shu]	actions	object	Altar
+Lunar spellbook	月球法术书 [yue qiu fa shu shu]	actions	object	Altar
+Arceuus spellbook	阿尔宙斯法术书 [a er zhou si fa shu shu]	actions	object	Altar
+Pick-apple	摘苹果 [zhai ping guo]	actions	object	Apple tree
+Pick-pineapple	采摘菠萝 [cai zhai bo luo]	actions	object	Pineapple plant
+Pick-banana	采摘香蕉 [cai zhai xiang jiao]	actions	object	Banana tree
+Pick-leaf	采叶 [cai ye]	actions	object	Curry tree
+Pick-orange	采摘橙子 [cai zhai cheng zi]	actions	object	Orange tree
+Pick-coconut	采摘椰子 [cai zhai ye zi]	actions	object	Palm tree
+Harvest	收成 [shou cheng]	actions	object	Asgarnian Hops
+Travel	旅行 [lv xing]	actions	object	Spirit Tree
+Milk	牛奶 [niu nai]	actions	object	Dairy cow
+Steal-cowbell	偷牛铃 [tou niu ling]	actions	object	Dairy cow
+Dismantle	拆除 [chai chu]	actions	object	Young tree
+Set-trap	设置陷阱 [she zhi xian jing]	actions	object	Young tree
+Release	发布 [fa bu]	actions	object	Gnome on a rack
+Level	等级 [deng ji]	actions	object	Kelda Stout
+Control	控制 [kong zhi]	actions	object	Dwarven machinery
+Return	返回 [fan hui]	actions	object	Train cart
+Chip	芯片 [xin pian]	actions	object	Dense runestone
+Hack	黑客 [hei ke]	actions	object	Light Jungle
+Quick-Pay(100)	快捷支付(100) [kuai jie zhi fu (100)]	actions	object	Hardwood Grove Doors
+Refuel	加油 [jia you]	actions	object	Stove
+Retrieve	取回 [qu hui]	actions	object	Bars
+Pedal	踏板 [ta ban]	actions	object	Pedals
+Put-ore-on	放矿石 [fang kuang shi]	actions	object	Conveyor belt
+Fill-bucket	填充桶 [tian chong tong]	actions	object	Sink
+Take-seed	取种 [qu zhong]	actions	object	Roses
+Attach	附 [fu]	actions	object	Ornate combat dummy
+Swap	交换 [jiao huan]	actions	object	Ornate combat dummy
+Take-Coffin	抬棺材 [tai guan cai]	actions	object	Grave
+Make	制作 [zhi zuo]	actions	object	Bed
+Net	网 [wang]	actions	object	Fishing spot
+Ardougne	阿尔杜涅 [a er du nie]	actions	object	Lever
+Edgeville	埃奇维尔 [ai qi wei er]	actions	object	Lever
+Swap-options	掉期期权 [diao qi qi quan]	actions	object	Lever
+Talk to	交谈 [jiao tan]	actions	object	Tree
+Exchange	交换 [jiao huan]	actions	object	Grand Exchange booth
+Lure	饵 [er]	actions	object	Ominous Fishing Spot
+Bait	饵 [er]	actions	object	Ominous Fishing Spot
+Fish-In	鱼入 [yu ru]	actions	object	Aquarium
+Count	数数 [shu shu]	actions	object	Pressure Barrel
+Swim	游泳 [you yong]	actions	object	River
+Look-up	抬头 [tai tou]	actions	object	Trellis
+Spectate	观看 [guan kan]	actions	object	Rat wall
+Deposit-box	保管箱 [bao guan xiang]	actions	object	Bank booth
+Grab	抓住 [zhua zhu]	actions	object	Bones
+Remove-coal	除煤 [chu mei]	actions	object	Coal Truck
+Take-sigil	采取印记 [cai qu yin ji]	actions	object	Pedestal
+Empty-Out	清空 [qing kong]	actions	object	Cannon
+Fire!	火！ [huo ！]	actions	object	Cannon
+Loot	抢劫 [qiang jie]	actions	object	Crate
+Plunder	掠夺 [lve duo]	actions	object	Closed chest
+Ransack	兰萨克 [lan sa ke]	actions	object	Barrel
+Count-plunder	计数掠夺 [ji shu lve duo]	actions	object	Plunder Storage
+Store-plunder	商店掠夺 [shang dian lve duo]	actions	object	Plunder Storage
+Take-powder	服用粉 [fu yong fen]	actions	object	Powder Barrel
+Waterproof	防水的 [fang shui de]	actions	object	Ship hull
+Balance	平衡 [ping heng]	actions	object	Narrow wall
+Teeth-grip	咬牙切齿 [yao ya qie chi]	actions	object	Zip line
+Drain	流走 [liu zou]	actions	object	Barrel
+Churn	流失 [liu shi]	actions	object	Dairy churn
+Zanaris	扎纳里斯 [zha na li si]	actions	object	Fairy ring
+Configure	配置 [pei zhi]	actions	object	Fairy ring
+Last-destination (AIP)	最后目的地 (AIP) [zui hou mu di di  (AIP)]	actions	object	Fairy ring
+Escape	逃脱 [tao tuo]	actions	object	Cave entrance
+Examine	检查 [jian cha]	actions	object	Healing certificate
+Shape-Canoe	形状独木舟 [xing zhuang du mu zhou]	actions	object	Canoe Station
+Float Log	浮点日志 [fu dian ri zhi]	actions	object	Canoe Station
+Float Canoe	漂浮独木舟 [piao fu du mu zhou]	actions	object	Canoe Station
+Paddle Log	桨原木 [jiang yuan mu]	actions	object	Canoe Station
+Paddle Canoe	桨独木舟 [jiang du mu zhou]	actions	object	Canoe Station
+Look-inside	向内看 [xiang nei kan]	actions	object	Mole hill
+Buy-food	买菜 [mai cai]	actions	object	Chest
+Buy-items	购买物品 [gou mai wu pin]	actions	object	Chest
+Quick-escape	快速逃脱 [kuai su tao tuo]	actions	object	Door
+Pick-Fruit	采摘水果 [cai zhai shui guo]	actions	object	Sq'irk tree
+Stand-on	站立式 [zhan li shi]	actions	object	Balance beam
+Get-down	下来 [xia lai]	actions	object	Balance beam
+Change-clothes	换衣服 [huan yi fu]	actions	object	Shoe box
+Preen	普林 [pu lin]	actions	object	Shaving stand
+Haircut	理发 [li fa]	actions	object	Shaving stand
+Shave	刮胡子 [gua hu zi]	actions	object	Shaving stand
+Pray	祈祷 [qi dao]	actions	object	Altar
+Re-light	重新点亮 [chong xin dian liang]	actions	object	Incense burner
+Build-in	内置 [nei zhi]	actions	object	Cage
+Force	力量 [li liang]	actions	object	Door
+Activate	激活 [ji huo]	actions	object	Treasure Hunt Fairy House
+Set-up	设置 [she zhi]	actions	object	Attack stone
+Hoop	箍 [gu]	actions	object	Stick
+Throw-at	投掷 [tou zhi]	actions	object	Dartboard
+Shoot-at	射击 [she ji]	actions	object	Archery target
+Karamja	卡拉姆贾 [ka la mu jia]	actions	object	Amulet of Glory
+Draynor Village	德拉诺村 [de la nuo cun]	actions	object	Amulet of Glory
+Al Kharid	阿尔卡里德 [a er ka li de]	actions	object	Amulet of Glory
+Take-kettle	水壶 [shui hu]	actions	object	Firepit with hook
+Sleep-in	睡懒觉 [shui lan jiao]	actions	object	Pet blanket
+Last-destination (AIS)	最后目的地 (AIS) [zui hou mu di di  (AIS)]	actions	object	Fairy ring
+Last-destination (AIR)	最后目的地 (AIR) [zui hou mu di di  (AIR)]	actions	object	Fairy ring
+Last-destination (AIQ)	最后目的地 (AIQ) [zui hou mu di di  (AIQ)]	actions	object	Fairy ring
+Direct-portal	直接门户 [zhi jie men hu]	actions	object	Scrying pool
+Scry	占卜 [zhan bu]	actions	object	Scrying pool
+Challenge-mode	挑战模式 [tiao zhan mo shi]	actions	object	Lever
+Evade-event	回避事件 [hui bi shi jian]	actions	object	Path
+Continue-trek	继续跋涉 [ji xu ba she]	actions	object	Path
+Swing-from	摆距 [bai ju]	actions	object	Swamp tree branch
+Cut-vine	切藤 [qie teng]	actions	object	Swamp tree
+Escape-event	逃脱事件 [tao tuo shi jian]	actions	object	Boat
+Return-to-Burgh	返回伯格 [fan hui bo ge]	actions	object	Path
+Remove-Pot	移开锅 [yi kai guo]	actions	object	Pot-boiler
+Remove-Bone	去骨 [qu gu]	actions	object	Pot-boiler
+Jump-down	跳下 [tiao xia]	actions	object	Rocks
+Use-Driftwood	用途-浮木 [yong tu - fu mu]	actions	object	Embers
+Climb-through (normal)	爬行（正常） [pa xing （ zheng chang ）]	actions	object	Broken bars
+Climb-through (private)	攀爬（私人） [pan pa （ si ren ）]	actions	object	Broken bars
+Peek (normal)	偷看（正常） [tou kan （ zheng chang ）]	actions	object	Broken bars
+Eat	吃 [chi]	actions	object	Food Pile
+Leap	飞跃 [fei yue]	actions	object	Gap
+Teleport to Destination	传送到目的地 [chuan song dao mu di di]	actions	object	Obelisk
+Set Destination	设置目的地 [she zhi mu di di]	actions	object	Obelisk
+Hurdle	栏 [lan]	actions	object	Ledge
+Jump-off	跳跃 [tiao yue]	actions	object	Edge
+Vault	避难所 [bi nan suo]	actions	object	Pole-vault
+Jump-in	跳入 [tiao ru]	actions	object	Pile of fish
+Take-pickaxe	镐 [gao]	actions	object	Rocks
+Use-Lift	使用电梯 [shi yong dian ti]	actions	object	Platform
+Take-Beam	取束 [qu shu]	actions	object	Crate
+Take-Pulley-Beam	滑轮梁 [hua lun liang]	actions	object	Crate
+Take-Rope	走绳 [zou sheng]	actions	object	Crate
+Swing Across	摇摆 [yao bai]	actions	object	Monkeybars
+Home	家 [jia]	actions	object	Portal
+Build mode	构建模式 [gou jian mo shi]	actions	object	Portal
+Friend's house	朋友家 [peng you jia]	actions	object	Portal
+Swing	摇摆 [yao bai]	actions	object	Rope
+Sit-On	坐式 [zuo shi]	actions	object	Piano stool
+Pick Nuts	挑选坚果 [tiao xuan jian guo]	actions	object	Tchiki Monkey Nut Bush
+Pick Banana	摘香蕉 [zhai xiang jiao]	actions	object	Strange banana tree
+Throw	扔 [reng]	actions	object	Shot
+Unblock	解锁 [jie suo]	actions	object	Tunnel
+Take-Rum	塔克朗姆酒 [ta ke lang mu jiu]	actions	object	Conveyor Belt
+Pump	泵 [beng]	actions	object	Steam Pump
+Vent	发泄 [fa xie]	actions	object	Steam Pump
+Take-Log	记录 [ji lu]	actions	object	Log Store
+Take-Tool	拿取工具 [na qu gong ju]	actions	object	Workbench
+Cut-Down	削减 [xue jian]	actions	object	Jungle tree
+Pay-toll(2-Ecto)	付费通行费(2-Ecto) [fu fei tong xing fei (2-Ecto)]	actions	object	Energy Barrier
+Jump-To	跳转至 [tiao zhuan zhi]	actions	object	Rock
+Enter-cloud	进入云 [jin ru yun]	actions	object	Cloud bank
+Listen	听 [ting]	actions	object	Crevice
+Manoeuvre-past	机动过去 [ji dong guo qu]	actions	object	Tight-gap
+Climb-under	爬下 [pa xia]	actions	object	Castle wall
+Climb-into	爬进去 [pa jin qu]	actions	object	Hole
+Jump-onto	跳上 [tiao shang]	actions	object	Stepping stone
+Press	按 [an]	actions	object	Zero
+Step-on	踩踏 [cai ta]	actions	object	Platform
+Worship	崇拜 [chong bai]	actions	object	Ectofuntus
+Status	地位 [di wei]	actions	object	Bone grinder
+Talk-To	谈话 [tan hua]	actions	object	Pirate Captain
+Admire	钦佩 [qin pei]	actions	object	Tall mirror
+Roll	卷 [juan]	actions	object	Dice
+Grapple	抓钩 [zhua gou]	actions	object	Rocks
+Take-bowl	接碗 [jie wan]	actions	object	Table
+Sing-crystal	单晶 [dan jing]	actions	object	Singing bowl
+test	测试 [ce shi]	actions	object	Argento
+Crawl-under	爬行式 [pa xing shi]	actions	object	Wall
+Fix	使固定 [shi gu ding]	actions	object	Bellows
+Bend	弯曲 [wan qu]	actions	object	Cell wall window
+Steal	偷 [tou]	actions	object	Candles
+Deactivate	停用 [ting yong]	actions	object	Magic box
+Trap	陷阱 [xian jing]	actions	object	Pit
+Flush	冲洗 [chong xi]	actions	object	Rabbit hole
+Shout-over	呐喊结束 [na han jie shu]	actions	object	Rockslide
+Pull-down	下拉 [xia la]	actions	object	Eagle lever
+Push-up	俯卧撑 [fu wo cheng]	actions	object	Eagle lever
+Quick-start	快速启动 [kuai su qi dong]	actions	object	Ladder
+Reset-wave	复位波 [fu wei bo]	actions	object	Door
+Dunk	扣篮 [kou lan]	actions	object	Lava crater
+Block	堵塞 [du se]	actions	object	Penance cave
+Demolish	拆除 [chai chu]	actions	object	Penance cave
+Take-Arrows	箭头 [jian tou]	actions	object	Attacker item machine
+Take-Runes	采取符文 [cai qu fu wen]	actions	object	Attacker item machine
+Stock-Up	备货 [bei huo]	actions	object	Defender item machine
+Take-Crackers	拿饼干 [na bing gan]	actions	object	Defender item machine
+Take-Tofu	武豆腐 [wu dou fu]	actions	object	Defender item machine
+Take-Worms	采取蠕虫 [cai qu ru chong]	actions	object	Defender item machine
+Take-Vial	取瓶 [qu ping]	actions	object	Healer item machine
+Take-Meat	吃肉 [chi rou]	actions	object	Healer item machine
+Call	称呼 [cheng hu]	actions	object	Horn of glory
+Get-Spikes	获取尖峰 [huo qu jian feng]	actions	object	Petrified mushroom
+Load	加载 [jia zai]	actions	object	Egg hopper
+Evade	逃避 [tao bi]	actions	object	Trap
+Disable	禁用 [jin yong]	actions	object	Trap
+Harpoon	鱼叉 [yu cha]	actions	object	Fishing spot
+Cage	笼 [long]	actions	object	Fishing spot
+Leave Tomb	离开坟墓 [li kai fen mu]	actions	object	Tomb Door
+Quick-leave	快速离开 [kuai su li kai]	actions	object	Tomb Door
+Tread-softly	轻轻踩 [qing qing cai]	actions	object	Icicles
+Convert	转变 [zhuan bian]	actions	object	Collector Converter
+Check for Snakes	检查是否有蛇 [jian cha shi fou you she]	actions	object	Urn
+Charm Snake	魅惑蛇 [mei huo she]	actions	object	Urn
+Cut-wood	砍伐木材 [kan fa mu cai]	actions	object	Woodcutting stump
+Cross-bridge	过桥 [guo qiao]	actions	object	Rope bridge
+Exit-cave	退出洞穴 [tui chu dong xue]	actions	object	Exit cavern
+Decapitate	杀头 [sha tou]	actions	object	Ice Troll King
+Jump-from	跳转自 [tiao zhuan zi]	actions	object	Stepping stone
+Peer-through	点对点穿透 [dian dui dian chuan tou]	actions	object	Peephole
+Add-bottom	添加底部 [tian jia di bu]	actions	object	Crate
+Return-to-Paterdomus	返回帕多莫斯 [fan hui pa duo mo si]	actions	object	Path
+Excavate	挖掘 [wa jue]	actions	object	Statue
+Quick Pass	快速通行证 [kuai su tong xing zheng]	actions	object	Flames
+Tamper	篡改 [cuan gai]	actions	object	Device
+Untie	解开 [jie kai]	actions	object	Zanik
+Walk-along	步行 [bu xing]	actions	object	Tunnel
+Swing across	荡过 [dang guo]	actions	object	Monkeybars
+Animate	动画 [dong hua]	actions	object	Magical Animator
+Check Kudos	检查荣誉 [jian cha rong yu]	actions	object	Information booth
+Add finds	添加发现 [tian jia fa xian]	actions	object	Storage crate
+Clean	干净的 [gan jing de]	actions	object	Specimen table
+Talk-into	谈话 [tan hua]	actions	object	Drain Pipe
+Wind-up	发条 [fa tiao]	actions	object	Gramophone
+Turn-Off	关 [guan]	actions	object	Gramophone
+Climb up	爬上去 [pa shang qu]	actions	object	Beard
+Exit-through	出口通过 [chu kou tong guo]	actions	object	Fire rift
+Push-through	推穿式 [tui chuan shi]	actions	object	Magical wheat
+Dive in	潜入 [qian ru]	actions	object	Whirlpool
+Construct	构造 [gou zao]	actions	object	Pyre site
+Rummage	临检 [lin jian]	actions	object	Skeleton
+Burn-down	燃尽 [ran jin]	actions	object	Boil
+Take From	取自 [qu zi]	actions	object	Barrel of flour
+Reach	抵达 [di da]	actions	object	Vent
+Free	自由的 [zi you de]	actions	object	King Arthur
+Break	休息 [xiu xi]	actions	object	Smashed window
+Distract	转移 [zhuan yi]	actions	object	Eyes
+Drink	喝 [he]	actions	object	Potion
+Store	店铺 [dian pu]	actions	object	Super ranging potion
+Equip	装备 [zhuang bei]	actions	object	Anti-dragon shield
+Teleport	传送 [chuan song]	actions	object	Zamorak altar
+Tie-rope	系绳 [ji sheng]	actions	object	Rock
+Move	移动 [yi dong]	actions	object	Boulder
+Claim-staves	索赔五线谱 [suo pei wu xian pu]	actions	object	Barrel
+Climb-off	爬下 [pa xia]	actions	object	Ice bridge
+Crawl	爬行 [pa xing]	actions	object	Cave
+Join	加入 [jia ru]	actions	object	Challenge portal
+Hammer	锤 [chui]	actions	object	Broken strut
+Toggle K/D	切换 K/D [qie huan  K/D]	actions	object	Wilderness Statistics
+Make-raft	造筏 [zao fa]	actions	object	Old log
+Toggle XP	切换XP [qie huan XP]	actions	object	Deadman chest
+Take-X	采取-X [cai qu -X]	actions	object	Meat table
+Serve	服务 [fu wu]	actions	object	Buffet table
+Water	水 [shui]	actions	object	Golovanova seedling
+Bind	绑定 [bang ding]	actions	object	Blood Altar
+Venerate	崇敬 [chong jing]	actions	object	Dark Altar
+Take-remains	保留 [bao liu]	actions	object	Kruk
+Scale	规模 [gui mo]	actions	object	Rocks
+Walk on	继续走 [ji xu zou]	actions	object	Vine
+Look-in-all	全部查看 [quan bu cha kan]	actions	object	Hole
+Disarm	解除武装 [jie chu wu zhuang]	actions	object	Floor spikes
+Pass through	通过 [tong guo]	actions	object	Sliced web
+Gaze-into	凝视 [ning shi]	actions	object	Burning brazier
+Reset-time	复位时间 [fu wei shi jian]	actions	object	Burning brazier
+Balance-across	平衡 [ping heng]	actions	object	Steep roof
+Leave Cavern	离开洞穴 [li kai dong xue]	actions	object	Inanimate Altar
+Story	故事 [gu shi]	actions	object	Juna
+Climb over	爬过去 [pa guo qu]	actions	object	Broken cart
+Claim	宣称 [xuan cheng]	actions	object	Reward chest
+Add-House	添加房屋 [tian jia fang wu]	actions	object	House Advertisement
+Visit-Last	最后访问 [zui hou fang wen]	actions	object	House Advertisement
+Cross-to	交叉到 [jiao cha dao]	actions	object	Rock
+Setup	设置 [she zhi]	actions	object	Tip jar
+Jars	罐子 [guan zi]	actions	object	Boss lair display
+Perks	福利 [fu li]	actions	object	Mounted Max Cape
+Spellbook	法术书 [fa shu shu]	actions	object	Mounted Magic Cape
+Clip	夹子 [jia zi]	actions	object	Topiary bush
+Feed	喂养 [wei yang]	actions	object	Burning brazier
+Take-hammer	拿锤子 [na chui zi]	actions	object	Crate
+Take-knife	取刀 [qu dao]	actions	object	Crate
+Take-tinderbox	采取火绒盒 [cai qu huo rong he]	actions	object	Crate
+Take-concoction	服用混合物 [fu yong hun he wu]	actions	object	Crate
+Take-5 concoctions	Take-5 混合物 [Take-5  hun he wu]	actions	object	Crate
+Take-10 concoctions	Take-10 混合物 [Take-10  hun he wu]	actions	object	Crate
+Last-destination (ALP)	最后目的地 (ALP) [zui hou mu di di  (ALP)]	actions	object	Fairy ring
+Last-destination (ALS)	最后目的地 (ALS) [zui hou mu di di  (ALS)]	actions	object	Fairy ring
+Last-destination (ALR)	最后目的地 (ALR) [zui hou mu di di  (ALR)]	actions	object	Fairy ring
+Last-destination (ALQ)	最后目的地 (ALQ) [zui hou mu di di  (ALQ)]	actions	object	Fairy ring
+Last-destination (AKP)	最终目的地 (AKP) [zui zhong mu di di  (AKP)]	actions	object	Fairy ring
+Last-destination (AKS)	最后目的地 (AKS) [zui hou mu di di  (AKS)]	actions	object	Fairy ring
+Last-destination (AKR)	最后目的地 (AKR) [zui hou mu di di  (AKR)]	actions	object	Fairy ring
+Last-destination (AKQ)	最后目的地 (AKQ) [zui hou mu di di  (AKQ)]	actions	object	Fairy ring
+Last-destination (AJP)	最终目的地 (AJP) [zui zhong mu di di  (AJP)]	actions	object	Fairy ring
+Last-destination (AJS)	最后目的地 (AJS) [zui hou mu di di  (AJS)]	actions	object	Fairy ring
+Last-destination (AJR)	最终目的地 (AJR) [zui zhong mu di di  (AJR)]	actions	object	Fairy ring
+Last-destination (AJQ)	最后目的地 (AJQ) [zui hou mu di di  (AJQ)]	actions	object	Fairy ring
+Last-destination (DIP)	最后目的地 (DIP) [zui hou mu di di  (DIP)]	actions	object	Fairy ring
+Last-destination (DIS)	最后目的地 (DIS) [zui hou mu di di  (DIS)]	actions	object	Fairy ring
+Last-destination (DIR)	最后目的地 (DIR) [zui hou mu di di  (DIR)]	actions	object	Fairy ring
+Last-destination (DIQ)	最后目的地 (DIQ) [zui hou mu di di  (DIQ)]	actions	object	Fairy ring
+Last-destination (DLP)	最后目的地 (DLP) [zui hou mu di di  (DLP)]	actions	object	Fairy ring
+Last-destination (DLS)	最后目的地 (DLS) [zui hou mu di di  (DLS)]	actions	object	Fairy ring
+Last-destination (DLR)	最后目的地 (DLR) [zui hou mu di di  (DLR)]	actions	object	Fairy ring
+Last-destination (DLQ)	最后目的地 (DLQ) [zui hou mu di di  (DLQ)]	actions	object	Fairy ring
+Last-destination (DKP)	最后目的地 (DKP) [zui hou mu di di  (DKP)]	actions	object	Fairy ring
+Last-destination (DKS)	最后目的地 (DKS) [zui hou mu di di  (DKS)]	actions	object	Fairy ring
+Last-destination (DKR)	最后目的地（丹麦克朗） [zui hou mu di di （ dan mai ke lang ）]	actions	object	Fairy ring
+Last-destination (DKQ)	最后目的地 (DKQ) [zui hou mu di di  (DKQ)]	actions	object	Fairy ring
+Last-destination (DJP)	最后目的地 (DJP) [zui hou mu di di  (DJP)]	actions	object	Fairy ring
+Last-destination (DJS)	最后目的地 (DJS) [zui hou mu di di  (DJS)]	actions	object	Fairy ring
+Last-destination (DJR)	最后目的地 (DJR) [zui hou mu di di  (DJR)]	actions	object	Fairy ring
+Last-destination (DJQ)	最后目的地 (DJQ) [zui hou mu di di  (DJQ)]	actions	object	Fairy ring
+Last-destination (CIP)	最后目的地 (CIP) [zui hou mu di di  (CIP)]	actions	object	Fairy ring
+Last-destination (CIS)	最后目的地 (CIS) [zui hou mu di di  (CIS)]	actions	object	Fairy ring
+Last-destination (CIR)	最后目的地 (CIR) [zui hou mu di di  (CIR)]	actions	object	Fairy ring
+Last-destination (CIQ)	最后目的地 (CIQ) [zui hou mu di di  (CIQ)]	actions	object	Fairy ring
+Last-destination (CLP)	最终目的地 (CLP) [zui zhong mu di di  (CLP)]	actions	object	Fairy ring
+Last-destination (CLS)	最后目的地 (CLS) [zui hou mu di di  (CLS)]	actions	object	Fairy ring
+Last-destination (CLR)	最后目的地 (CLR) [zui hou mu di di  (CLR)]	actions	object	Fairy ring
+Last-destination (CLQ)	最后目的地 (CLQ) [zui hou mu di di  (CLQ)]	actions	object	Fairy ring
+Last-destination (CKP)	最终目的地 (CKP) [zui zhong mu di di  (CKP)]	actions	object	Fairy ring
+Last-destination (CKS)	最终目的地 (CKS) [zui zhong mu di di  (CKS)]	actions	object	Fairy ring
+Last-destination (CKR)	最终目的地 (CKR) [zui zhong mu di di  (CKR)]	actions	object	Fairy ring
+Last-destination (CKQ)	最后目的地 (CKQ) [zui hou mu di di  (CKQ)]	actions	object	Fairy ring
+Last-destination (CJP)	最终目的地 (CJP) [zui zhong mu di di  (CJP)]	actions	object	Fairy ring
+Last-destination (CJS)	最后目的地 (CJS) [zui hou mu di di  (CJS)]	actions	object	Fairy ring
+Last-destination (CJR)	最终目的地 (CJR) [zui zhong mu di di  (CJR)]	actions	object	Fairy ring
+Last-destination (CJQ)	最终目的地 (CJQ) [zui zhong mu di di  (CJQ)]	actions	object	Fairy ring
+Last-destination (BIP)	最终目的地 (BIP) [zui zhong mu di di  (BIP)]	actions	object	Fairy ring
+Last-destination (BIS)	最后目的地 (BIS) [zui hou mu di di  (BIS)]	actions	object	Fairy ring
+Last-destination (BIR)	最后目的地 (BIR) [zui hou mu di di  (BIR)]	actions	object	Fairy ring
+Last-destination (BIQ)	最后目的地 (BIQ) [zui hou mu di di  (BIQ)]	actions	object	Fairy ring
+Last-destination (BLP)	最终目的地 (BLP) [zui zhong mu di di  (BLP)]	actions	object	Fairy ring
+Last-destination (BLS)	最后目的地 (BLS) [zui hou mu di di  (BLS)]	actions	object	Fairy ring
+Last-destination (BLR)	最后目的地 (BLR) [zui hou mu di di  (BLR)]	actions	object	Fairy ring
+Last-destination (BLQ)	最后目的地 (BLQ) [zui hou mu di di  (BLQ)]	actions	object	Fairy ring
+Last-destination (BKP)	最终目的地 (BKP) [zui zhong mu di di  (BKP)]	actions	object	Fairy ring
+Last-destination (BKS)	最终目的地 (BKS) [zui zhong mu di di  (BKS)]	actions	object	Fairy ring
+Last-destination (BKR)	最后目的地 (BKR) [zui hou mu di di  (BKR)]	actions	object	Fairy ring
+Last-destination (BKQ)	最后目的地 (BKQ) [zui hou mu di di  (BKQ)]	actions	object	Fairy ring
+Last-destination (BJP)	最后目的地 (BJP) [zui hou mu di di  (BJP)]	actions	object	Fairy ring
+Last-destination (BJS)	最终目的地 (BJS) [zui zhong mu di di  (BJS)]	actions	object	Fairy ring
+Last-destination (BJR)	最终目的地 (BJR) [zui zhong mu di di  (BJR)]	actions	object	Fairy ring
+Last-destination (BJQ)	最终目的地 (BJQ) [zui zhong mu di di  (BJQ)]	actions	object	Fairy ring
+Tree	树 [shu]	actions	object	Spiritual Fairy Tree
+Ring-Zanaris	环-扎纳里斯 [huan - zha na li si]	actions	object	Spiritual Fairy Tree
+Ring-configure	环配置 [huan pei zhi]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIP)	最后环目的地 (AIP) [zui hou huan mu di di  (AIP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIS)	最后环目的地 (AIS) [zui hou huan mu di di  (AIS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIR)	最后环目的地 (AIR) [zui hou huan mu di di  (AIR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AIQ)	最后环目的地 (AIQ) [zui hou huan mu di di  (AIQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALP)	最后环目的地 (ALP) [zui hou huan mu di di  (ALP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALS)	最后环目的地 (ALS) [zui hou huan mu di di  (ALS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALR)	最后环目的地 (ALR) [zui hou huan mu di di  (ALR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (ALQ)	最后环目的地 (ALQ) [zui hou huan mu di di  (ALQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKP)	最后环目的地 (AKP) [zui hou huan mu di di  (AKP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKS)	最后环目的地 (AKS) [zui hou huan mu di di  (AKS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKR)	最后环目的地 (AKR) [zui hou huan mu di di  (AKR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AKQ)	最后响铃目的地 (AKQ) [zui hou xiang ling mu di di  (AKQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJP)	最后环目的地 (AJP) [zui hou huan mu di di  (AJP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJS)	最后环目的地 (AJS) [zui hou huan mu di di  (AJS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJR)	最后环目的地 (AJR) [zui hou huan mu di di  (AJR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (AJQ)	最后环目的地 (AJQ) [zui hou huan mu di di  (AJQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIP)	最后环目的地 (DIP) [zui hou huan mu di di  (DIP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIS)	最后环目的地 (DIS) [zui hou huan mu di di  (DIS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIR)	最后环目的地 (DIR) [zui hou huan mu di di  (DIR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DIQ)	最后环目的地 (DIQ) [zui hou huan mu di di  (DIQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLP)	最后环目的地 (DLP) [zui hou huan mu di di  (DLP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLS)	最后环目的地 (DLS) [zui hou huan mu di di  (DLS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLR)	最后环目的地 (DLR) [zui hou huan mu di di  (DLR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DLQ)	最后环目的地 (DLQ) [zui hou huan mu di di  (DLQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKP)	最后环目的地 (DKP) [zui hou huan mu di di  (DKP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKS)	最后环目的地 (DKS) [zui hou huan mu di di  (DKS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKR)	最后环目的地 (DKR) [zui hou huan mu di di  (DKR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DKQ)	最后响铃目的地 (DKQ) [zui hou xiang ling mu di di  (DKQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJP)	最后响铃目的地 (DJP) [zui hou xiang ling mu di di  (DJP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJS)	最后响铃目的地 (DJS) [zui hou xiang ling mu di di  (DJS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJR)	最后环目的地 (DJR) [zui hou huan mu di di  (DJR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (DJQ)	最后响铃目的地 (DJQ) [zui hou xiang ling mu di di  (DJQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIP)	最后环目的地 (CIP) [zui hou huan mu di di  (CIP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIS)	最后环目的地 (CIS) [zui hou huan mu di di  (CIS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIR)	环最后目的地 (CIR) [huan zui hou mu di di  (CIR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CIQ)	最后环目的地 (CIQ) [zui hou huan mu di di  (CIQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLP)	最后环目的地 (CLP) [zui hou huan mu di di  (CLP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLS)	最后环目的地 (CLS) [zui hou huan mu di di  (CLS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLR)	最后环目的地 (CLR) [zui hou huan mu di di  (CLR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CLQ)	最后环目的地 (CLQ) [zui hou huan mu di di  (CLQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKP)	环最后目的地 (CKP) [huan zui hou mu di di  (CKP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKS)	最后环目的地 (CKS) [zui hou huan mu di di  (CKS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKR)	环最后目的地 (CKR) [huan zui hou mu di di  (CKR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CKQ)	环最后目的地 (CKQ) [huan zui hou mu di di  (CKQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJP)	最后环目的地 (CJP) [zui hou huan mu di di  (CJP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJS)	最后环目的地 (CJS) [zui hou huan mu di di  (CJS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJR)	环最后目的地 (CJR) [huan zui hou mu di di  (CJR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (CJQ)	最后环目的地 (CJQ) [zui hou huan mu di di  (CJQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIP)	最后环目的地 (BIP) [zui hou huan mu di di  (BIP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIS)	最后环目的地 (BIS) [zui hou huan mu di di  (BIS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIR)	最后环目的地 (BIR) [zui hou huan mu di di  (BIR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BIQ)	最后环目的地 (BIQ) [zui hou huan mu di di  (BIQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLP)	最后环目的地 (BLP) [zui hou huan mu di di  (BLP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLS)	最后环目的地 (BLS) [zui hou huan mu di di  (BLS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLR)	环最后目的地 (BLR) [huan zui hou mu di di  (BLR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BLQ)	最后环目的地 (BLQ) [zui hou huan mu di di  (BLQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKP)	最后环目的地 (BKP) [zui hou huan mu di di  (BKP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKS)	最后环目的地 (BKS) [zui hou huan mu di di  (BKS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKR)	最后环目的地 (BKR) [zui hou huan mu di di  (BKR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BKQ)	最后环目的地 (BKQ) [zui hou huan mu di di  (BKQ)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJP)	最后一环目的地 (BJP) [zui hou yi huan mu di di  (BJP)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJS)	最后环目的地 (BJS) [zui hou huan mu di di  (BJS)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJR)	最后环目的地 (BJR) [zui hou huan mu di di  (BJR)]	actions	object	Spiritual Fairy Tree
+Ring-last-destination (BJQ)	最后环目的地 (BJQ) [zui hou huan mu di di  (BJQ)]	actions	object	Spiritual Fairy Tree
+Craft-rune	工艺符文 [gong yi fu wen]	actions	object	Altar
+Fuel	燃料 [ran liao]	actions	object	Brazier
+Dispel	打消 [da xiao]	actions	object	Shimmering barrier
+Shared	共享 [gong xiang]	actions	object	Small storage unit
+Take Rake	采取耙子 [cai qu pa zi]	actions	object	Old tools
+Take Spade	拿铁锹 [na tie qiao]	actions	object	Old tools
+Take Seed Dibber	采取种子播种机 [cai qu zhong zi bo zhong ji]	actions	object	Old tools
+Pick-lots	抽签 [chou qian]	actions	object	Gourd tree
+Quick-pass	快速通行证 [kuai su tong xing zheng]	actions	object	Mystical barrier
+Coffer	保险箱 [bao xian xiang]	actions	object	Furnace
+Quick-exit	快速退出 [kuai su tui chu]	actions	object	Cave exit
+Travel to platform	前往平台 [qian wang ping tai]	actions	object	Row boat
+Leave platform	离开站台 [li kai zhan tai]	actions	object	Row boat
+Check count	检查计数 [jian cha ji shu]	actions	object	Rock
+Toggle warning	切换警告 [qie huan jing gao]	actions	object	Rock
+Seeds	种子 [zhong zi]	actions	object	Birdhouse (empty)
+Interact	相互影响 [xiang hu ying xiang]	actions	object	Birdhouse
+Inject	注入 [zhu ru]	actions	object	Sulliuscep
+Jump on	跳上 [tiao shang]	actions	object	Rubber cap mushroom
+Navigate	导航 [dao hang]	actions	object	Obstacle
+Climb Down	爬下来 [pa xia lai]	actions	object	Trap Door
+Climb Up	爬上去 [pa shang qu]	actions	object	Rope anchor
+Dive	潜水 [qian shui]	actions	object	Rowboat
+Build on	建立在 [jian li zai]	actions	object	Ring of Stones
+Take tools	拿工具 [na gong ju]	actions	object	Crate
+Set up	设置 [she zhi]	actions	object	Drift net anchors
+Take down	记录下来 [ji lu xia lai]	actions	object	Drift net anchors
+Pick up	捡起 [jian qi]	actions	object	Pile of Fishbowls
+Pay	支付 [zhi fu]	actions	object	Volcano Entrance
+Feel	感觉 [gan jue]	actions	object	Gas hole
+Add to	添加 [tian jia]	actions	object	Large Fossil Support
+Climb through	爬过去 [pa guo qu]	actions	object	Hole
+Teleport to destination	传送到目的地 [chuan song dao mu di di]	actions	object	Obelisk
+Set destination	设定目的地 [she ding mu di di]	actions	object	Obelisk
+Jump to	跳转至 [tiao zhuan zhi]	actions	object	Pillar
+Preferences	偏好设置 [pian hao she zhi]	actions	object	Log storage
+Absorb	吸收 [xi shou]	actions	object	Energy Sphere
+Reminisce	回忆 [hui yi]	actions	object	Pool of Dreams
+Nets	网队 [wang dui]	actions	object	Annette
+Ancient	古老的 [gu lao de]	actions	object	Altar of the Occult
+Lunar	农历 [nong li]	actions	object	Altar of the Occult
+Arceuus	阿尔克乌斯 [a er ke wu si]	actions	object	Altar of the Occult
+Standard	标准 [biao zhun]	actions	object	Altar of the Occult
+Recharge-jewellery	充电珠宝 [chong dian zhu bao]	actions	object	Totem Pole
+Douse	杜斯 [du si]	actions	object	Fire
+Heal	愈合 [yu he]	actions	object	Fremennik warrior
+Complete	完全的 [wan quan de]	actions	object	Incomplete map
+Check-Count	检查计数 [jian cha ji shu]	actions	object	Gate
+Clamber	攀 [pan]	actions	object	Rock Pile
+Look-through	透视 [tou shi]	actions	object	Window
+Charge-at	充电时 [chong dian shi]	actions	object	Vyre well
+Quick-enter	快速输入 [kuai su shu ru]	actions	object	Door
+Resign	辞职 [ci zhi]	actions	object	Vyre Orator
+Varrock	瓦罗克 [wa luo ke]	actions	object	Varrock Portal
+Grand Exchange	盛大交换 [sheng da jiao huan]	actions	object	Varrock Portal
+Toggle	切换 [qie huan]	actions	object	Varrock Portal
+Camelot	卡米洛特 [ka mi luo te]	actions	object	Camelot Portal
+Seers' Village	先知村 [xian zhi cun]	actions	object	Camelot Portal
+Watchtower	岗楼 [gang lou]	actions	object	Yanille Watchtower Portal
+Yanille	亚尼尔 [ya ni er]	actions	object	Yanille Watchtower Portal
+Quick-Enter	快速输入 [kuai su shu ru]	actions	object	Formidable passage
+Iceberg	冰山 [bing shan]	actions	object	Boat
+Weiss	韦斯 [wei si]	actions	object	Boat
+Teleport Menu	传送菜单 [chuan song cai dan]	actions	object	Portal Nexus
+Configuration	配置 [pei zhi]	actions	object	Portal Nexus
+Look out	当心 [dang xin]	actions	object	Xeric's Talisman
+Teleport menu	传送菜单 [chuan song cai dan]	actions	object	Xeric's Talisman
+Glade	空地 [kong di]	actions	object	Xeric's Talisman
+Inferno	地狱 [di yu]	actions	object	Xeric's Talisman
+Heart	心 [xin]	actions	object	Xeric's Talisman
+Honour	荣誉 [rong yu]	actions	object	Xeric's Talisman
+Digsite	挖掘场 [wa jue chang]	actions	object	Digsite Pendant
+Fossil Island	化石岛 [hua shi dao]	actions	object	Digsite Pendant
+Lithkren	利特克伦 [li te ke lun]	actions	object	Digsite Pendant
+Ancients	古人 [gu ren]	actions	object	Supplies
+Start	开始 [kai shi]	actions	object	Steam Generator
+Align	对齐 [dui qi]	actions	object	Power Grid
+Fill-jug	灌装壶 [guan zhuang hu]	actions	object	Coolant Dispenser
+Cleanse	洁净 [jie jing]	actions	object	Refinery
+Rebalance	再平衡 [zai ping heng]	actions	object	Energy Pylon
+Pick-dragonfruit	采摘火龙果 [cai zhai huo long guo]	actions	object	Dragonfruit tree
+Crawl through	爬行通过 [pa xing tong guo]	actions	object	Tunnel
+Quick-open	快开式 [kuai kai shi]	actions	object	Alchemical door
+Take-rock	采取摇滚 [cai qu yao gun]	actions	object	Rubble
+Quick-Exit	快速退出 [kuai su tui chu]	actions	object	Ancient Fire
+Check-Faith	检查信用 [jian cha xin yong]	actions	object	Sacred Bone Burner
+Enter-crypt	进入地穴 [jin ru di xue]	actions	object	Thick Web
+Follow	跟随 [gen sui]	actions	object	Tracks
+Fill-from	填充自 [tian chong zi]	actions	object	Water Pump
+Channel	渠道 [qu dao]	actions	object	Teleport Platform
+Enter-corrupted	企业损坏 [qi ye sun huai]	actions	object	The Gauntlet
+Refine	精炼 [jing lian]	actions	object	Furnace
+Imbue	灌输 [guan shu]	actions	object	Altar
+Emir's Arena	埃米尔竞技场 [ai mi er jing ji chang]	actions	object	Basic Jewellery Box
+Castle Wars	城堡战争 [cheng bao zhan zheng]	actions	object	Basic Jewellery Box
+Ferox Enclave	费罗克斯飞地 [fei luo ke si fei di]	actions	object	Basic Jewellery Box
+Burthorpe	伯索普 [bo suo pu]	actions	object	Basic Jewellery Box
+Barbarian Outpost	野蛮人前哨站 [ye man ren qian shao zhan]	actions	object	Basic Jewellery Box
+Corporeal Beast	实体野兽 [shi ti ye shou]	actions	object	Basic Jewellery Box
+Tears of Guthix	古斯克斯之泪 [gu si ke si zhi lei]	actions	object	Basic Jewellery Box
+Wintertodt Camp	温特托特营地 [wen te tuo te ying di]	actions	object	Basic Jewellery Box
+Warriors' Guild	勇士公会 [yong shi gong hui]	actions	object	Fancy Jewellery Box
+Champions' Guild	冠军公会 [guan jun gong hui]	actions	object	Fancy Jewellery Box
+Monastery	修道院 [xiu dao yuan]	actions	object	Fancy Jewellery Box
+Ranging Guild	测距公会 [ce ju gong hui]	actions	object	Fancy Jewellery Box
+Fishing Guild	钓鱼公会 [diao yu gong hui]	actions	object	Fancy Jewellery Box
+Mining Guild	矿业公会 [kuang ye gong hui]	actions	object	Fancy Jewellery Box
+Crafting Guild	手工艺公会 [shou gong yi gong hui]	actions	object	Fancy Jewellery Box
+Cooking Guild	烹饪公会 [peng ren gong hui]	actions	object	Fancy Jewellery Box
+Woodcutting Guild	伐木行会 [fa mu hang hui]	actions	object	Fancy Jewellery Box
+Farming Guild	农业公会 [nong ye gong hui]	actions	object	Fancy Jewellery Box
+Miscellania	杂记 [za ji]	actions	object	Ornate Jewellery Box
+Falador Park	法拉多公园 [fa la duo gong yuan]	actions	object	Ornate Jewellery Box
+Dondakan's Rock	唐达坎的岩石 [tang da kan de yan shi]	actions	object	Ornate Jewellery Box
+Take manta ray	捕捉蝠鲼 [bu zhuo fu fen]	actions	object	Bounty supply crate
+Take anglerfish	拿琵琶鱼 [na pi pa yu]	actions	object	Bounty supply crate
+Destroy	破坏 [po huai]	actions	object	Lab table
+Stamp-out	消灭 [xiao mie]	actions	object	Magical Fire
+Continue	继续 [ji xu]	actions	object	Path
+Climp-up	夹紧式 [jia jin shi]	actions	object	Stairs
+Check-statistics (Personal)	检查统计（个人） [jian cha tong ji （ ge ren ）]	actions	object	Noticeboard
+Check-statistics (Global)	检查统计数据（全球） [jian cha tong ji shu ju （ quan qiu ）]	actions	object	Noticeboard
+Sacrifice	牺牲 [xi sheng]	actions	object	Saradomin Brazier
+Walk-over	走过去 [zou guo qu]	actions	object	Bridge
+Conjure	变戏法 [bian xi fa]	actions	object	Portal frame
+Search-for-traps	搜索陷阱 [sou suo xian jing]	actions	object	Coffin
+Pass-Through	直通 [zhi tong]	actions	object	Casual
+Cut-foot	切脚 [qie jiao]	actions	object	Dead sourhog
+Take-candy	拿糖果 [na tang guo]	actions	object	Magical pumpkin
+Jump-Down	跳下 [tiao xia]	actions	object	Crevice
+Channel (Asgarnia)	海峡（阿斯加尼亚） [hai xia （ a si jia ni ya ）]	actions	object	Waystone
+Channel (Misthalin)	通道（米沙林） [tong dao （ mi sha lin ）]	actions	object	Waystone
+Channel (Kandarin)	海峡（坎达林） [hai xia （ kan da lin ）]	actions	object	Waystone
+Channel (Fremennik)	海峡（弗雷曼尼克） [hai xia （ fu lei man ni ke ）]	actions	object	Waystone
+Channel (Kharidian Desert)	海峡（哈里迪沙漠） [hai xia （ ha li di sha mo ）]	actions	object	Waystone
+Channel (Morytania)	海峡（莫里塔尼亚） [hai xia （ mo li ta ni ya ）]	actions	object	Waystone
+Channel (Tirannwn)	频道 (Tirannwn) [pin dao  (Tirannwn)]	actions	object	Waystone
+Channel (Karamja)	频道（卡拉姆贾） [pin dao （ ka la mu jia ）]	actions	object	Waystone
+Channel (Wilderness)	海峡（荒野） [hai xia （ huang ye ）]	actions	object	Waystone
+Slayer	杀手 [sha shou]	actions	object	Kings' ladder
+Open (normal)	打开（正常） [da kai （ zheng chang ）]	actions	object	Big door
+Open (private)	开放（私人） [kai fang （ si ren ）]	actions	object	Big door
+Climb-down (normal)	爬下（正常） [pa xia （ zheng chang ）]	actions	object	Tunnel entrance
+Climb-down (private)	下山（私人） [xia shan （ si ren ）]	actions	object	Tunnel entrance
+Sacrifice-fragments	牺牲碎片 [xi sheng sui pian]	actions	object	Soul Obelisk
+Remove-decorations	移除装饰 [yi chu zhuang shi]	actions	object	Christmas curtains
+Untether	解开束缚 [jie kai shu fu]	actions	object	Mast
+Tether	系绳 [ji sheng]	actions	object	Mast
+Remove-trophy	移除奖杯 [yi chu jiang bei]	actions	object	Trophy pedestal
+View-trophies	查看奖杯 [cha kan jiang bei]	actions	object	Oak trophy case
+Remove-banner	删除横幅 [shan chu heng fu]	actions	object	Banner stand
+Remove-outfit	脱衣 [tuo yi]	actions	object	Oak outfit stand
+Spin-globe	自旋地球仪 [zi xuan di qiu yi]	actions	object	Trailblazer globe
+League-statistics	联赛统计 [lian sai tong ji]	actions	object	League Accomplishment Scroll
+League-rankings	联赛排名 [lian sai pai ming]	actions	object	League Accomplishment Scroll
+League-firsts	联盟第一 [lian meng di yi]	actions	object	League Accomplishment Scroll
+Cook-at	烹饪 [peng ren]	actions	object	Shrine
+Big-search	大搜索 [da sou suo]	actions	object	Reward pool
+Quick-climb	快速攀登 [kuai su pan deng]	actions	object	Rope ladder
+Solo-start	独奏开始 [du zou kai shi]	actions	object	Rope ladder
+Prepare-fish	准备鱼 [zhun bei yu]	actions	object	Preparation Table
+Offer-fish	提供鱼 [ti gong yu]	actions	object	Altar
+Entertain	招待 [zhao dai]	actions	object	Piano
+Play-quietly	安静地玩耍 [an jing di wan shua]	actions	object	Piano
+Background-music	背景音乐 [bei jing yin yue]	actions	object	Piano
+Enter-member	进入会员 [jin ru hui yuan]	actions	object	Clan hall portal
+Enter-guest	进入-客人 [jin ru - ke ren]	actions	object	Clan hall portal
+Pet	宠物 [chong wu]	actions	object	Cat
+Pass (normal)	通过（正常） [tong guo （ zheng chang ）]	actions	object	Ancient Barrier
+Pass (private)	通行证（私人） [tong xing zheng （ si ren ）]	actions	object	Ancient Barrier
+Adjust	调整 [tiao zheng]	actions	object	Machine
+Say-name	说出名字 [shuo chu ming zi]	actions	object	Grave
+Deposit-runes	存款符文 [cun kuan fu wen]	actions	object	Deposit Pool
+Deposit-items	存款项目 [cun kuan xiang mu]	actions	object	Deposit Pool
+Visual-effects	视觉效果 [shi jue xiao guo]	actions	object	Barrier
+Toggle-talisman	切换护身符 [qie huan hu shen fu]	actions	object	Guardian of Air
+Assemble	集合 [ji he]	actions	object	Essence pile (elemental)
+Take-chisel	凿子 [zao zi]	actions	object	Weak cells
+Place-cell	位置单元 [wei zhi dan yuan]	actions	object	Inactive cell tile
+Exit-through (Kourend)	退出（Kourend） [tui chu （Kourend）]	actions	object	Blood rift
+Pay-toll(10gp)	付费通行费(10gp) [fu fei tong xing fei (10gp)]	actions	object	Gate
+Pour	倒 [dao]	actions	object	Crucible (full)
+Heat-preform	热预成型件 [re yu cheng xing jian]	actions	object	Lava pool
+Dunk-preform	扣篮预成型 [kou lan yu cheng xing]	actions	object	Lava pool
+Cool-preform	冷预成型 [leng yu cheng xing]	actions	object	Waterfall
+Quench-preform	淬火预成型件 [cui huo yu cheng xing jian]	actions	object	Waterfall
+Store-preform	储存预成型件 [chu cun yu cheng xing jian]	actions	object	Preform storage
+Take-preform	预成型 [yu cheng xing]	actions	object	Preform storage
+Rank	秩 [zhi]	actions	object	Arena recruitment board
+Quick-use	快速使用 [kuai su shi yong]	actions	object	Staging area steps
+Quick-Pass	快速通行证 [kuai su tong xing zheng]	actions	object	Barrier
+Flip	翻动 [fan dong]	actions	object	Pressure plate
+Rotate-clockwise	顺时针旋转 [shun shi zhen xuan zhuan]	actions	object	Mirror
+Rotate-anticlockwise	逆时针旋转 [ni shi zhen xuan zhuan]	actions	object	Mirror
+Deposit-pickaxe	存款镐 [cun kuan gao]	actions	object	Statue
+Quick-Use	快速使用 [kuai su shi yong]	actions	object	Teleport crystal
+Quick-Board	快速板 [kuai su ban]	actions	object	Sacrificial boat
+Check-permissions	检查权限 [jian cha quan xian]	actions	object	Chest
+Pickup	捡起 [jian qi]	actions	object	Gingerbread
+Check-times	检查次数 [jian cha ci shu]	actions	object	Santa's log
+Push-against	推推 [tui tui]	actions	object	Wall
+Check-Fee	支票费 [zhi piao fei]	actions	object	Crevice
+Peer-into	窥视 [kui shi]	actions	object	Prifddinas Display
+Release-bees	释放蜂 [shi fang feng]	actions	object	Beehive
+Add-mulch	添加覆盖物 [tian jia fu gai wu]	actions	object	Struggling sapling
+Read (Awakened)	阅读（觉醒） [yue du （ jue xing ）]	actions	object	Scoreboard
+Attach-rope	附绳 [fu sheng]	actions	object	Rock
+Climb-rope	攀登绳 [pan deng sheng]	actions	object	Rock
+Build-barricade	搭建路障 [da jian lu zhang]	actions	object	Surface
+Take-supplies	取货用品 [qu huo yong pin]	actions	object	Stone chest
+Lockpick	开锁器 [kai suo qi]	actions	object	Stone chest (locked)
+Burn	烧伤 [shao shang]	actions	object	Shipwreck
+Burn`	烧毁` [shao hui `]	actions	object	Gunpowder
+Withdraw	提取 [ti qu]	actions	object	Extract orifice
+Tend-to	倾向 [qing xiang]	actions	object	Forester's Campfire
+Rest	休息 [xiu xi]	actions	object	Forester's Campfire
+Retrieve-egg	取蛋 [qu dan]	actions	object	Pheasant Nest
+Revert	恢复 [hui fu]	actions	object	Fiery Ornate Pool of Rejuvenation
+Channel (Great Kourend)	频道（大库伦德） [pin dao （ da ku lun de ）]	actions	object	Waystone
+Travel-End	旅行结束 [lv xing jie shu]	actions	object	Portal
+Travel-Start	旅行开始 [lv xing kai shi]	actions	object	Portal
+Reload	重新加载 [chong xin jia zai]	actions	object	Steps
+Collect-reward	收集奖励 [shou ji jiang li]	actions	object	Table
+Look-over	查看 [cha kan]	actions	object	Balcony
+Fortis Colosseum	富蒂斯斗兽场 [fu di si dou shou chang]	actions	object	Basic Jewellery Box
+View-stats	查看统计数据 [cha kan tong ji shu ju]	actions	object	Colosseum scoreboard
+View-glory	查看荣耀 [cha kan rong yao]	actions	object	Colosseum scoreboard
+Sabotage	破坏 [po huai]	actions	object	Lily pad
+Plant-evidence	植物证据 [zhi wu zheng ju]	actions	object	Capybara Dung
+Rustle	沙沙 [sha sha]	actions	object	Bush
+Make-cuppa	泡茶 [pao cha]	actions	object	Cooking stove
+Align-net	对齐网 [dui qi wang]	actions	object	Stream
+Take-from Fishing	出海捕鱼 [chu hai bu yu]	actions	object	Supply crates
+Take-from Hunting	狩猎取物 [shou lie qu wu]	actions	object	Supply crates
+Take-from Herblore	摘自 Herblore [zhai zi  Herblore]	actions	object	Supply crates
+Take-log	记录 [ji lu]	actions	object	Roots
+Bask	晒 [shai]	actions	object	Shrine of Ralos
+Cimb-down	下沉式 [xia chen shi]	actions	object	Open trapdoor
+Bless	保佑 [bao you]	actions	object	Exposed altar
+Deposit-eggs	存蛋 [cun dan]	actions	object	Easter mine cart
+Redeem	赎回 [shu hui]	actions	object	Agility dispenser
+Squeeze-Through	挤穿 [ji chuan]	actions	object	Crevice
+Jump-Across	跳跃式 [tiao yue shi]	actions	object	Dry stone wall
+Cross-over	交叉 [jiao cha]	actions	object	Broken wall
+Take-many	多取多取 [duo qu duo qu]	actions	object	Medical box
+Slide-along	滑行式 [hua xing shi]	actions	object	Icy ledge
+Take-uniform	制服 [zhi fu]	actions	object	Wardrobe
+Concentrate-potion	浓缩药水 [nong suo yao shui]	actions	object	Retort
+Homogenise-potion	均质药水 [jun zhi yao shui]	actions	object	Agitator
+Crystalise-potion	结晶药水 [jie jing yao shui]	actions	object	Alembic
+Fulfil-order	履行订单 [lv xing ding dan]	actions	object	Conveyor belt
+Fight-privately	私下打斗 [si xia da dou]	actions	object	Meeting flag
+Leave-group	离群 [li qun]	actions	object	Meeting flag (private)
+Quick-slide	快速滑轨 [kuai su hua gui]	actions	object	Slope
+Change	改变 [gai bian]	actions	object	Scarecrow
+Plant	植物 [zhi wu]	actions	object	Pumpkin patch
+Carve-pumpkin	雕刻南瓜 [diao ke nan gua]	actions	object	Pumpkin carving table
+Walk-to	步行至 [bu xing zhi]	actions	object	Blue tile
+Channel (Varlamore)	海峡（瓦尔拉莫尔） [hai xia （ wa er la mo er ）]	actions	object	Waystone
+Reinvigorate	重振活力 [zhong zhen huo li]	actions	object	Book of Eternal Flame
+Trophies	奖杯 [jiang bei]	actions	object	Teak display
+Bottom-Floor	底层 [di ceng]	actions	object	Ladder
+Quench	淬火 [cui huo]	actions	object	Pool of ichor
+Hang-over	宿醉 [su zui]	actions	object	Platform edge
+Follow	跟随 [gen sui]	actions	player	
+Trade with	贸易与 [mao yi yu]	actions	player	
+Lookup	抬头 [tai tou]	actions	player	
+Equipment	设备 [she bei]	actions	player	
+Report	报告 [bao gao]	actions	player	
